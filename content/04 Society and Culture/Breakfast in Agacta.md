@@ -1,6 +1,6 @@
 # Breakfast in Agacta
 
-Breakfast in Agacta generally takes one of two forms: the **quick, continental-style breakfast of the normal working week**, and the much more substantial **Country Breakfast** traditionally associated with weekends, rural areas and morning travel.
+Breakfast in Agacta generally takes one of two forms: the **quick, continental-style breakfast of the normal working week**, and the much more substantial **Country Breakfast** traditionally associated with weekends, rural areas and morning travel. And it is biblical. 
 
 Although the two meals are quite different, both reflect some of the strongest features of Agactan food culture: fresh bread, regional produce, relatively simple combinations and an emphasis on the quality of the ingredients rather than a large number of different components.
 
