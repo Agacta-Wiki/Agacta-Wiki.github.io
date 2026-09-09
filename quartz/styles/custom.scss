@@ -1,3 +1,293 @@
-@use "./variables.scss" as *;
+/* =========================================================
+   AGACTA ENCYCLOPEDIA
+   Wikipedia-inspired reading layout with Agactan identity
+   ========================================================= */
 
-// put your custom CSS here!
+/* ---------- Overall page ---------- */
+
+body {
+  background: #ffffff;
+  color: #202122;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+/* Make the central article feel like the main event */
+.center {
+  max-width: 900px;
+}
+
+/* ---------- Article typography ---------- */
+
+article {
+  font-size: 1rem;
+  line-height: 1.68;
+}
+
+article p {
+  margin-top: 0.65rem;
+  margin-bottom: 0.85rem;
+}
+
+/* Main article title */
+.article-title,
+article h1 {
+  color: #102c54;
+  font-family: var(--headerFont);
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+/* Wikipedia-like heading rules */
+article h1 {
+  font-size: 2.25rem;
+  border-bottom: 3px solid #102c54;
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.7rem;
+}
+
+article h2 {
+  color: #102c54;
+  font-family: var(--headerFont);
+  font-size: 1.55rem;
+  font-weight: 500;
+  border-bottom: 1px solid #a2a9b1;
+  padding-bottom: 0.22rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.75rem;
+}
+
+article h3 {
+  color: #102c54;
+  font-size: 1.18rem;
+  margin-top: 1.7rem;
+}
+
+/* A small Agactan red detail on major headings */
+article h2::before {
+  content: "";
+  display: inline-block;
+  width: 4px;
+  height: 1em;
+  margin-right: 0.45rem;
+  background: #b21f35;
+  vertical-align: -0.08em;
+}
+
+/* ---------- Links ---------- */
+
+a {
+  color: #1683b5;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b21f35;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* ---------- Metadata ---------- */
+
+.content-meta {
+  color: #72777d;
+  font-size: 0.82rem;
+  margin-bottom: 1.4rem;
+}
+
+/* ---------- Left sidebar ---------- */
+
+.sidebar {
+  font-size: 0.91rem;
+}
+
+/* Site title */
+.page-title {
+  font-family: var(--headerFont);
+  font-weight: 600;
+}
+
+.page-title a {
+  color: #102c54 !important;
+  font-size: 1.35rem;
+}
+
+/* Explorer */
+.explorer {
+  border-top: 3px solid #102c54;
+  padding-top: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.explorer button,
+.explorer h2 {
+  color: #102c54;
+  font-weight: 600;
+}
+
+.explorer-content a {
+  color: #30363d;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.explorer-content a:hover {
+  color: #1683b5;
+}
+
+/* ---------- Right-hand contents ---------- */
+
+.toc {
+  border-left: 1px solid #eaecf0;
+  padding-left: 1rem;
+  font-size: 0.85rem;
+}
+
+.toc a {
+  color: #54595d;
+}
+
+.toc a:hover {
+  color: #1683b5;
+}
+
+/* ---------- Search / controls ---------- */
+
+button,
+.search-button {
+  border-radius: 2px !important;
+}
+
+.search-button {
+  border: 1px solid #a2a9b1;
+  background: #ffffff;
+}
+
+/* ---------- Tables ---------- */
+
+article table {
+  border-collapse: collapse;
+  margin: 1.3rem 0;
+  font-size: 0.94rem;
+}
+
+article th,
+article td {
+  border: 1px solid #a2a9b1;
+  padding: 0.45rem 0.65rem;
+}
+
+article th {
+  background: #eaecf0;
+  color: #102c54;
+  font-weight: 600;
+}
+
+/* ---------- Blockquotes ---------- */
+
+article blockquote {
+  border-left: 4px solid #1683b5;
+  background: #f8f9fa;
+  padding: 0.6rem 1rem;
+  margin-left: 0;
+}
+
+/* ---------- Horizontal rules ---------- */
+
+article hr {
+  border: 0;
+  border-top: 1px solid #a2a9b1;
+  margin: 2rem 0;
+}
+
+/* ---------- Footer ---------- */
+
+footer {
+  border-top: 1px solid #eaecf0;
+  color: #72777d;
+  font-size: 0.8rem;
+  margin-top: 3rem;
+  padding-top: 1rem;
+}
+
+/* ---------- Dark mode ---------- */
+
+[saved-theme="dark"] body {
+  background: #141923;
+}
+
+[saved-theme="dark"] article h1,
+[saved-theme="dark"] article h2,
+[saved-theme="dark"] article h3 {
+  color: #f4f5f7;
+}
+
+[saved-theme="dark"] article h1 {
+  border-bottom-color: #72bee4;
+}
+
+[saved-theme="dark"] .explorer {
+  border-top-color: #72bee4;
+}
+
+/* ---------- More comfortable paragraph spacing ---------- */
+
+article p {
+  margin-top: 0;
+  margin-bottom: 1.35rem;
+}
+
+/* Extra breathing room after lists */
+article ul,
+article ol {
+  margin-bottom: 1.35rem;
+}
+
+/* Keep paragraphs following headings comfortably separated */
+article h2 + p,
+article h3 + p {
+  margin-top: 0.75rem;
+}
+
+/* ---------- Stronger section separation ---------- */
+
+/* Major new sections */
+article h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Subsections */
+article h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.85rem;
+}
+
+/* Smaller subsection headings */
+article h4 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Don't create a huge gap if a heading is first in the article */
+article > h2:first-child,
+article > h3:first-child {
+  margin-top: 1rem;
+}
+
+/* ---------- Clearly separated encyclopedia sections ---------- */
+
+article h2 {
+  margin-top: 5.5rem !important;
+  margin-bottom: 1.25rem !important;
+}
+
+article h3 {
+  margin-top: 3.5rem !important;
+  margin-bottom: 1rem !important;
+}
+
+article h4 {
+  margin-top: 2.75rem !important;
+  margin-bottom: 0.9rem !important;
+}
