@@ -1,8 +1,13 @@
-# Agacta Wiki
+# Encyclopedia of Agacta
 
-Welcome to the encyclopedia of Agacta.
+Welcome to the Encyclopedia of Agacta.
 
-## Explore
+## Contents
 
-- [[Breakfast in Agacta]]
-- [[Coffee in Agacta]] 
+- [[01 History]]
+- [[02 Geography]]
+- [[03 Politics]]
+- [[04 Society and Culture]]
+- [[05 Sport]]
+- [[06 Media]]
+- [[07 Economy and Infastructure]]
