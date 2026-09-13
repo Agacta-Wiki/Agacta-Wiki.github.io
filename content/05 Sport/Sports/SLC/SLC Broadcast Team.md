@@ -1,226 +1,448 @@
+
 # SLC Broadcast Team
 
 ## Overview
 
-**Super League Combat (SLC)** uses a relatively small broadcast team designed to match the promotion's intimate, underground presentation.
+The **Super League Combat (SLC)** broadcast team is deliberately small and closely integrated into the promotion's overall identity.
 
-Rather than filling commentary with too many voices, SLC normally uses a **two-person commentary booth**, supported by backstage interviewers and occasional guest commentators.
+SLC normally uses a **two-person commentary booth**:
 
-The regular broadcast team consists of:
+- **Limebeck** — play-by-play
+- **Lemonbeck** — colour commentary
 
-- **Limebeck** — play-by-play commentator
-- **Lemonbeck** — colour commentator
-- **Kiana Martins** — backstage interviewer and feature presenter
-- **Tropicbeck** — backstage interviewer and feature presenter
+Backstage and ringside interviews are primarily handled by:
 
-The team also contributes creatively behind the scenes, although their on-screen roles remain separate from their production responsibilities.
+- **Kiana Martins**
+- **Tropicbeck**
+
+The compact structure reflects SLC's underground presentation. Rather than sounding like a large corporate sports broadcast, the team is intended to feel like a group of people who genuinely know the wrestlers, the building, and the history of the promotion.
+
+Broadcast personalities are allowed to develop relationships, grudges, running jokes, and reputations over time.
+
+They are not intended to feel interchangeable.
 
 ---
 
 # Limebeck
 
-**Limebeck** is SLC's primary play-by-play commentator.
+**Role:** Lead play-by-play commentator
 
-His commentary style is heavily influenced by traditional sports broadcasting.
+Limebeck is the primary voice of SLC.
 
-He focuses on:
+His commentary style combines the enthusiasm of traditional professional wrestling commentary with the structure and vocabulary of conventional sports broadcasting.
 
-- match strategy;
-- statistics;
-- records;
+He is particularly interested in:
+
+- win-loss records;
 - rankings;
 - tournament implications;
-- technical detail;
-- competitive context.
+- match strategy;
+- technical wrestling;
+- international wrestling styles;
+- physical conditioning;
+- accumulated damage;
+- tactical mistakes.
 
-Limebeck generally presents matches seriously and attempts to explain why wrestlers are making particular tactical decisions.
+Limebeck is generally neutral and is intended to function as the audience's most reliable narrator.
 
-He is usually neutral to babyface in tone but is not intended to act as a cheerleader for every heroic wrestler.
+He may strongly approve or disapprove of a wrestler's actions, but he does not automatically side with babyfaces or treat heels as incompetent.
 
-His role is to make SLC feel like a genuine sporting competition while still reacting naturally to major storyline developments.
+## Personality
 
-## Commentary Style
+Limebeck is a major sports enthusiast and brings that mentality into wrestling.
 
-Limebeck is particularly interested in:
+His influences include traditional wrestling commentary, association football broadcasting, combat sports, and old-school wrestling philosophies that emphasise believable competition.
+
+He particularly enjoys:
 
 - technical wrestling;
-- amateur wrestling;
-- international wrestling styles;
-- competitive structures;
-- win-loss records;
-- long-term championship implications.
+- tournaments;
+- rankings;
+- clearly defined stakes;
+- strong match psychology;
+- wrestlers who adapt strategically during a match.
 
-He is generally sceptical of excessively choreographed wrestling, overly theatrical match structures, and angles that undermine sporting logic.
+He is sceptical of:
+
+- excessively choreographed sequences;
+- cinematic wrestling;
+- meaningless high spots;
+- overly complicated finishes;
+- matches in which selling and physical damage are quickly forgotten.
+
+Limebeck does not reject spectacle, but believes spectacle works best when the audience can still believe in the contest.
+
+## Role in Storytelling
+
+Limebeck is intended to remain largely outside active feuds.
+
+He is the link between the audience and the wrestling world rather than another participant constantly looking for television time.
+
+This makes occasions when Limebeck becomes genuinely angry, frightened, or emotionally invested more significant.
+
+He occasionally conducts serious long-form interviews with major wrestlers.
+
+These interviews are normally used for:
+
+- major career developments;
+- emotionally important rivalries;
+- championship programmes;
+- wrestlers questioning their future;
+- retrospective discussions with veterans.
+
+The tone is deliberately different from SLC's more chaotic backstage environment.
 
 ---
 
 # Lemonbeck
 
-**Lemonbeck** is SLC's regular colour commentator.
+**Role:** Colour commentator
 
-He provides a more personality-driven counterpoint to Limebeck's sporting presentation.
+Lemonbeck is SLC's regular heel-leaning colour commentator and one of the promotion's most unpredictable on-screen personalities.
 
-Lemonbeck is usually heel-leaning and enjoys:
+His style combines humour, arrogance, shameless bias, strong opinions, and occasional surprisingly perceptive analysis.
 
-- arrogance;
+He frequently supports heels, particularly when he considers them:
+
+- clever;
+- charismatic;
+- dominant;
+- entertaining;
+- strategically ruthless.
+
+However, Lemonbeck is not required to defend every heel action.
+
+He can acknowledge when a babyface has impressed him or when a heel has made an obvious mistake.
+
+## Personality
+
+Lemonbeck enjoys stirring conflict.
+
+He has a particular appreciation for:
+
 - star power;
-- spectacle;
-- strong characters;
+- big personalities;
 - faction politics;
 - psychological manipulation;
-- controversial personalities.
+- spectacle;
+- wrestling history;
+- colourful characters.
 
-His commentary can be sarcastic, provocative, and deliberately irritating.
+He is also willing to say things that Limebeck would consider irresponsible, inappropriate, or simply ridiculous.
 
-He is not expected to agree with heel wrestlers automatically, but he is far more willing than Limebeck to defend questionable behaviour if he considers it entertaining, clever, or effective.
+This creates much of the chemistry between the two commentators.
 
-## Commentary Style
+Limebeck attempts to explain the match.
 
-Lemonbeck frequently focuses on:
+Lemonbeck frequently attempts to explain why the most objectionable person involved may actually have a point.
 
-- personality;
-- motivation;
-- backstage politics;
-- confidence;
-- momentum;
-- psychological pressure.
+## Getting in Trouble
 
-He is particularly effective when paired with wrestlers who are smug, manipulative, or self-important.
+A recurring part of Lemonbeck's on-screen character is that he frequently gets himself into trouble.
 
-The contrast between Limebeck and Lemonbeck is central to SLC's commentary style.
+Reasons can include:
 
-Limebeck explains **what is happening and why it matters competitively**.
+- gambling on SLC matches;
+- openly favouring wrestlers he has bet on;
+- accepting questionable hospitality from heels;
+- encouraging arguments during interviews;
+- making inappropriate claims about company decisions;
+- abusing production privileges;
+- involving himself in situations that had nothing to do with him.
 
-Lemonbeck explains **what the wrestlers are thinking, why they might be acting badly, and why he finds some of it entertaining**.
+Jim Barry occasionally appears at commentary looking visibly annoyed.
+
+Limebeck often immediately realises that Barry has come to speak to Lemonbeck.
+
+Lemonbeck may occasionally be:
+
+- warned;
+- fined;
+- removed from commentary;
+- temporarily suspended in storyline;
+- reassigned for part of a show.
+
+These incidents are used sparingly so that they remain funny rather than becoming an automatic weekly routine.
+
+They also provide an organic reason for occasional commentary rotations.
+
+---
+
+# Lemonbeck's Pit
+
+**Lemonbeck's Pit** is Lemonbeck's occasional in-ring interview segment.
+
+It is loosely inspired by the tradition of chaotic wrestling talk-show segments, but has developed its own deliberately absurd presentation.
+
+The segment normally features two wrestlers who are already involved in a rivalry.
+
+Lemonbeck claims that his purpose is to encourage open dialogue.
+
+In practice, he usually makes the situation considerably worse.
+
+## Entrance
+
+Lemonbeck makes an unnecessarily elaborate entrance carrying bagpipes.
+
+Scottish music plays while he very obviously pretends to perform on them.
+
+He regularly claims to be partly Scottish, but the exact amount changes every time.
+
+He has also repeatedly claimed to be distantly related to famous Scottish wrestlers, with the relationship becoming increasingly implausible.
+
+Examples may include claims such as:
+
+> "I'm one twenty-seventh Scottish."
+
+or:
+
+> "We're third cousins twice removed. Probably."
+
+## The Segment
+
+Lemonbeck begins by pretending to conduct a serious interview.
+
+He then:
+
+- selectively quotes previous comments;
+- asks provocative questions;
+- exaggerates disagreements;
+- encourages wrestlers to respond directly to insults;
+- occasionally takes one wrestler's side.
+
+The segment has a strong tendency to end in an argument or physical confrontation.
+
+Lemonbeck frequently attempts to escape the ring once the situation becomes dangerous.
+
+A long-running joke is Lemonbeck repeatedly asking Jim Barry whether **Lemonbeck's Pit** can one day main-event a major SLC event.
+
+The answer has consistently been no.
 
 ---
 
 # Kiana Martins
 
-**Kiana Martins** is one of SLC's primary backstage interviewers and feature presenters.
+**Role:** Backstage interviewer, feature presenter and occasional commentator
 
-Her style is particularly suited to:
+Kiana Martins is one of SLC's primary backstage personalities.
 
-- character-driven interviews;
+Her interviews are usually live or presented as occurring within the active environment of the show.
+
+This reflects SLC's preference for a rougher, less polished presentation.
+
+Rather than appearing on a perfectly controlled interview set, Kiana may interview wrestlers:
+
+- backstage;
+- near the entrance area;
+- beside the ring;
+- in corridors;
+- in converted airport spaces;
+- immediately following a match.
+
+This creates opportunities for interruptions and unexpected interactions.
+
+## Personality
+
+Kiana is a long-time wrestling fan with particular interest in:
+
 - wrestling history;
-- long-term storylines;
-- indie wrestling background;
-- major career milestones;
-- emotional developments.
+- independent wrestling;
+- unusual characters;
+- underdogs;
+- cruiserweight and high-flying wrestling;
+- wrestling lore;
+- long-term character development.
 
-Kiana is often used when a segment requires more context than a simple post-match reaction.
+Outside wrestling, she is a major fan of:
 
-She can explain a wrestler's history without turning the segment into a lecture and is particularly useful when introducing wrestlers with long careers outside SLC.
+- science fiction;
+- comics;
+- video games;
+- genre television.
 
-## Role
+She originally became especially interested in independent wrestling, TNA, ROH and PWG after becoming dissatisfied with mainstream wrestling during the late 2000s.
 
-Kiana frequently handles interviews involving:
+That background influences the wrestlers and stories she naturally gravitates toward.
 
-- major championship programmes;
-- veteran wrestlers;
-- younger wrestlers undergoing character development;
-- long-term rivalries;
-- wrestlers arriving from other promotions.
+## Interview Style
 
-She is also well suited to sit-down interviews and longer-form features.
+Kiana tends to ask questions about:
+
+- motivation;
+- personal history;
+- consequences;
+- emotional state;
+- career ambitions.
+
+She is knowledgeable enough to challenge wrestlers when their claims contradict their actual record.
+
+Her enthusiasm can occasionally become visible when interviewing wrestlers whose careers or styles she particularly admires.
 
 ---
 
 # Tropicbeck
 
-**Tropicbeck** is SLC's other regular backstage interviewer and feature presenter.
+**Role:** Backstage interviewer, feature presenter and talent-focused correspondent
 
-His approach is more immediate and grounded than Kiana's.
+Tropicbeck shares interview duties with Kiana but has a different style.
 
-He is commonly used for:
+His approach is usually more immediate, grounded, and conversational.
+
+He often handles:
 
 - post-match reactions;
-- short backstage interviews;
-- locker-room developments;
-- emotional responses;
-- talent disputes;
-- quick updates during shows.
+- locker-room disputes;
+- short-form interviews;
+- breaking developments;
+- confrontations that happen naturally during the show.
 
-Tropicbeck is particularly effective when the story requires a wrestler to react naturally rather than deliver a long prepared statement.
+## Personality
 
-## Role
+Tropicbeck has broad wrestling tastes and tends to value balance.
 
-He often helps connect the audience to the practical reality of SLC's backstage environment.
+His influences include:
 
-His segments tend to feel less formal and more like the camera has entered an active workplace.
+- late-1990s WCW;
+- ECW;
+- the Attitude Era;
+- 2000s independent wrestling.
+
+He appreciates both strong storytelling and athletic wrestling and is particularly concerned with whether something feels emotionally authentic.
+
+This makes Tropicbeck well suited to stories involving:
+
+- tension within teams;
+- changing alliances;
+- frustration;
+- wrestler morale;
+- personal rivalries.
+
+He is often the interviewer most likely to ask a simple question and then allow the wrestler to carry the segment.
 
 ---
 
-# Guest Commentary
+# Jim Barry
 
-SLC occasionally uses guest commentators for individual matches.
+**Role:** SLC President and occasional broadcast guest
 
-These appearances are normally tied directly to the story.
+Jim Barry is not a regular member of the commentary team.
 
-Examples include:
+He may occasionally appear:
 
-- a wrestler scouting a future opponent;
-- a faction leader observing a member;
-- a veteran providing technical insight;
-- a rival attempting to influence the narrative around a match.
+- during a major championship match;
+- during a major company announcement;
+- during a controversy involving SLC management;
+- when additional context is required about the operation of the promotion.
 
-Guest commentary is used sparingly so that the regular two-person booth remains the default.
+Barry has basic professional wrestling training and previous limited in-ring experience.
 
-**Kevin Nash** has previously appeared as a guest commentator.
+He understands how to take bumps and has enough wrestling knowledge to discuss matches without sounding detached from the performers.
+
+However, his primary role remains company president rather than television authority figure.
+
+He does not routinely book matches on-screen or dominate SLC programming.
+
+---
+
+# Training and Physical Involvement
+
+SLC's core broadcast and creative personalities have undergone basic professional wrestling training.
+
+The philosophy behind this is that people responsible for presenting and producing wrestling should understand the physical demands placed on performers.
+
+Training includes:
+
+- learning how to bump safely;
+- basic ring movement;
+- rope and turnbuckle awareness;
+- simple holds and escapes;
+- basic wrestling psychology.
+
+Limebeck is unlikely to become physically involved in storylines because maintaining his credibility as SLC's neutral narrator is considered more important.
+
+Lemonbeck is significantly more willing to take bumps when his own behaviour gets him into trouble.
+
+Kiana is also willing to become physically involved if a storyline naturally calls for it.
+
+Physical involvement from broadcasters remains unusual.
+
+---
+
+# Commentary Rotation
+
+The standard SLC commentary team is:
+
+**Limebeck and Lemonbeck**
+
+This is deliberately a two-person booth.
+
+A three-person commentary team is generally considered too polished and crowded for SLC's intimate underground presentation.
+
+Occasional changes can occur when required by story or circumstance.
+
+Possible configurations include:
+
+- Limebeck with a guest wrestler;
+- Limebeck with Kiana;
+- Kiana with Lemonbeck;
+- Limebeck alone for a short period;
+- Jim Barry joining for a major match.
+
+These are exceptions rather than the standard format.
+
+The audience should first recognise Limebeck and Lemonbeck as the defining voices of SLC.
+
+---
+
+# Interviews
+
+SLC generally prefers interviews to feel immediate.
+
+Kiana and Tropicbeck conduct most interviews live within the environment of the show.
+
+This allows:
+
+- wrestlers to interrupt one another;
+- background activity to become part of scenes;
+- storylines to collide unexpectedly;
+- the converted airport setting to remain visible.
+
+The relative lack of polish is intentional.
+
+SLC should feel like events are happening inside an active wrestling promotion rather than on a perfectly controlled television set.
+
+---
+
+# Fire Theme
+
+The official theme of **SLC Fire** is:
+
+**"Making a Fire" — Foo Fighters**
+
+The song reflects SLC's preference for alternative rock with strong connections to the late-1990s and early-2000s musical culture that influences much of the promotion's presentation.
+
+Although released later than that era, the song retains the sound and energy associated with one of its most prominent bands.
+
+The title also directly connects with the name of SLC's primary weekly programme.
+
+"Making a Fire" is closely associated with the atmosphere of Fire and plays during the programme's opening presentation.
 
 ---
 
 # Broadcast Philosophy
 
-SLC commentary is intended to support the promotion's mixture of narrative and sporting credibility.
+SLC's broadcast presentation is intended to feel:
 
-The commentators are expected to explain:
+- knowledgeable;
+- intimate;
+- spontaneous;
+- slightly rough around the edges;
+- emotionally connected to the wrestlers.
 
-- why a match matters;
-- what a wrestler is attempting;
-- how previous results affect the current story;
-- where a wrestler stands in the championship picture;
-- how physical damage is influencing the match.
+The team should sound like people working inside a strange wrestling promotion based in an abandoned airport, not interchangeable presenters reading corporate dialogue.
 
-The team avoids treating every moment as equally important.
+The standard booth provides stability.
 
-A routine near-fall is not called like the end of Champion's Way.
+The backstage environment provides unpredictability.
 
-A significant upset or championship change should therefore feel more important because the commentary has room to escalate naturally.
-
----
-
-# Relationship with SLC's Style
-
-The broadcast team reflects SLC's broader identity.
-
-The promotion is less polished than the largest international wrestling companies and deliberately retains a more intimate feel.
-
-Commentary therefore avoids sounding excessively scripted or corporate.
-
-The booth is expected to feel knowledgeable but conversational.
-
-The audience should feel as though Limebeck and Lemonbeck genuinely know the wrestlers, understand the promotion, and have opinions about what is happening.
-
-Backstage interviews follow the same principle.
-
-Kiana and Tropicbeck are not simply microphone holders.
-
-They are familiar figures within the SLC environment who develop relationships with wrestlers and become recognisable parts of the promotion's world.
-
----
-
-# Behind the Scenes
-
-All four regular broadcast personalities also contribute to SLC creatively.
-
-Their principal behind-the-scenes roles include:
-
-- **Lemonbeck** — head booker
-- **Limebeck** — creative team member, with particular focus on sporting logic and match structure
-- **Kiana Martins** — creative team member, with particular focus on character arcs, wrestling history, and long-term storytelling
-- **Tropicbeck** — creative team member, with particular focus on talent presentation, pacing, and backstage relationships
-
-These responsibilities are not normally discussed on SLC programming.
-
-On screen, they continue to function primarily as commentators, interviewers, and presenters.
+Together they help make the audience feel that they know not only SLC's wrestlers, but the people who inhabit the promotion around them.
