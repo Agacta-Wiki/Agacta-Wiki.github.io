@@ -11,3 +11,5 @@ Welcome to the Encyclopedia of Agacta.
 - [[05 Sport]]
 - [[06 Media]]
 - [[07 Economy and Infastructure]]
+- [[08 Altur and International]]
+- [[09 SLC]]
