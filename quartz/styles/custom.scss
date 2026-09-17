@@ -291,3 +291,21 @@ article h4 {
   margin-top: 2.75rem !important;
   margin-bottom: 0.9rem !important;
 }
+
+/* Wikipedia-style article links */
+article a.internal,
+article a.external {
+  color: #1683b5 !important;
+  background: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  text-decoration: none;
+}
+
+article a.internal:hover,
+article a.external:hover {
+  color: #b21f35 !important;
+  background: transparent !important;
+  text-decoration: underline;
+}
