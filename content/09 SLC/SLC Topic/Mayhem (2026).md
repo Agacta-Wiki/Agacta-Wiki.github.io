@@ -16,7 +16,7 @@ The event also featured victories for **George Pembrook**, **Desmond Boyce**, **
 | ------------------ | ------------------- |
 | **Promotion**      | Super League Combat |
 | **Date**           | 22 August 2026      |
-| **City**           |                     |
+| **City**           | Treslio, Agacta     |
 | **Venue**          | SLC Arena           |
 | **Attendance**     | 1,500               |
 | **Status**         | Sell-out            |
