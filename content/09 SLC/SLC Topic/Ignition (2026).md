@@ -1,6 +1,6 @@
 # Ignition (2026)
 
-**Ignition (2026)** was a professional wrestling pay-per-view event produced by **Super League Combat (SLC)**. It took place on **17 April 2026** at the **SLC Arena** in **Treslio, Agacta**.
+**Ignition (2026)** was a professional wrestling pay-per-view event produced by **Super League Combat (SLC)**. It took place on **17 April 2026** at the **SLC Arena**.
 
 The event was the first pay-per-view in SLC history and was held in front of a sell-out crowd of **1,500 spectators**.
 
@@ -12,16 +12,16 @@ Elsewhere, **Dante Navarro** defeated veteran **Kevin Nash**, **Simon Vale** def
 
 ## Event information
 
-| Event | Details |
-|---|---|
-| **Promotion** | Super League Combat |
-| **Date** | 17 April 2026 |
-| **City** | Treslio, Agacta |
-| **Venue** | SLC Arena |
-| **Attendance** | 1,500 |
-| **Status** | Sell-out |
+| Event                | Details                |
+| -------------------- | ---------------------- |
+| **Promotion**        | Super League Combat    |
+| **Date**             | 17 April 2026          |
+| **City**             |                        |
+| **Venue**            | SLC Arena              |
+| **Attendance**       | 1,500                  |
+| **Status**           | Sell-out               |
 | **Event chronology** | First SLC pay-per-view |
-| **Next event** | Mayhem |
+| **Next event**       | Mayhem                 |
 
 ---
 

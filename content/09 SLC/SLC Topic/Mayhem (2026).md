@@ -1,6 +1,6 @@
 # Mayhem (2026)
 
-**Mayhem (2026)** was a professional wrestling pay-per-view event produced by **Super League Combat (SLC)**. It took place on **22 August 2026** at the **SLC Arena** in **Treslio, Agacta**.
+**Mayhem (2026)** was a professional wrestling pay-per-view event produced by **Super League Combat (SLC)**. It took place on **22 August 2026** at the **SLC Arena**.
 
 The event was held in front of a sell-out crowd of **1,500 spectators** and featured eight matches.
 
@@ -12,16 +12,16 @@ The event also featured victories for **George Pembrook**, **Desmond Boyce**, **
 
 ## Event information
 
-| Event | Details |
-|---|---|
-| **Promotion** | Super League Combat |
-| **Date** | 22 August 2026 |
-| **City** | Treslio, Agacta |
-| **Venue** | SLC Arena |
-| **Attendance** | 1,500 |
-| **Status** | Sell-out |
-| **Previous event** | Ignition |
-| **Next event** | Trial by Combat |
+| Event              | Details             |
+| ------------------ | ------------------- |
+| **Promotion**      | Super League Combat |
+| **Date**           | 22 August 2026      |
+| **City**           |                     |
+| **Venue**          | SLC Arena           |
+| **Attendance**     | 1,500               |
+| **Status**         | Sell-out            |
+| **Previous event** | Ignition            |
+| **Next event**     | Trial by Combat     |
 
 ---
 
