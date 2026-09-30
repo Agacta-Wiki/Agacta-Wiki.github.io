@@ -6,38 +6,39 @@ The soundtrack has a strong transatlantic identity while generally avoiding nu m
 
 ## Current Entrance Themes
 
-| Wrestler / Team / Personality | Entrance Theme | Artist / Source | Notes |
-|---|---|---|---|
-| **The Industry Standard** | *Spitfire* | The Prodigy | Faction theme. |
-| **The Rock and Rap Connection** | *Reverend Black Grape* | Black Grape |  |
-| **Dante Navarro** | *Learn to Fly* | Foo Fighters |  |
-| **Vertex** | *We Are One* | 12 Stones |  |
-| **Matt Riddle** | *My Star* | Ian Brown | Solo theme. |
-| **Pavement Cartel** | *Fantastic Voyage* | Coolio | Used as a face theme with swagger rather than menace. |
-| **Sheamus O'Shaughnassy** | *The Fly* | U2 |  |
-| **Rob Van Dam** | ECW entrance theme | Same as ECW | Retains his established ECW presentation. |
-| **Desmond Boyce** | *The Greatest Showman* theme | TBD version | Exact recording/version not yet specified. |
-| **George Pembrook / Captain Fantasy** | *Captain Fantasy* | Ween |  |
-| **Yoon Tae-Seok** | *Cloudspotter* | Foo Fighters | Connects with his finisher, **Cloudburst**. |
-| **Velociraptor** | *Velociraptor!* | Kasabian | The title makes the song an unusually exact character fit. |
-| **Demolition Jones** | *Dissident* | Pearl Jam |  |
-| **Lemonbeck** | *Highland Cathedral* | Traditional / instrumental | Sole current theme for Lemonbeck. |
-| **Kiana Martins** | *Sugar, We're Goin Down* | Fall Out Boy |  |
-| **Limebeck** | *Here It Goes Again* | OK Go |  |
-| **Tropicbeck** | *Ocean Man* | Ween | SLC originally licensed the song for a possible wrestler gimmick. It was never used for that purpose, so Tropicbeck received it despite the song having no particular connection to him. |
-| **Jim Barry** | *Millionaire* | Beady Eye | Used ironically for the babyface owner/commissioner, in the spirit of an exuberant face authority figure rather than an evil-billionaire presentation. |
-| **Simon Vale** | *Lucid Dreams* | Franz Ferdinand |  |
-| **The Bannons / Bannons in Pyjamas** | *The Bannons in Pyjamas* | Custom SLC recording | Parody/re-recording of the *Bananas in Pyjamas* theme, sung by Lemonbeck. |
-| **Fabrizzio** | Italian pizzeria / singing-waiter music | Traditional-style Italian music | Deliberately broad comedy presentation fitting Fabrizzio's singing-waiter gimmick. |
-| **Champagne Syndicate** | *Panic Station* | Muse |  |
-| **Douglas Wright** | *Working My Way Back to You* | The Four Seasons |  |
-| **Maria Barry** | *Fell in Love with a Girl* | The White Stripes |  |
-| **Quo Zabay** | *Alane* | Wes |  |
-| **Kevin Nash** | *Voodoo Child (Slight Return)* | Jimi Hendrix |  |
-| **El Masko** | *La Camisa Negra* | Juanes |  |
-| **Prince Barry** | *Prince Barry, Fabulous He* | Custom SLC recording | *Prince Ali*-style parody recorded for SLC and sung by Lemonbeck. |
-| **Buck Harwood** | Generic entrance music | TBD | Temporary placeholder. |
-| **Mark Henry** | Generic entrance music | TBD | Temporary placeholder. |
+| Wrestler / Team / Personality         | Entrance Theme                          | Artist / Source                 | Notes                                                                                                                                                                                    |
+| ------------------------------------- | --------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Industry Standard**             | *Spitfire*                              | The Prodigy                     | Faction theme.                                                                                                                                                                           |
+| **The Rock and Rap Connection**       | *Reverend Black Grape*                  | Black Grape                     |                                                                                                                                                                                          |
+| **Dante Navarro**                     | *Learn to Fly*                          | Foo Fighters                    |                                                                                                                                                                                          |
+| **Vertex**                            | *We Are One*                            | 12 Stones                       |                                                                                                                                                                                          |
+| **Matt Riddle**                       | *My Star*                               | Ian Brown                       | Solo theme. Astronaut audio replaced with commentary from Riddle's previous fights                                                                                                       |
+| **Pavement Cartel**                   | *Fantastic Voyage*                      | Coolio                          | Used as a face theme with swagger rather than menace.                                                                                                                                    |
+| **Sheamus O'Shaughnassy**             | *The Fly*                               | U2                              |                                                                                                                                                                                          |
+| **Rob Van Dam**                       | ECW entrance theme                      | Same as ECW                     | Retains his established ECW presentation.                                                                                                                                                |
+| **Desmond Boyce**                     | *The Greatest Showman* theme            | TBD version                     | Exact recording/version not yet specified.                                                                                                                                               |
+| **George Pembrook / Captain Fantasy** | *Captain Fantasy*                       | Ween                            |                                                                                                                                                                                          |
+| **Yoon Tae-Seok**                     | *Cloudspotter*                          | Foo Fighters                    | Connects with his finisher, **Cloudburst**.                                                                                                                                              |
+| **Velociraptor**                      | *Velociraptor!*                         | Kasabian                        | The title makes the song an unusually exact character fit.                                                                                                                               |
+| **Demolition Jones**                  | *Dissident*                             | Pearl Jam                       |                                                                                                                                                                                          |
+| **Lemonbeck**                         | *Highland Cathedral*                    | Traditional / instrumental      | Sole current theme for Lemonbeck.                                                                                                                                                        |
+| **Kiana Martins**                     | *Sugar, We're Goin Down*                | Fall Out Boy                    |                                                                                                                                                                                          |
+| **Limebeck**                          | *Here It Goes Again*                    | OK Go                           |                                                                                                                                                                                          |
+| **Tropicbeck**                        | *Ocean Man*                             | Ween                            | SLC originally licensed the song for a possible wrestler gimmick. It was never used for that purpose, so Tropicbeck received it despite the song having no particular connection to him. |
+| **Jim Barry**                         | *Millionaire*                           | Beady Eye                       | Used ironically for the babyface owner/commissioner, in the spirit of an exuberant face authority figure rather than an evil-billionaire presentation.                                   |
+| **Simon Vale**                        | *Lucid Dreams*                          | Franz Ferdinand                 |                                                                                                                                                                                          |
+| **The Bannons / Bannons in Pyjamas**  | *The Bannons in Pyjamas*                | Custom SLC recording            | Parody/re-recording of the *Bananas in Pyjamas* theme, sung by Lemonbeck.                                                                                                                |
+| **Fabrizzio**                         | Italian pizzeria / singing-waiter music | Traditional-style Italian music | Deliberately broad comedy presentation fitting Fabrizzio's singing-waiter gimmick.                                                                                                       |
+| **Champagne Syndicate**               | *Panic Station*                         | Muse                            |                                                                                                                                                                                          |
+| **Douglas Wright**                    | *Working My Way Back to You*            | The Four Seasons                |                                                                                                                                                                                          |
+| **Maria Barry**                       | *Fell in Love with a Girl*              | The White Stripes               |                                                                                                                                                                                          |
+| **Quo Zabay**                         | _Kelen Ati Leen_                        | Orchestra Baobab                |                                                                                                                                                                                          |
+| **Kevin Nash**                        | *Voodoo Child (Slight Return)*          | Jimi Hendrix                    |                                                                                                                                                                                          |
+| **El Masko**                          | Guadalajara                             | Mariachi Vargas de Tecalitlán   |                                                                                                                                                                                          |
+| **Prince Barry**                      | Coronation March                        | Classical                       |                                                                                                                                                                                          |
+| **Buck Harwood**                      | Generic entrance music                  | TBD                             | Temporary placeholder.                                                                                                                                                                   |
+| **Mark Henry**                        | Generic entrance music                  | TBD                             | Temporary placeholder.                                                                                                                                                                   |
+| **The Delegation**                    |                                         |                                 |                                                                                                                                                                                          |
 
 ## Custom SLC Recordings
 
