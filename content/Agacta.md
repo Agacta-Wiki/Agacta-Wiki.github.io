@@ -1,3 +1,7 @@
+---
+title: "Agacta"
+---
+
 # Agacta
   
 Welcome to the Agacta Encyclopedia.  

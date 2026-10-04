@@ -1,3 +1,7 @@
+---
+title: "Rivalries in Agactan sport"
+---
+
 # Rivalries in Agactan sport
 
 Sporting rivalries in Agacta are primarily based on competition between the nineteen provincial franchises of the [[Agactan Sports Commission]] (ASC).

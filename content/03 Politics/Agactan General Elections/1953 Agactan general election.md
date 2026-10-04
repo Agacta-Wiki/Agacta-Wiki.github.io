@@ -1,3 +1,7 @@
+---
+title: "1953 Agactan general election"
+---
+
 # 1953 Agactan general election
   
 The **1953 Agactan general election** was held on **___ 1953** and was the first parliamentary election conducted under the Constitution of 1952. It established the political framework of the modern Republic of Agacta and produced the country's first government under the new constitutional order.  

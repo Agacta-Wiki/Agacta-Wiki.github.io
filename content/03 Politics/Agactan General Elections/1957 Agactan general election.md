@@ -1,3 +1,7 @@
+---
+title: "1957 Agactan general election"
+---
+
 # 1957 Agactan general election
 
 The **1957 Agactan general election** was held on **___ 1957** to elect the 240 members of the [[Parliament of Agacta]]. It was the second general election held under the [[Constitution of Agacta|1952 Constitution]].  

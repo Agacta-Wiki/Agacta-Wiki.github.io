@@ -1,3 +1,7 @@
+---
+title: "Local Transport in Agacta"
+---
+
 # Local Transport in Agacta
 
 Local public transport in [[Agacta]] is characterised by a mixture of historic tramways, suburban railways, metro, monorail and bus services. There is no single standard model used throughout the country. Individual cities developed their networks according to local geography, population, historical infrastructure and municipal transport policy.

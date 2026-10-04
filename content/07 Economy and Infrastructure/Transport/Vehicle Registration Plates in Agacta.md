@@ -1,3 +1,7 @@
+---
+title: "Vehicle Registration Plates in Agacta"
+---
+
 # Vehicle Registration Plates in Agacta
 
 Vehicle registration plates in [[Agacta]] use a nationally unified system in which registrations are **randomly allocated and contain no geographical or chronological information**. The current system was introduced in **2005**, replacing an older province-based format.

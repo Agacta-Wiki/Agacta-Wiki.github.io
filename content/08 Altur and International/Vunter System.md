@@ -1,3 +1,7 @@
+---
+title: "Vunter System"
+---
+
 # Vunter System
 
 The **Vunter system** is the planetary system containing **Altur**. It has **ten planets**, numbered in order of their distance from the star. Altur is the fourth planet.

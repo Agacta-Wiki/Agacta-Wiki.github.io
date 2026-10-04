@@ -1,3 +1,7 @@
+---
+title: "Rail Transport in Agacta"
+---
+
 # Rail Transport in Agacta
 
 Rail transport in [[Agacta]] consists of an extensive high-speed, long-distance, regional and suburban network. The mainland network combines publicly owned infrastructure with open-access competition on high-speed and major long-distance routes, competitive tendering on several major regional networks, and direct operation of other regional services by the state-owned [[Agacta Naciona Fervojo]] (ANF).

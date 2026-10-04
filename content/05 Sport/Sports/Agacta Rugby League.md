@@ -1,3 +1,7 @@
+---
+title: "Rugby league in Agacta"
+---
+
 # Rugby league in Agacta
 
 **Rugby league** is a major professional sport in Agacta and is organised by the [[Agactan Sports Commission]] (ASC).

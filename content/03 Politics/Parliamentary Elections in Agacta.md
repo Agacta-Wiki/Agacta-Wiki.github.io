@@ -1,3 +1,7 @@
+---
+title: "Parliamentary elections in Agacta"
+---
+
 # Parliamentary elections in Agacta
 
 Parliamentary elections have been held every four years in Agacta since the introduction of the 1952 Constitution. Members of Parliament are elected using the country's mixed-member proportional (MMP) electoral system.

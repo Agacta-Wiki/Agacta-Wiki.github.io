@@ -1,3 +1,7 @@
+---
+title: "Currency of Agacta"
+---
+
 # Currency of Agacta
 
 Agacta's national currency is the **Valuto**, written with the symbol **Ʋ** and the currency code **AGV**.

@@ -1,3 +1,7 @@
+---
+title: "Encyclopedia of Agacta"
+---
+
 # Encyclopedia of Agacta
 
 Welcome to the Encyclopedia of Agacta.

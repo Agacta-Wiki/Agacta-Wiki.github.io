@@ -1,3 +1,7 @@
+---
+title: "1997 Agactan general election"
+---
+
 # 1997 Agactan general election
 
 The **1997 Agactan general election** was held on **___ 1997** to elect the 240 members of the [[Parliament of Agacta]].

@@ -1,3 +1,7 @@
+---
+title: "1961 Agactan general election"
+---
+
 # 1961 Agactan general election
 
 The **1961 Agactan general election** was held on **___ 1961** to elect the 240 members of the [[Parliament of Agacta]].

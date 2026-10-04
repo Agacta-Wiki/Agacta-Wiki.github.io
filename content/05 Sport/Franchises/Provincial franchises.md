@@ -1,3 +1,7 @@
+---
+title: "Provincial franchises"
+---
+
 # Provincial franchises
 
 The **provincial franchises** are the highest level of professional sport in Agacta. Each of the country's **19 provinces** (15 mainland provinces and 4 overseas territories) is represented by a single franchise, which competes across multiple sports administered by the [[Agactan Sports Commission]] (ASC).

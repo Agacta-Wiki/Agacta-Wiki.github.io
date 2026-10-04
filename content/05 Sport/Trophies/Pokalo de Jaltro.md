@@ -1,3 +1,7 @@
+---
+title: "Pokalo de Jaltro"
+---
+
 # Pokalo de Jaltro
 
 The **Pokalo de Jaltro**, commonly known simply as **the Jaltro**, is the championship trophy awarded to the winner of the [[Agactan Rules Football]] Grand Final.

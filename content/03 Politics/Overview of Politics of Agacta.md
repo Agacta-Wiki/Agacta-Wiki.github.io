@@ -1,3 +1,7 @@
+---
+title: "Politics of Agacta"
+---
+
 # Politics of Agacta
 
 ## Overview

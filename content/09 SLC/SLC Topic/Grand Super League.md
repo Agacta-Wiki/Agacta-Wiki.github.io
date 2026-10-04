@@ -1,3 +1,7 @@
+---
+title: "Grand Super League"
+---
+
 # Grand Super League
 
 ## Overview

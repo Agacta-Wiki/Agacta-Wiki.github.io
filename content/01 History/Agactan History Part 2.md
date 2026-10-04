@@ -1,3 +1,7 @@
+---
+title: "Agactan History"
+---
+
 # Agactan History
 
 Agacta's political history includes its unification around 1200, its incorporation into Sensin's Kingdom of Kingdoms in 1608, and its emergence as an independent republic in 1811. The struggle over independence involved three distinct positions: continued union with Sensin, an independent republic, and an independent Agactan monarchy. The republican settlement prevailed, although rival monarchist movements survived through the nineteenth century before becoming marginal by the early twentieth century.

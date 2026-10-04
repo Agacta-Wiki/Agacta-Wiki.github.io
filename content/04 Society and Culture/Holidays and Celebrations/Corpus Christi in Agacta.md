@@ -1,3 +1,7 @@
+---
+title: "Corpus Christi in Agacta"
+---
+
 # Corpus Christi in Agacta
 
 **Corpus Christi** is one of the major religious, cultural and community festivals of [[Agacta]]. Originating during the period when most Agactans were Catholic, the celebration retains many features of the traditional Catholic feast while developing a distinctly Agactan identity. It is commonly regarded as the **"Christmas of the summer"**, forming a bright, outdoor counterpart to the winter Christmas season.

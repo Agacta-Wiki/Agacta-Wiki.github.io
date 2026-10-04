@@ -1,3 +1,7 @@
+---
+title: "Sport in Agacta"
+---
+
 # Sport in Agacta
 
 Sport occupies a central place in Agactan society and is widely regarded as one of the country's defining cultural institutions. Participation rates are among the highest in Altur, while professional and amateur competitions attract large attendances throughout the year.

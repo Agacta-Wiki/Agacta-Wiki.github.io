@@ -1,3 +1,7 @@
+---
+title: "SLC Dojo"
+---
+
 # SLC Dojo
 
 ## Overview

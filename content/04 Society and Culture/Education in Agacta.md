@@ -1,3 +1,7 @@
+---
+title: "Education in Agacta"
+---
+
 # Education in Agacta
 
 Education in Agacta is divided into four main stages:

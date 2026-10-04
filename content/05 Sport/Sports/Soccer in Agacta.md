@@ -1,3 +1,7 @@
+---
+title: "Soccer in Agacta"
+---
+
 # Soccer in Agacta
 
 **Soccer** is one of the most popular sports in Agacta alongside [[Agactan Rules Football]]. It is administered by the [[Agactan Sports Commission]] (ASC), which organises professional and amateur competitions throughout the country.

@@ -1,3 +1,7 @@
+---
+title: "Mayhem (2026)"
+---
+
 # Mayhem (2026)
 
 **Mayhem (2026)** was a professional wrestling pay-per-view event produced by **Super League Combat (SLC)**. It took place on **22 August 2026** at the **SLC Arena**.

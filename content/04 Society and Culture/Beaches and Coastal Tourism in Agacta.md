@@ -1,3 +1,7 @@
+---
+title: "Beaches and Coastal Tourism in Agacta"
+---
+
 # Beaches and Coastal Tourism in Agacta
 
 Agacta's mainland coastline stretches for approximately **650 km** along the eastern side of the country. The mainland has no western coastline, bordering **Luum** to the north and northwest, **Alaram** to the southwest and **Sensin** to the south. As a result, nearly all of the country's beach tourism is concentrated along the eastern seaboard.

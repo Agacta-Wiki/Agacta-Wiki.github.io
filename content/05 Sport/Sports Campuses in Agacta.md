@@ -1,3 +1,7 @@
+---
+title: "Sports campuses in Agacta"
+---
+
 # Sports campuses in Agacta
 
 **Sports campuses** are large multi-sport complexes used by the provincial franchises of the [[Agactan Sports Commission]] (ASC). They form a distinctive feature of professional sport in Agacta and serve as the principal sporting homes of the country's nineteen provincial franchises.

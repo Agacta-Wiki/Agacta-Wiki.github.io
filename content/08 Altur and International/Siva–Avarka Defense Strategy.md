@@ -1,3 +1,7 @@
+---
+title: "Siva–Avarka Defense Strategy"
+---
+
 # Siva–Avarka Defense Strategy
 
 The **Siva–Avarka Defense Strategy (SADS)** is a framework for military cooperation between eight Alturian nations: **Agacta, Sensin, Luum, Flyma, Skiburg, Sudo, Singa and Slica**.

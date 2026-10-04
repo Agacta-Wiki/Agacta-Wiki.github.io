@@ -1,3 +1,7 @@
+---
+title: "Kopa de Metcalfe"
+---
+
 # Kopa de Metcalfe
 
 The **Kopa de Metcalfe** is the championship trophy of top-level [[Rugby league in Agacta|rugby league in Agacta]]. Named after British soldier and rugby league pioneer [[James Metcalfe]], it is awarded annually to the winner of the national rugby league postseason organised by the [[Agactan Sports Commission]] (ASC).

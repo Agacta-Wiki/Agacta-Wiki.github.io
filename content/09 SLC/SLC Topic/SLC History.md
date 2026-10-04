@@ -1,3 +1,7 @@
+---
+title: "SLC History"
+---
+
 # SLC History
 
 ## Origins

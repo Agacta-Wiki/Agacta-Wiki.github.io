@@ -1,3 +1,7 @@
+---
+title: "SLC Teams and Factions"
+---
+
 # SLC Teams and Factions
 
 ## Overview

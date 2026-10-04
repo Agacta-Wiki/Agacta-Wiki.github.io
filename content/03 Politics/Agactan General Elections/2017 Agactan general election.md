@@ -1,3 +1,7 @@
+---
+title: "2017 Agactan general election"
+---
+
 # 2017 Agactan general election
 
 The **2017 Agactan general election** was held on **___ 2017** to elect the 240 members of the [[Parliament of Agacta]].

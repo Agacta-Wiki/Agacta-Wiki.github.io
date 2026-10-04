@@ -1,3 +1,7 @@
+---
+title: "Agactan Rules Football (ARF)"
+---
+
 # Agactan Rules Football (ARF)
 
 ## Agactan Rules Football

@@ -1,3 +1,7 @@
+---
+title: "Television in Agacta – Analogue Era"
+---
+
 # Television in Agacta – Analogue Era
 
 Television broadcasting in **Agacta** began in 1950 and developed relatively rapidly, with television becoming a normal feature of Agactan households during the early to mid-1950s. The country's analogue terrestrial system eventually consisted of two national public channels, three national commercial broadcasters and a network of regional public channels, alongside separate services in the overseas territories.

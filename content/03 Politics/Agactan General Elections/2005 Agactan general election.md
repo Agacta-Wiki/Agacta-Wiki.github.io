@@ -1,3 +1,7 @@
+---
+title: "2005 Agactan general election"
+---
+
 # 2005 Agactan general election
 
 The **2005 Agactan general election** was held on **___ 2005** to elect the 240 members of the [[Parliament of Agacta]].

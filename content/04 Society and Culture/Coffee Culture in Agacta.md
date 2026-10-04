@@ -1,3 +1,7 @@
+---
+title: "Coffee Culture in Agacta"
+---
+
 # Coffee Culture in Agacta
 
 Coffee is an important part of everyday life in [Agacta](Agacta), with the country having developed a distinctive coffee tradition from the espresso culture originally introduced by Italian immigrants. Although its origins are recognisably Italian, Agactan coffee evolved considerably to suit local tastes and is now regarded as a culture of its own.

@@ -1,3 +1,7 @@
+---
+title: "Cable and Satellite Television in Agacta"
+---
+
 # Cable and Satellite Television in Agacta
 
 **Cable and satellite television in [[Agacta]]** developed during the mid-1980s, initially as a means of distributing mainland television services to the country's [[Overseas territories of Agacta|overseas territories]]. From these origins it developed into a substantial multichannel television industry during the late 1980s and 1990s.
