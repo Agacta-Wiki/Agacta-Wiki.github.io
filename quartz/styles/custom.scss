@@ -309,3 +309,9 @@ article a.external:hover {
   background: transparent !important;
   text-decoration: underline;
 }
+
+/* Remove decorative vertical bars before section headings */
+article h2::before {
+  content: none !important;
+  display: none !important;
+}
