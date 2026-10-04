@@ -1,10 +1,12 @@
+# 1957 Agactan general election
+
 The **1957 Agactan general election** was held on **___ 1957** to elect the 240 members of the [[Parliament of Agacta]]. It was the second general election held under the [[Constitution of Agacta|1952 Constitution]].  
   
 The election resulted in a landslide victory for the governing [[Socialist Party]], led by Prime Minister [[Josio Valtro]], who secured an increased parliamentary majority and a second consecutive term in office.  
   
 ---  
   
-# Background
+## Background
   
 The election took place during the formative years of the modern republic. Since the first constitutional government, Prime Minister Josio Valtro had overseen the consolidation of the state's democratic institutions while promoting economic development, agricultural modernisation and national reconstruction.  
   
@@ -12,7 +14,7 @@ The campaign focused largely on economic management, housing, agriculture, defen
   
 ---  
   
-# Campaign
+## Campaign
   
 Prime Minister **Josio Valtro** campaigned on his government's record of stability and nation-building. A decorated general during the Alaramian invasion of Setroburg and one of the principal architects of the modern republic, Valtro advocated a broad, centrist vision for Agacta.  
   
@@ -26,7 +28,7 @@ The [[Communist Party]], led by the 27-year-old **Riki Rovmar**, argued for grea
   
 ---  
   
-# Results
+## Results
   
 | Party | Leader | Seats | +/- |  
 |-------|--------|------:|----:|  
@@ -37,7 +39,7 @@ The [[Communist Party]], led by the 27-year-old **Riki Rovmar**, argued for grea
   
 ---  
   
-# Government formation
+## Government formation
   
 With 148 of the 240 seats in Parliament, the Socialist Party comfortably retained its parliamentary majority.  
   
@@ -45,7 +47,7 @@ President [[President of Agacta]] invited Josio Valtro to form the next governme
   
 ---  
   
-# Analysis
+## Analysis
   
 The election confirmed the Socialist Party's dominant position during the republic's early decades.  
   
@@ -57,7 +59,7 @@ The Liberal Party remained a significant parliamentary presence despite losing s
   
 ---  
   
-# Legacy
+## Legacy
   
 Historians generally regard the 1957 election as the high-water mark of the early Valtro era.  
   
@@ -65,7 +67,7 @@ The election entrenched the Socialist Party as the natural party of government a
   
 ---  
   
-# See also
+## See also
   
 - [[Parliamentary Elections in Agacta]]  
 - [[Politics of Agacta]]  
