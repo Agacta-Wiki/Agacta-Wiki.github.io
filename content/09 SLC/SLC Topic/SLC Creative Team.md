@@ -30,7 +30,7 @@ The creative team plans major storylines well in advance but allows wrestlers co
 
 ---
 
-# Lemonbeck
+## Lemonbeck
 
 **Role:** Head Booker
 
@@ -40,7 +40,7 @@ He took over primary booking duties after Jim Barry became increasingly occupied
 
 His appointment also coincided with SLC becoming slightly more chaotic, colourful, and unpredictable.
 
-## Background
+### Background
 
 Lemonbeck grew up as a major WCW fan during the Monday Night Wars.
 
@@ -58,7 +58,7 @@ However, Lemonbeck is equally interested in narrative television.
 
 Series built around long-term mysteries, evolving relationships, major twists, and interconnected character arcs strongly influence the way he approaches wrestling storytelling.
 
-## Booking Philosophy
+### Booking Philosophy
 
 Lemonbeck believes wrestling should be entertaining before it becomes anything else.
 
@@ -78,7 +78,7 @@ He likes twists, but strongly dislikes twists that exist purely for shock value.
 
 A surprise should make the audience rethink what they have already seen rather than make previous episodes meaningless.
 
-## Presentation
+### Presentation
 
 Lemonbeck enjoys strong visual presentation and wants wrestlers to look distinctive.
 
@@ -97,7 +97,7 @@ Unlike some of his earlier creative instincts, he no longer believes SLC should 
 
 The abandoned-airport atmosphere is now considered one of the company's most valuable assets.
 
-## Wrestling Style
+### Wrestling Style
 
 Lemonbeck does not have a strong preference between:
 
@@ -111,7 +111,7 @@ His main requirement is that the wrestler can tell a story and connect with the 
 
 He is particularly fond of opening major shows with fast-paced matches that immediately energise the crowd.
 
-## Celebrity Involvement
+### Celebrity Involvement
 
 Lemonbeck is open to celebrity involvement when there is a natural connection to wrestling's audience.
 
@@ -126,7 +126,7 @@ He is more interested in:
 
 He is much less interested in celebrities appearing solely because they are famous.
 
-## Other Promotions
+### Other Promotions
 
 Lemonbeck previously had a stronger instinct toward wrestling promotional rivalry.
 
@@ -140,7 +140,7 @@ The company's view is:
 
 Lemonbeck now channels his competitive instincts into making SLC more entertaining rather than taking shots at rival companies.
 
-## Strengths
+### Strengths
 
 Lemonbeck is particularly strong at:
 
@@ -151,7 +151,7 @@ Lemonbeck is particularly strong at:
 - improving character presentation;
 - building layered stories over several months.
 
-## Weaknesses
+### Weaknesses
 
 Left completely unchecked, Lemonbeck can:
 
@@ -164,7 +164,7 @@ The rest of the creative team frequently acts as a filter for these instincts.
 
 ---
 
-# Jim Barry
+## Jim Barry
 
 **Role:** SLC President / Senior Creative Adviser
 
@@ -174,7 +174,7 @@ As the promotion and **Invictus Sport** expanded, his administrative workload in
 
 Barry remains involved in major creative decisions and serves as the group's principal mediator.
 
-## Background
+### Background
 
 Barry has one of the broadest wrestling backgrounds on the creative team.
 
@@ -202,7 +202,7 @@ Barry later trained as a professional wrestler and worked intermittently on the 
 
 Although he never became a major wrestling star, the experience gave him an understanding of wrestling from both the performer and promoter perspective.
 
-## Philosophy
+### Philosophy
 
 Barry's key word is **balance**.
 
@@ -225,7 +225,7 @@ Barry therefore believes strongly in **card flow**.
 
 Lighter matches, unusual personalities, and lower-card comedy can serve as palate cleansers between major story beats.
 
-## Long-Term Storytelling
+### Long-Term Storytelling
 
 Barry particularly enjoys long babyface journeys.
 
@@ -241,7 +241,7 @@ than simply become champion immediately because the audience likes them.
 
 This philosophy strongly influences wrestlers such as **Dante Navarro**.
 
-## Match Structure
+### Match Structure
 
 Barry generally prefers:
 
@@ -253,7 +253,7 @@ He believes multi-person and heavily gimmicked matches become more effective whe
 
 A cage, Hardcore Ascent, Steel Siege, or other unusual match should feel like an escalation.
 
-## Leadership Style
+### Leadership Style
 
 Barry is democratic.
 
@@ -270,19 +270,19 @@ Although he no longer books every episode himself, Barry can intervene when:
 - a major signing is being discussed;
 - an idea could fundamentally change SLC's identity.
 
-## On Show Days
+### On Show Days
 
 When Barry is not required on camera, he can often be found around **gorilla position**, production, or other parts of the SLC Arena overseeing the operation of the show.
 
 ---
 
-# Limebeck
+## Limebeck
 
 **Role:** Creative Team / Sporting Structure
 
 Limebeck is the strongest advocate for treating professional wrestling as a legitimate sporting contest.
 
-## Background
+### Background
 
 Limebeck is an obsessive sports fan.
 
@@ -299,7 +299,7 @@ present statistics, standings, competition, and major events.
 
 His wrestling influences include traditional wrestling realism and the sport-oriented philosophies associated with figures such as **Jim Cornette** and **Antonio Inoki**.
 
-## Philosophy
+### Philosophy
 
 Limebeck's key word is **sport**.
 
@@ -319,7 +319,7 @@ This includes:
 
 He believes championships should normally be earned rather than granted because two wrestlers happened to argue backstage.
 
-## Match Philosophy
+### Match Philosophy
 
 Limebeck particularly enjoys:
 
@@ -339,7 +339,7 @@ Examples of things he dislikes include:
 - someone standing on a ladder for an implausibly long period instead of winning;
 - repeated sequences that appear rehearsed rather than competitive.
 
-## Storytelling
+### Storytelling
 
 Limebeck prefers rivalries to develop through things such as:
 
@@ -352,7 +352,7 @@ Limebeck prefers rivalries to develop through things such as:
 
 He believes a storyline does not need to become unrealistic simply because wrestling is predetermined.
 
-## Tournaments
+### Tournaments
 
 Limebeck is one of the strongest advocates for:
 
@@ -365,7 +365,7 @@ Limebeck is one of the strongest advocates for:
 
 He also strongly favours saving major first-time matches for important events rather than giving them away casually.
 
-## International Wrestling
+### International Wrestling
 
 Limebeck regularly advocates incorporating ideas from wrestling cultures outside North America.
 
@@ -379,7 +379,7 @@ He is interested in traditions from:
 
 The goal is not to imitate another promotion but to make SLC's wrestling vocabulary broader.
 
-## Dislikes
+### Dislikes
 
 Limebeck strongly dislikes:
 
@@ -390,7 +390,7 @@ Limebeck strongly dislikes:
 - meaningless multi-person matches;
 - finishes that require referees to behave irrationally.
 
-## Strengths
+### Strengths
 
 Limebeck provides:
 
@@ -400,7 +400,7 @@ Limebeck provides:
 - statistical consistency;
 - protection against excessive hot-shotting.
 
-## Weaknesses
+### Weaknesses
 
 If left completely unchecked, Limebeck's version of SLC could become:
 
@@ -413,13 +413,13 @@ Lemonbeck and Kiana frequently push him to accept that occasionally the most ent
 
 ---
 
-# Kiana Martins
+## Kiana Martins
 
 **Role:** Creative Team / Innovation and Indie Wrestling
 
 Kiana Martins represents the strongest modern independent-wrestling influence on the creative team.
 
-## Background
+### Background
 
 Kiana belongs to a younger wrestling generation than the other core members.
 
@@ -448,7 +448,7 @@ Outside wrestling, Kiana is strongly interested in:
 
 These interests occasionally influence characters, presentation ideas, and storyline concepts.
 
-## Philosophy
+### Philosophy
 
 Kiana's key word is **exciting**.
 
@@ -467,7 +467,7 @@ A match can matter because:
 
 She strongly dislikes completely disposable matches.
 
-## Wrestling Styles
+### Wrestling Styles
 
 Kiana particularly enjoys:
 
@@ -486,7 +486,7 @@ She is especially attracted to:
 - eccentric wrestlers;
 - performers with obvious individuality.
 
-## Character Philosophy
+### Character Philosophy
 
 Kiana believes wrestlers should be encouraged to amplify their own personalities rather than being forced into generic roles.
 
@@ -500,7 +500,7 @@ She frequently advocates for wrestlers who seem:
 
 Rather than smoothing away those traits, she usually wants to make them part of the attraction.
 
-## Wins and Losses
+### Wins and Losses
 
 Kiana agrees strongly with Limebeck that victories and defeats should matter.
 
@@ -508,7 +508,7 @@ However, she is more willing to temporarily bend strict sporting logic if doing 
 
 This is one of their regular creative disagreements.
 
-## Innovation
+### Innovation
 
 Kiana regularly pushes SLC to:
 
@@ -519,7 +519,7 @@ Kiana regularly pushes SLC to:
 
 At the same time, her strong knowledge of wrestling history means she frequently builds new ideas from older wrestling concepts.
 
-## Strengths
+### Strengths
 
 Kiana is particularly strong at:
 
@@ -530,7 +530,7 @@ Kiana is particularly strong at:
 - finding unusual character hooks;
 - keeping SLC contemporary.
 
-## Weaknesses
+### Weaknesses
 
 If completely unchecked, Kiana can:
 
@@ -541,13 +541,13 @@ If completely unchecked, Kiana can:
 
 ---
 
-# Tropicbeck
+## Tropicbeck
 
 **Role:** Creative Team / Character and Atmosphere
 
 Tropicbeck focuses primarily on character, atmosphere, and long-term emotional development.
 
-## Background
+### Background
 
 Unlike several other members of the creative team, Tropicbeck does not strongly identify with one wrestling promotion.
 
@@ -567,7 +567,7 @@ His wrestling influences include:
 
 His wider cultural interests include darker film, television, comic-book, and horror influences.
 
-## Philosophy
+### Philosophy
 
 Tropicbeck believes every important wrestler should have a strong identifiable personality.
 
@@ -583,7 +583,7 @@ Their wrestling style should be part of a broader character.
 
 He strongly favours characters that can develop gradually over months or years.
 
-## Character Consistency
+### Character Consistency
 
 Tropicbeck dislikes unnecessary gimmick changes.
 
@@ -597,7 +597,7 @@ If a wrestler is not immediately successful, his preference is usually to:
 
 Completely replacing the character should normally be a last resort.
 
-## Darker Influences
+### Darker Influences
 
 Tropicbeck enjoys:
 
@@ -619,7 +619,7 @@ The wrestling itself should still feel like wrestling.
 
 SLC therefore avoids cinematic matches or situations where supernatural events fundamentally override the promotion's physical reality.
 
-## Managers
+### Managers
 
 Tropicbeck strongly supports the use of managers.
 
@@ -633,7 +633,7 @@ A good manager can become:
 - a source of conflict;
 - a character in their own right.
 
-## Heel Philosophy
+### Heel Philosophy
 
 Tropicbeck was an early advocate for SLC's current approach to heel victories.
 
@@ -650,7 +650,7 @@ He therefore supports a mixture of:
 
 depending on the character and story.
 
-## Wrestling Styles
+### Wrestling Styles
 
 Tropicbeck particularly enjoys:
 
@@ -661,7 +661,7 @@ Tropicbeck particularly enjoys:
 
 He is more willing than Limebeck to push violent or unusual match types when the story has reached the appropriate point.
 
-## Strengths
+### Strengths
 
 Tropicbeck is especially useful for:
 
@@ -672,7 +672,7 @@ Tropicbeck is especially useful for:
 - monster presentation;
 - long-term character arcs.
 
-## Weaknesses
+### Weaknesses
 
 If left completely unchecked, Tropicbeck could:
 
@@ -685,7 +685,7 @@ He is generally relaxed in creative meetings and does not expect every idea he p
 
 ---
 
-# Creative Meetings
+## Creative Meetings
 
 SLC's creative meetings are collaborative.
 
@@ -705,11 +705,11 @@ The different perspectives are considered one of SLC's strengths.
 
 ---
 
-# Creative Tensions
+## Creative Tensions
 
 The members frequently disagree.
 
-## Lemonbeck and Limebeck
+### Lemonbeck and Limebeck
 
 This is perhaps the most obvious creative tension.
 
@@ -730,7 +730,7 @@ Lemonbeck provides energy.
 
 Limebeck provides logic.
 
-## Limebeck and Kiana
+### Limebeck and Kiana
 
 Both believe wins and losses matter.
 
@@ -740,7 +740,7 @@ Limebeck favours sporting consistency.
 
 Kiana is more willing to occasionally break the pattern for an exceptional story.
 
-## Lemonbeck and Kiana
+### Lemonbeck and Kiana
 
 Both enjoy unconventional wrestling but approach it differently.
 
@@ -748,7 +748,7 @@ Lemonbeck tends to think in terms of television drama and presentation.
 
 Kiana tends to think in terms of wrestling culture, underdogs, and crowd excitement.
 
-## Tropicbeck and Limebeck
+### Tropicbeck and Limebeck
 
 Tropicbeck's more atmospheric ideas can collide with Limebeck's desire for realism.
 
@@ -756,7 +756,7 @@ Their compromise often defines SLC's approach:
 
 **the presentation can become strange, but the match should remain believable.**
 
-## Jim Barry
+### Jim Barry
 
 Barry generally acts as the final filter.
 
@@ -769,7 +769,7 @@ He is particularly likely to intervene when an idea:
 
 ---
 
-# Controlled Chaos
+## Controlled Chaos
 
 The current SLC product deliberately contains more unpredictability than the earliest version of the promotion.
 
@@ -798,7 +798,7 @@ They should rarely wonder:
 
 ---
 
-# SLC Creative Identity
+## SLC Creative Identity
 
 No single member of the creative team completely represents SLC.
 

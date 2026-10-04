@@ -6,7 +6,7 @@ The election resulted in a change of government after the [[Constitution Party]]
 
 ---
 
-# Background
+## Background
 
 The election followed four years of Socialist-Liberal coalition government. Despite relative political stability, the governing parties entered the campaign facing growing public concern over the economy and the future direction of the country.
 
@@ -14,7 +14,7 @@ The Constitution Party sought to return to government by presenting itself as a 
 
 ---
 
-# Results
+## Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -25,7 +25,7 @@ The Constitution Party sought to return to government by presenting itself as a 
 
 ---
 
-# Government formation
+## Government formation
 
 Although the Socialist Party remained the largest party in Parliament, it was unable to secure enough support to remain in government.
 
@@ -35,7 +35,7 @@ The President subsequently invited the leader of the Constitution Party to form 
 
 ---
 
-# Analysis
+## Analysis
 
 The election marked another significant step in the transformation of Agactan politics from one-party dominance to a competitive coalition system.
 
@@ -45,7 +45,7 @@ The Communist Party also recorded modest gains, continuing its gradual rise duri
 
 ---
 
-# Legacy
+## Legacy
 
 The 1981 election reinforced the central role of coalition politics within Agacta's parliamentary system.
 
@@ -53,7 +53,7 @@ It further cemented the Liberal Party's reputation as the party that most often 
 
 ---
 
-# See also
+## See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

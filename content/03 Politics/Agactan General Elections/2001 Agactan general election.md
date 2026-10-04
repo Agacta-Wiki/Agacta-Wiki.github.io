@@ -6,7 +6,7 @@ The election resulted in a landslide victory for the [[Socialist Party]], which 
 
 ---
 
-# Background
+## Background
 
 The election followed four years of Socialist majority government.
 
@@ -16,7 +16,7 @@ The Green Party also sought to build upon its parliamentary breakthrough four ye
 
 ---
 
-# Results
+## Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -27,7 +27,7 @@ The Green Party also sought to build upon its parliamentary breakthrough four ye
 
 ---
 
-# Government formation
+## Government formation
 
 The Socialist Party secured an overall majority of **148 seats**, allowing it to form a government without coalition partners.
 
@@ -35,7 +35,7 @@ The President subsequently invited the leader of the Socialist Party to form the
 
 ---
 
-# Analysis
+## Analysis
 
 The election produced one of the most decisive victories in modern Agactan political history.
 
@@ -47,7 +47,7 @@ The Liberal Party recovered from its poor performance in 1997, while the Green P
 
 ---
 
-# Legacy
+## Legacy
 
 The 2001 election represented the high-water mark of Socialist support in the early twenty-first century.
 
@@ -55,7 +55,7 @@ It also confirmed the Green Party's continued growth, while the Constitution Par
 
 ---
 
-# See also
+## See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

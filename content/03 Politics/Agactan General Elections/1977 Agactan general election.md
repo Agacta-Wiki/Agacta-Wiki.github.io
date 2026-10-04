@@ -6,7 +6,7 @@ Although the [[Socialist Party]] lost seats and fell short of an overall majorit
 
 ---
 
-# Background
+## Background
 
 The election followed four years of Socialist majority government after the party's return to office in 1973.
 
@@ -14,7 +14,7 @@ The campaign centred on the government's economic record, public finances and th
 
 ---
 
-# Results
+## Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -25,7 +25,7 @@ The campaign centred on the government's economic record, public finances and th
 
 ---
 
-# Government formation
+## Government formation
 
 The Socialist Party remained the largest party but lost its parliamentary majority.
 
@@ -35,7 +35,7 @@ The President subsequently invited the leader of the Socialist Party to form the
 
 ---
 
-# Analysis
+## Analysis
 
 The election produced another balanced Parliament and further demonstrated the increasingly competitive nature of Agactan politics.
 
@@ -45,7 +45,7 @@ The Communist Party also made modest gains, while the Socialist Party suffered l
 
 ---
 
-# Legacy
+## Legacy
 
 The 1977 election reinforced the Liberal Party's reputation as Agacta's principal kingmaker. It demonstrated that coalition negotiations, rather than simply the size of the largest party, often determined the composition of government.
 
@@ -53,7 +53,7 @@ The result also marked the first coalition government between the Socialist Part
 
 ---
 
-# See also
+## See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

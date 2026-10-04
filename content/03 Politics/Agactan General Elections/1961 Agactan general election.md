@@ -8,7 +8,7 @@ Despite concerns over international security, Prime Minister [[Josio Valtro]] an
 
 ---
 
-# Background
+## Background
 
 By 1961, Agacta was enjoying one of the strongest periods of economic growth in its history. Throughout the 1950s, rising living standards transformed everyday life, with televisions, refrigerators and private motor cars becoming increasingly common in Agactan households.
 
@@ -20,7 +20,7 @@ Although Ricko ultimately halted its expansion, the crisis remained the defining
 
 ---
 
-# Campaign
+## Campaign
 
 Prime Minister **Josio Valtro** campaigned on a message of stability, prosperity and measured leadership.
 
@@ -36,7 +36,7 @@ The [[Communist Party]], led by **Riki Rovmar**, increased its emphasis on peace
 
 ---
 
-# Results
+## Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -47,7 +47,7 @@ The [[Communist Party]], led by **Riki Rovmar**, increased its emphasis on peace
 
 ---
 
-# Government formation
+## Government formation
 
 The Socialist Party retained an overall parliamentary majority and continued in government without the need for coalition partners.
 
@@ -55,7 +55,7 @@ President [[President of Agacta]] reappointed Josio Valtro as Prime Minister.
 
 ---
 
-# Analysis
+## Analysis
 
 The election demonstrated the continued popularity of Josio Valtro despite heightened international tensions.
 
@@ -67,7 +67,7 @@ The Communist Party doubled its parliamentary representation, benefiting from vo
 
 ---
 
-# Legacy
+## Legacy
 
 The 1961 election is widely regarded as the first Agactan general election in which foreign policy overshadowed domestic issues.
 
@@ -75,7 +75,7 @@ It also marked the beginning of the Communist Party's strongest period of parlia
 
 ---
 
-# See also
+## See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Josio Valtro]]

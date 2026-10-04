@@ -6,9 +6,9 @@ The ASC is widely regarded as one of Agacta's most influential institutions and 
 
 ---
 
-# History
+## History
 
-## Foundation (1928)
+### Foundation (1928)
 
 Why it was created.
 
@@ -18,7 +18,7 @@ Early years.
 
 ---
 
-## Expansion
+### Expansion
 
 How it gradually took over administration of different sports.
 
@@ -28,7 +28,7 @@ Development of provincial franchises.
 
 ---
 
-## Modern era
+### Modern era
 
 Current responsibilities.
 
@@ -36,7 +36,7 @@ International reputation.
 
 ---
 
-# Organisation
+## Organisation
 
 Leadership.
 
@@ -48,7 +48,7 @@ Relationship with Government.
 
 ---
 
-# Responsibilities
+## Responsibilities
 
 The ASC is responsible for:
 
@@ -66,27 +66,27 @@ The ASC is responsible for:
 
 ---
 
-# Philosophy
+## Philosophy
 
 This is where I'd really explain **why** Agactan sport is different.
 
 Topics could include:
 
-## Provincial identity
+### Provincial identity
 
-## Community before rivalry
+### Community before rivalry
 
-## Elite competition
+### Elite competition
 
-## Grassroots participation
+### Grassroots participation
 
-## Accessibility
+### Accessibility
 
-## Sporting merit
+### Sporting merit
 
 ---
 
-# Provincial franchise system
+## Provincial franchise system
 
 Overview.
 
@@ -96,7 +96,7 @@ Link to:
 
 ---
 
-# Minority inclusion
+## Minority inclusion
 
 This is something that really makes Agacta distinctive.
 
@@ -116,14 +116,14 @@ Bilingual competitions.
 
 ---
 
-# Sports governed
+## Sports governed
 
-## Indigenous sports
+### Indigenous sports
 
 - Agactan Rules Football
 - Indoor Agactan Rules
 
-## International sports
+### International sports
 
 - Soccer
 - Rugby League
@@ -134,7 +134,7 @@ Bilingual competitions.
 
 ---
 
-# Competitions
+## Competitions
 
 Overview of promotion/relegation.
 
@@ -144,13 +144,13 @@ Minor franchises.
 
 ---
 
-# National teams
+## National teams
 
 Relationship with Agacta national teams.
 
 ---
 
-# Facilities
+## Facilities
 
 Sports campuses.
 
@@ -160,7 +160,7 @@ Training centres.
 
 ---
 
-# Broadcasting
+## Broadcasting
 
 Relationship with
 
@@ -171,7 +171,7 @@ Relationship with
 
 ---
 
-# Cultural significance
+## Cultural significance
 
 This could become one of the best sections.
 
@@ -185,7 +185,7 @@ Things like
 
 ---
 
-# Criticism
+## Criticism
 
 No organisation is perfect.
 
@@ -201,7 +201,7 @@ Possible criticisms:
 
 ---
 
-# See also
+## See also
 
 - [[Sport in Agacta]]
 - [[Provincial franchises]]

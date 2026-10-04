@@ -1,8 +1,8 @@
-# Agacta Encyclopedia  
+# Agacta Encyclopedia
   
 Welcome to the Agacta Encyclopedia.  
   
-## Browse  
+## Browse
   
 - [[Agacta]]  
 - [[History of Agacta]]  

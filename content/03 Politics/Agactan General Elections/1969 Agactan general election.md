@@ -6,7 +6,7 @@ The election resulted in the first change of government since the establishment 
 
 ---
 
-# Background
+## Background
 
 After four consecutive election victories, the governing Socialist Party entered the campaign facing growing voter fatigue and an increasingly competitive opposition.
 
@@ -14,7 +14,7 @@ The Constitution Party sought to present itself as a credible alternative govern
 
 ---
 
-# Results
+## Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -25,7 +25,7 @@ The Constitution Party sought to present itself as a credible alternative govern
 
 ---
 
-# Government formation
+## Government formation
 
 Although the Socialist Party remained the largest party in Parliament, it no longer held an overall majority.
 
@@ -35,7 +35,7 @@ The President subsequently invited the leader of the Constitution Party to form 
 
 ---
 
-# Analysis
+## Analysis
 
 The election represented a watershed moment in Agactan politics.
 
@@ -45,7 +45,7 @@ Although the Constitution Party itself lost seats, its ability to secure a coali
 
 ---
 
-# Legacy
+## Legacy
 
 The 1969 election marked the end of the Socialist Party's prolonged period of uninterrupted rule and demonstrated that coalition politics had become firmly established within the Agactan political system.
 
@@ -53,7 +53,7 @@ It also reinforced the Liberal Party's reputation as the party most capable of d
 
 ---
 
-# See also
+## See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

@@ -8,7 +8,7 @@ The election is chiefly remembered for the dramatic collapse of the [[Green Part
 
 ---
 
-# Background
+## Background
 
 The election followed twelve years of Constitution Party-Liberal coalition government.
 
@@ -18,7 +18,7 @@ The Green Party entered the election as the Official Opposition for the first ti
 
 ---
 
-# Results
+## Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -30,7 +30,7 @@ The Green Party entered the election as the Official Opposition for the first ti
 
 ---
 
-# Government formation
+## Government formation
 
 Although the Constitution Party lost eighteen seats, it remained the largest party in Parliament.
 
@@ -40,7 +40,7 @@ The President subsequently invited the leader of the Constitution Party to form 
 
 ---
 
-# Analysis
+## Analysis
 
 The election produced one of the largest political realignments in recent Agactan history.
 
@@ -54,7 +54,7 @@ The Agacta Left Bloc continued its steady growth, doubling its parliamentary rep
 
 ---
 
-# Legacy
+## Legacy
 
 The 2025 election confirmed the Constitution Party as the dominant governing force in contemporary Agactan politics, while delivering the first fourth consecutive term for any governing party since the establishment of the modern republic.
 
@@ -64,7 +64,7 @@ Many political commentators described the result as the beginning of a new five-
 
 ---
 
-# See also
+## See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

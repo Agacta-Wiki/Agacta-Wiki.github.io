@@ -24,7 +24,7 @@ The regular event cycle is:
 
 ---
 
-# Ignition
+## Ignition
 
 **Month:** April
 
@@ -36,11 +36,11 @@ Ignition is not tied to any particular match type.
 
 Its identity comes primarily from being the point at which SLC begins moving forward again after the previous season's conclusion.
 
-## First Ignition
+### First Ignition
 
 The first Ignition established SLC's original championship structure.
 
-### Results
+#### Results
 
 - **Matt Riddle** defeated **Rob Van Dam** — SLC World Championship
 - **Velociraptor** defeated **Desmond Boyce** — SLC Challenge Championship
@@ -51,7 +51,7 @@ The first Ignition established SLC's original championship structure.
 
 ---
 
-# Mayhem
+## Mayhem
 
 **Month:** May
 
@@ -63,7 +63,7 @@ Mayhem is not a "hardcore PPV".
 
 Instead, the beginning of the Summer of Violence gives the event a slightly more dangerous and unpredictable atmosphere.
 
-## Summer of Violence
+### Summer of Violence
 
 The **Summer of Violence** runs across:
 
@@ -75,11 +75,11 @@ The concept affects atmosphere and presentation more than match structure.
 
 Violent rivalries, unusual stipulations, and physical escalation are more common during this period, but standard wrestling matches remain the majority of the card.
 
-## First Mayhem
+### First Mayhem
 
 The first Mayhem featured eight matches.
 
-### Results
+#### Results
 
 - **Matt Riddle** defeated **Justin Gabriel** — SLC World Championship — 22:40
 - **Yoon Tae-Seok** defeated **Dante Navarro** — 23:46
@@ -98,7 +98,7 @@ Riddle still won the match cleanly.
 
 ---
 
-# Trial by Combat
+## Trial by Combat
 
 **Month:** July
 
@@ -110,7 +110,7 @@ The event often features major championship matches and important long-term riva
 
 Its name reflects the idea of wrestlers being tested rather than requiring any particular stipulation.
 
-## Current Planned Card
+### Current Planned Card
 
 The current planned Trial by Combat card includes:
 
@@ -124,7 +124,7 @@ The current planned Trial by Combat card includes:
 
 ---
 
-# Birthday Bash
+## Birthday Bash
 
 **Month:** August
 
@@ -149,7 +149,7 @@ Birthday Bash closes the Summer of Violence before the promotion moves into the 
 
 ---
 
-# Dimensional Rift
+## Dimensional Rift
 
 **Month:** September
 
@@ -173,13 +173,13 @@ The month can include:
 
 Dimensional Rift is intended to feel unusual and disruptive without making outside wrestlers automatically more important than the regular SLC roster.
 
-## Year One
+### Year One
 
 Dimensional Rift was omitted from SLC's first season and held back until the promotion had developed enough internal history for outside involvement to carry greater significance.
 
 ---
 
-# Total Destruction
+## Total Destruction
 
 **Month:** November
 
@@ -196,7 +196,7 @@ The majority of the card consists of normal SLC business:
 - personal feuds;
 - special attractions where appropriate.
 
-## Grand Super League Qualification
+### Grand Super League Qualification
 
 Total Destruction also plays a limited role in qualification for the **Grand Super League**.
 
@@ -214,7 +214,7 @@ Only one or two matches on the card are normally devoted to Grand Super League q
 
 The rest of the event remains a standard SLC major show.
 
-## Presentation
+### Presentation
 
 Total Destruction may use a subtle autumnal visual identity, including darker seasonal graphics, colder lighting, and late-year imagery.
 
@@ -222,7 +222,7 @@ This is an aesthetic choice rather than a booking requirement.
 
 ---
 
-# Grand Super League Finals
+## Grand Super League Finals
 
 **Month:** December
 
@@ -240,7 +240,7 @@ The event places a stronger-than-usual emphasis on sporting presentation, tourna
 
 ---
 
-# Champion's Way
+## Champion's Way
 
 **Month:** January
 
@@ -260,7 +260,7 @@ Its importance comes from the stories reaching the event rather than from a requ
 
 ---
 
-# Retribution
+## Retribution
 
 **Month:** March
 
@@ -283,7 +283,7 @@ Its purpose is simply to explore the fallout from SLC's biggest event and bring 
 
 ---
 
-# Event Philosophy
+## Event Philosophy
 
 SLC events are designed around **identity rather than obligation**.
 
