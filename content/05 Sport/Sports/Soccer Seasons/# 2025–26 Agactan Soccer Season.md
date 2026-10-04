@@ -11,8 +11,6 @@ tags:
 season: 2025–26
 ---
 
----
-
 # 2025–26 Agactan Soccer Season
 
 The **2025–26 Agactan soccer season** was the [number] season of the modern Agactan league system.

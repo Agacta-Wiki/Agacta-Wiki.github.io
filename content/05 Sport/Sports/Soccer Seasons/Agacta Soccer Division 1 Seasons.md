@@ -13,9 +13,6 @@ competition: Agactan Division 1
 period: 2004–05 to 2025–26
 ---
 
-period: 2004–05 to 2025–26
----
-
 # Agactan Division 1 Historical Standings, 2004–05 to 2025–26
 
 This article records the final standings of the [[Agactan Division 1]] from the 2004–05 season through the 2025–26 season.
