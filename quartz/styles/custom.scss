@@ -315,3 +315,76 @@ article h2::before {
   content: none !important;
   display: none !important;
 }
+
+/* =========================================================
+   SECTION LANDING PAGES
+   ========================================================= */
+
+.section-landing article {
+  max-width: 100%;
+}
+
+.section-landing article > p:first-of-type {
+  font-size: 1.08rem;
+  line-height: 1.7;
+  color: #54595d;
+  max-width: 760px;
+  margin-bottom: 2.5rem;
+}
+
+.section-landing article h2 {
+  margin-top: 2.5rem !important;
+  margin-bottom: 1rem !important;
+  font-size: 1.3rem;
+  border-bottom: none;
+}
+
+.section-landing article h2 + ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+  padding: 0;
+  margin: 0 0 1.75rem;
+  list-style: none;
+}
+
+.section-landing article h2 + ul li {
+  margin: 0;
+}
+
+.section-landing article h2 + ul li a.internal {
+  display: block;
+  padding: 0.9rem 1rem !important;
+  border: 1px solid #eaecf0;
+  border-radius: 8px !important;
+  background: #f8f9fa !important;
+  color: #102c54 !important;
+  font-weight: 600;
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.section-landing article h2 + ul li a.internal:hover {
+  transform: translateY(-1px);
+  border-color: #c8d1dc;
+  box-shadow: 0 3px 10px rgba(16, 44, 84, 0.08);
+  text-decoration: none;
+}
+
+[saved-theme="dark"] .section-landing article > p:first-of-type {
+  color: #c8ccd0;
+}
+
+[saved-theme="dark"] .section-landing article h2 + ul li a.internal {
+  background: #1d2430 !important;
+  border-color: #303846;
+  color: #f4f5f7 !important;
+}
+
+@media (max-width: 700px) {
+  .section-landing article h2 + ul {
+    grid-template-columns: 1fr;
+  }
+}

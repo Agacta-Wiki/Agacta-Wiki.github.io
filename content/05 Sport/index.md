@@ -1,5 +1,7 @@
 ---
 title: "Sport"
+cssclasses:
+  - section-landing
 ---
 
 # Sport
