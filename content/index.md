@@ -4,7 +4,7 @@ title: "Encyclopedia of Agacta"
 
 # Encyclopedia of Agacta
 
-Welcome to the **Encyclopedia of Agacta**, a reference guide to the Republic of Agacta, its history, politics, culture, sport, media, infrastructure, international relations and wider world.
+Welcome to the **Encyclopedia of Agacta**, a reference guide to the Republic of Agacta covering its history, politics, culture, sport, media, infrastructure, international relations and wider world.
 
 ## Explore Agacta
 
