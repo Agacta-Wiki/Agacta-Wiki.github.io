@@ -1,7 +1,3 @@
----
-title: "Rivalries in Agactan sport"
----
-
 # Rivalries in Agactan sport
 
 Sporting rivalries in Agacta are primarily based on competition between the nineteen provincial franchises of the [[Agactan Sports Commission]] (ASC).
@@ -12,9 +8,9 @@ As the same franchise identities are used across multiple sports, major rivalrie
 
 ---
 
-## Major national rivalries
+# Major national rivalries
 
-### The Classic
+## The Classic
 
 **[[Treslio Thunder]] v [[Setroburg Sentinels]]**
 
@@ -24,7 +20,7 @@ It is widely regarded as one of the country's most prestigious sporting fixtures
 
 ---
 
-### The Super Grande
+## The Super Grande
 
 **[[Treslio Thunder]] v [[Nleto Knights]]**
 
@@ -34,7 +30,7 @@ Alongside the Classic and the Monumental, it forms part of the group of major na
 
 ---
 
-### The Monumental
+## The Monumental
 
 **[[Nleto Knights]] v [[Setroburg Sentinels]]**
 
@@ -44,9 +40,9 @@ Together with the Classic and the Super Grande, it forms one of the three princi
 
 ---
 
-## Regional and geographic rivalries
+# Regional and geographic rivalries
 
-### South Derby
+## South Derby
 
 **[[Stototrip Storm]] v [[Nleto Knights]]**
 
@@ -54,7 +50,7 @@ The South Derby is contested between Stototrip and Nleto and is one of the princ
 
 ---
 
-### East Derby
+## East Derby
 
 **[[Treslio Thunder]] v [[Merino Mariners]]**
 
@@ -62,7 +58,7 @@ The East Derby is contested between Treslio and Merino.
 
 ---
 
-### Port Derby
+## Port Derby
 
 **[[Orientoport Owls]] v [[Treslio Thunder]]**
 
@@ -70,7 +66,7 @@ The Port Derby is contested between Orientoport and Treslio.
 
 ---
 
-### Coastal Derby
+## Coastal Derby
 
 **[[Orientoport Owls]] v [[Merino Mariners]]**
 
@@ -78,7 +74,7 @@ The Coastal Derby is contested between Orientoport and Merino.
 
 ---
 
-### Prairie Derby
+## Prairie Derby
 
 **[[Nlastromund Wolves]] v [[Abeldrip Lions]]**
 
@@ -86,7 +82,7 @@ The Prairie Derby is contested between Nlastromund and Abeldrip.
 
 ---
 
-### South Prairie Derby
+## South Prairie Derby
 
 **[[Bantro Bison]] v [[Tarbo Tigers]]**
 
@@ -94,7 +90,7 @@ The South Prairie Derby is contested between Bantro and Tarbo.
 
 ---
 
-### North Derby
+## North Derby
 
 **[[Kalisto Falcons]] v [[Montanomund Mountaineers]]**
 
@@ -102,7 +98,7 @@ The North Derby is contested between Kalisto and Montanomund.
 
 ---
 
-### West-Northwest Derby
+## West-Northwest Derby
 
 **[[Tleva Titans]] v [[Riala Rapids]]**
 
@@ -110,9 +106,9 @@ The West-Northwest Derby is contested between Tleva and Riala.
 
 ---
 
-## Overseas rivalries
+# Overseas rivalries
 
-### Polar Derby
+## Polar Derby
 
 **[[Tlelmund Guardians]] v [[Ulos Blizzard]]**
 
@@ -120,7 +116,7 @@ The Polar Derby is contested between Agacta's two polar overseas territories, Tl
 
 ---
 
-### Tropical Derby
+## Tropical Derby
 
 **[[Savtrio Palms]] v [[Aquatrip Sunsets]]**
 
@@ -128,9 +124,9 @@ The Tropical Derby is contested between Agacta's two tropical overseas territori
 
 ---
 
-## Secondary national rivalries
+# Secondary national rivalries
 
-### Baby Classic
+## Baby Classic
 
 The term **Baby Classic** is most commonly used for fixtures involving [[Setroburg Sentinels]] and a rising challenger to the traditional elite, particularly [[Merino Mariners]] or [[Orientoport Owls]].
 
@@ -138,7 +134,7 @@ The term is generally used when the challenger is competing near the top of a ma
 
 ---
 
-### Baby Super Grande
+## Baby Super Grande
 
 The term **Baby Super Grande** may be applied to a fixture involving [[Treslio Thunder]] and an emerging challenger when the competitive circumstances resemble the national importance of the Super Grande on a smaller scale.
 
@@ -146,7 +142,7 @@ Its use is generally dependent on the form and status of the teams involved.
 
 ---
 
-### Baby Monumental
+## Baby Monumental
 
 The term **Baby Monumental** may similarly be used for fixtures involving [[Nleto Knights]] and a rising challenger when the match acquires wider national significance.
 
@@ -154,7 +150,7 @@ Like other "Baby" rivalry terms, its use is contextual rather than permanent.
 
 ---
 
-## Rivalry culture
+# Rivalry culture
 
 Agactan sporting rivalries differ from many traditional European derbies because the professional franchise system was deliberately designed to minimise internal provincial divisions.
 
@@ -166,7 +162,7 @@ The system has often been contrasted with cities such as Milan or Glasgow, where
 
 ---
 
-## See also
+# See also
 
 - [[Sport in Agacta]]
 - [[Agactan Sports Commission]]

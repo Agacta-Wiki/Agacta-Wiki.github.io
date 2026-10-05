@@ -1,7 +1,3 @@
----
-title: "Beaches and Coastal Tourism in Agacta"
----
-
 # Beaches and Coastal Tourism in Agacta
 
 Agacta's mainland coastline stretches for approximately **650 km** along the eastern side of the country. The mainland has no western coastline, bordering **Luum** to the north and northwest, **Alaram** to the southwest and **Sensin** to the south. As a result, nearly all of the country's beach tourism is concentrated along the eastern seaboard.
@@ -31,9 +27,9 @@ Visitors often describe Agactan resorts as places to slow down rather than place
 
 ---
 
-## Regional Coastal Styles
+# Regional Coastal Styles
 
-### Northern Coast
+## Northern Coast
 
 The northern coastline is the country's most natural and least developed.
 
@@ -67,7 +63,7 @@ The overall atmosphere is peaceful and outdoors-oriented, drawing comparisons wi
 
 ---
 
-### East and South Coast
+## East and South Coast
 
 The East and South Regions contain most of Agacta's seaside resorts and cities.
 
@@ -75,7 +71,7 @@ These areas combine beaches with urban life, making them the country's busiest h
 
 There are two distinct styles of tourism.
 
-#### City and Beach Holidays
+### City and Beach Holidays
 
 One of Agacta's most distinctive holiday traditions is combining a city break with a seaside holiday.
 
@@ -95,7 +91,7 @@ This "city and coast" holiday is considered uniquely Agactan and is popular thro
 
 ---
 
-#### Resort Holidays
+### Resort Holidays
 
 The majority of domestic holidays take place in dedicated seaside resorts.
 
@@ -118,7 +114,7 @@ High-rise buildings are uncommon, and preserving sea views is often an important
 
 ---
 
-## Promenade Culture
+# Promenade Culture
 
 The promenade is the social centre of almost every Agactan resort.
 
@@ -130,7 +126,7 @@ Coffee culture is especially important during the daytime, while beer and wine b
 
 ---
 
-## Food
+# Food
 
 Food forms an important part of every coastal holiday.
 
@@ -161,7 +157,7 @@ Dining is viewed as an important social activity rather than simply eating betwe
 
 ---
 
-## Beach Sports
+# Beach Sports
 
 Sport is deeply woven into Agactan beach culture.
 
@@ -180,7 +176,7 @@ Participation is generally informal, with families and groups of friends joining
 
 ---
 
-## Evening Entertainment
+# Evening Entertainment
 
 Evenings are built around relaxed entertainment rather than loud nightlife.
 
@@ -197,7 +193,7 @@ The overall atmosphere remains calm and sociable rather than party-focused.
 
 ---
 
-## Casinos
+# Casinos
 
 Casinos occupy an unusual place within Agactan holiday culture.
 
@@ -207,7 +203,7 @@ They function as entertainment venues as much as gambling establishments, with r
 
 ---
 
-## Circus
+# Circus
 
 The circus has become one of the defining traditions of an Agactan seaside holiday.
 
@@ -227,7 +223,7 @@ For many families, visiting the circus is as much a holiday tradition as spendin
 
 ---
 
-## Theatre
+# Theatre
 
 Most larger resorts also possess permanent theatres.
 
@@ -242,7 +238,7 @@ Watching a musical or stage production is considered a classic evening activity 
 
 ---
 
-## Lake Setro
+# Lake Setro
 
 Although the West Region has no coastline, **Lake Setro** has developed a remarkably similar tourism culture.
 
@@ -261,7 +257,7 @@ For many Agactans, a holiday at Lake Setro is viewed no differently from one spe
 
 ---
 
-## Overseas Territories
+# Overseas Territories
 
 The **Savtrio Islands** and **Aquatrip** extend the same tourism philosophy into tropical climates.
 
@@ -279,7 +275,7 @@ The principal difference is that beach tourism operates throughout the year than
 
 ---
 
-## Tourism Philosophy
+# Tourism Philosophy
 
 Agactan seaside holidays prioritise quality of life over spectacle.
 

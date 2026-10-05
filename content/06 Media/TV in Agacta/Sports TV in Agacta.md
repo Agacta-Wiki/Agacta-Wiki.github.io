@@ -1,7 +1,3 @@
----
-title: "Sports television in Agacta"
----
-
 # Sports television in Agacta
 
 **Sports television in [[Agacta]]** is dominated by two major subscription broadcasting groups, **[[AgaSat Sport]]** and **[[Invictus Sport]]**, alongside free-to-air coverage provided by the country's traditional terrestrial broadcasters.

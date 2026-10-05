@@ -1,7 +1,3 @@
----
-title: "Breakfast in Agacta"
----
-
 # Breakfast in Agacta
 
 Breakfast in Agacta generally takes one of two forms: the **quick, continental-style breakfast of the normal working week**, and the much more substantial **Country Breakfast** traditionally associated with weekends, rural areas and morning travel. And it is biblical. 

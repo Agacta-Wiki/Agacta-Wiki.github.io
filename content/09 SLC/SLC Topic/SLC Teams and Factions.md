@@ -1,7 +1,3 @@
----
-title: "SLC Teams and Factions"
----
-
 # SLC Teams and Factions
 
 ## Overview
@@ -16,11 +12,11 @@ SLC currently features several major groups ranging from elite wrestling faction
 
 ---
 
-## The Industry Standard
+# The Industry Standard
 
 **The Industry Standard** is one of SLC's most powerful factions.
 
-#### Members
+### Members
 
 - **Matt Riddle**
 - **Simon Vale**
@@ -33,7 +29,7 @@ Rather than portraying themselves as traditional rule-breaking villains, members
 
 They view themselves as wrestlers who should define what excellence in SLC looks like.
 
-### Matt Riddle
+## Matt Riddle
 
 Matt Riddle is the faction's central figure and the first **SLC World Champion**.
 
@@ -41,7 +37,7 @@ Riddle presents himself as an elite combat athlete whose background and ability 
 
 His personality combines confidence, arrogance, and elements of his more relaxed earlier persona.
 
-### Simon Vale
+## Simon Vale
 
 Simon Vale represents technical and amateur wrestling within the faction.
 
@@ -49,7 +45,7 @@ Known as **The Technician**, Vale places enormous value on wrestling ability and
 
 Although initially loyal to Riddle, his ambition and confidence have the potential to create questions over who should ultimately lead The Industry Standard.
 
-### Yoon Tae-Seok
+## Yoon Tae-Seok
 
 Yoon Tae-Seok represents a hard-hitting strong-style approach.
 
@@ -57,7 +53,7 @@ His disciplined striking and physical wrestling style give The Industry Standard
 
 His victory over **Dante Navarro** at Mayhem significantly increased his standing within SLC.
 
-### Kevin Nash
+## Kevin Nash
 
 Kevin Nash adds veteran experience, political intelligence, and star presence.
 
@@ -65,7 +61,7 @@ Unlike the younger members, Nash is not primarily presented as representing a pa
 
 Instead, he functions as an experienced strategist who understands the wrestling business and how to influence it.
 
-#### Entrance Theme
+### Entrance Theme
 
 The Industry Standard enters together to:
 
@@ -73,11 +69,11 @@ The Industry Standard enters together to:
 
 ---
 
-## The Delegation
+# The Delegation
 
 **The Delegation** is a faction led by **Quo Zabay**.
 
-#### Members and Associates
+### Members and Associates
 
 - **Quo Zabay**
 - **Clark Montrose**
@@ -91,7 +87,7 @@ Its members use political connections, negotiation, favours, opportunity, and st
 
 The group is less concerned with proving itself as the best wrestling faction than with ensuring its members occupy advantageous positions.
 
-### Quo Zabay
+## Quo Zabay
 
 Quo Zabay, known as **The Diplomat**, is the faction's leader.
 
@@ -99,7 +95,7 @@ He presents himself as a sophisticated political operator who prefers to influen
 
 Zabay is capable of competing at a high level but frequently sends other members of The Delegation to represent his interests.
 
-### Champagne Syndicate
+## Champagne Syndicate
 
 **Champagne Syndicate** consists of:
 
@@ -110,13 +106,13 @@ They are a polished, arrogant tag team and became the first **SLC Tag Team Champ
 
 Their refined image fits naturally with Zabay's emphasis on status, influence, and presentation.
 
-### Giovanni Vinci
+## Giovanni Vinci
 
 Giovanni Vinci provides The Delegation with a polished European singles wrestler capable of representing the group in important matches.
 
 He often acts as one of Zabay's primary in-ring representatives.
 
-### Mark Henry
+## Mark Henry
 
 Mark Henry serves as the faction's heavyweight presence.
 
@@ -124,11 +120,11 @@ His experience and physical size make him an effective enforcer when Zabay prefe
 
 ---
 
-## Pavement Cartel
+# Pavement Cartel
 
 **Pavement Cartel** is one of SLC's most established groups.
 
-#### Members
+### Members
 
 - **Behemoth**
 - **Trayvon Steel**
@@ -138,23 +134,23 @@ The group combines a street-level identity with three very different wrestling s
 
 They are generally presented as a close-knit unit rather than a faction built around one dominant leader.
 
-### Behemoth
+## Behemoth
 
 Behemoth is the group's heavyweight powerhouse.
 
 He can compete as part of the unit or independently in singles competition.
 
-### Trayvon Steel
+## Trayvon Steel
 
 Trayvon Steel brings speed, athleticism, and cruiserweight-style offence.
 
 He is considered the member with the greatest potential for a significant future singles run.
 
-### Dee Woodland
+## Dee Woodland
 
 Dee Woodland is primarily a tag-team specialist and provides stability to the unit.
 
-#### Identity
+### Identity
 
 Pavement Cartel's presentation emphasizes loyalty, toughness, and street credibility.
 
@@ -162,7 +158,7 @@ They frequently operate as babyfaces or tweeners depending on their opponents.
 
 ---
 
-## The Vertex
+# The Vertex
 
 **The Vertex** is the veteran babyface team of:
 
@@ -179,17 +175,17 @@ The Vertex is treated similarly to legendary tag teams who remain active while c
 
 Their position generally remains around the upper mid-card and tag-team championship scene, although Gabriel is also capable of entering the World Championship picture.
 
-#### Catchphrase
+### Catchphrase
 
 > "You are either Vertex or against us."
 
-#### Entrance Theme
+### Entrance Theme
 
 **"We Are One" — 12 Stones**
 
 The return of the theme is presented as a nostalgia-driven moment rather than an attempt to recreate the past.
 
-#### Ryback
+### Ryback
 
 **Ryback** has history with Gabriel and Slater and may occasionally be associated with The Vertex.
 
@@ -197,7 +193,7 @@ He is not currently considered a permanent core member of the team.
 
 ---
 
-## Rock and Rap Connection
+# Rock and Rap Connection
 
 **Rock and Rap Connection** consists of:
 
@@ -210,25 +206,25 @@ They are managed by:
 
 The team developed from the collision of two very different musical personalities.
 
-### Alfie Rowe
+## Alfie Rowe
 
 Alfie Rowe is heavily influenced by Britpop and carries himself with exaggerated rock-star swagger.
 
 He initially considered hip-hop fundamentally incompatible with his own identity.
 
-### T-Style
+## T-Style
 
 T-Style embraces hip-hop culture and speaks in exaggerated rap slang.
 
 He originally attempted to join Pavement Cartel before being told that the group did not need another member.
 
-### Formation
+## Formation
 
 Music Biz Bob recognised the entertainment value in pairing Alfie and T-Style despite neither man initially wanting to team with the other.
 
 Their contrasting personalities became the foundation of the act.
 
-#### Entrance Theme
+### Entrance Theme
 
 **"Feel Good Inc." — Gorillaz**
 
@@ -236,7 +232,7 @@ The team later adopted a more antagonistic attitude, allowing their musical arro
 
 ---
 
-## Champagne Syndicate
+# Champagne Syndicate
 
 **Champagne Syndicate** consists of:
 
@@ -253,7 +249,7 @@ Their association with Quo Zabay gives them access to The Delegation's wider pol
 
 ---
 
-## Bannons in Pyjamas
+# Bannons in Pyjamas
 
 **Bannons in Pyjamas** consists of:
 
@@ -266,13 +262,13 @@ Their presentation includes banana-inspired costumes and an intentionally absurd
 
 The Bannons can appear sporadically without requiring continuous storylines.
 
-#### Entrance Theme
+### Entrance Theme
 
 The team uses the **Bananas in Pyjamas** theme.
 
 ---
 
-## Temporary and Informal Alliances
+# Temporary and Informal Alliances
 
 SLC also regularly features temporary alliances without automatically treating them as permanent teams.
 
@@ -289,7 +285,7 @@ A temporary partnership is not automatically given a team name or treated as a l
 
 ---
 
-## Team and Faction Philosophy
+# Team and Faction Philosophy
 
 SLC attempts to keep its number of teams and factions manageable.
 

@@ -1,7 +1,3 @@
----
-title: "SLC Match Types and Rules"
----
-
 # SLC Match Types and Rules
 
 ## Overview
@@ -111,9 +107,9 @@ The aim is to preserve the credibility of both finishing moves and ordinary offe
 
 ---
 
-## Special Match Types
+# Special Match Types
 
-### Steel Siege
+## Steel Siege
 
 **Steel Siege** is SLC's major team cage match.
 
@@ -127,7 +123,7 @@ The match is intended to feel dangerous, chaotic, and decisive.
 
 ---
 
-### Hardcore Ascent
+## Hardcore Ascent
 
 **Hardcore Ascent** is SLC's major ladder-based hardcore match.
 
@@ -139,7 +135,7 @@ Hardcore Ascent is not an annual obligation and is only used when the rivalry or
 
 ---
 
-### No Escape
+## No Escape
 
 **No Escape** is SLC's most restrictive enclosed-cage match.
 
@@ -151,7 +147,7 @@ No Escape is considered one of SLC's most serious stipulations.
 
 ---
 
-### Hardcore Match
+## Hardcore Match
 
 A **Hardcore Match** removes most standard restrictions on weapons and outside-the-ring combat.
 
@@ -163,7 +159,7 @@ They are normally used when a rivalry, wrestler, or storyline naturally calls fo
 
 ---
 
-### Steel Cage Match
+## Steel Cage Match
 
 Traditional steel cage matches are used as feud-ending or containment matches.
 
@@ -179,7 +175,7 @@ SLC does not treat the cage as a routine spectacle.
 
 ---
 
-### Two-out-of-Three Falls
+## Two-out-of-Three Falls
 
 Two-out-of-three falls matches are highly respected within SLC.
 
@@ -198,7 +194,7 @@ The format fits SLC's preference for sporting escalation over arbitrary gimmicks
 
 ---
 
-### Submission Match
+## Submission Match
 
 A Submission Match can only be won by forcing the opponent to submit.
 
@@ -206,7 +202,7 @@ The format is generally used for technical wrestlers, specialists, or rivalries 
 
 ---
 
-### Ladder Match
+## Ladder Match
 
 Traditional ladder matches can be used independently of Hardcore Ascent.
 
@@ -214,7 +210,7 @@ A ladder match is generally more focused on the climb and the championship or ob
 
 ---
 
-### Iron Man and Round-Based Matches
+## Iron Man and Round-Based Matches
 
 Iron Man or round-based matches can occasionally be used when the story calls for a prolonged competitive test.
 
@@ -224,9 +220,9 @@ When used, the emphasis is on pacing, endurance, strategy, and cumulative damage
 
 ---
 
-## Championship Rules
+# Championship Rules
 
-### Champion Must Be Defeated
+## Champion Must Be Defeated
 
 In normal championship matches, the champion must be pinned or submitted to lose the title.
 
@@ -236,7 +232,7 @@ SLC avoids situations where a champion loses a championship simply because anoth
 
 ---
 
-### Second Challenge Bet
+## Second Challenge Bet
 
 SLC uses a rule known as the **Second Challenge Bet**.
 
@@ -259,7 +255,7 @@ The rule is intended to prevent repetitive rematches and make second challenges 
 
 ---
 
-### Contender Zero
+## Contender Zero
 
 The winner of the **Contender Zero Tournament** becomes **Contender Zero**.
 
@@ -282,7 +278,7 @@ Once the opportunity has been used, Contender Zero status ends.
 
 ---
 
-## Disqualifications and Cheating
+# Disqualifications and Cheating
 
 SLC does not assume that heel wrestlers must cheat to win.
 
@@ -316,7 +312,7 @@ Because cheating is not automatic, significant cheating incidents carry greater 
 
 ---
 
-## Interference
+# Interference
 
 Outside interference is generally treated seriously.
 
@@ -331,7 +327,7 @@ SLC avoids routine interference that makes referees appear incompetent.
 
 ---
 
-## Referee Stoppages
+# Referee Stoppages
 
 Referees may stop a match when a wrestler is unable to intelligently defend themselves or when continuing would present an unreasonable risk.
 
@@ -345,7 +341,7 @@ Referee stoppages are particularly relevant in:
 
 ---
 
-## Match Philosophy
+# Match Philosophy
 
 SLC's guiding principle is that professional wrestling should feel believable even when the audience understands that it is worked.
 

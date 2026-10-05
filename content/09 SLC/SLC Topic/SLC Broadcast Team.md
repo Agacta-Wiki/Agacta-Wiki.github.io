@@ -1,7 +1,3 @@
----
-title: "SLC Broadcast Team"
----
-
 
 # SLC Broadcast Team
 
@@ -27,7 +23,7 @@ They are not intended to feel interchangeable.
 
 ---
 
-## Limebeck
+# Limebeck
 
 **Role:** Lead play-by-play commentator
 
@@ -51,7 +47,7 @@ Limebeck is generally neutral and is intended to function as the audience's most
 
 He may strongly approve or disapprove of a wrestler's actions, but he does not automatically side with babyfaces or treat heels as incompetent.
 
-### Personality
+## Personality
 
 Limebeck is a major sports enthusiast and brings that mentality into wrestling.
 
@@ -76,7 +72,7 @@ He is sceptical of:
 
 Limebeck does not reject spectacle, but believes spectacle works best when the audience can still believe in the contest.
 
-### Role in Storytelling
+## Role in Storytelling
 
 Limebeck is intended to remain largely outside active feuds.
 
@@ -98,7 +94,7 @@ The tone is deliberately different from SLC's more chaotic backstage environment
 
 ---
 
-## Lemonbeck
+# Lemonbeck
 
 **Role:** Colour commentator
 
@@ -118,7 +114,7 @@ However, Lemonbeck is not required to defend every heel action.
 
 He can acknowledge when a babyface has impressed him or when a heel has made an obvious mistake.
 
-### Personality
+## Personality
 
 Lemonbeck enjoys stirring conflict.
 
@@ -140,7 +136,7 @@ Limebeck attempts to explain the match.
 
 Lemonbeck frequently attempts to explain why the most objectionable person involved may actually have a point.
 
-### Getting in Trouble
+## Getting in Trouble
 
 A recurring part of Lemonbeck's on-screen character is that he frequently gets himself into trouble.
 
@@ -172,7 +168,7 @@ They also provide an organic reason for occasional commentary rotations.
 
 ---
 
-## Lemonbeck's Pit
+# Lemonbeck's Pit
 
 **Lemonbeck's Pit** is Lemonbeck's occasional in-ring interview segment.
 
@@ -184,7 +180,7 @@ Lemonbeck claims that his purpose is to encourage open dialogue.
 
 In practice, he usually makes the situation considerably worse.
 
-### Entrance
+## Entrance
 
 Lemonbeck makes an unnecessarily elaborate entrance carrying bagpipes.
 
@@ -202,7 +198,7 @@ or:
 
 > "We're third cousins twice removed. Probably."
 
-### The Segment
+## The Segment
 
 Lemonbeck begins by pretending to conduct a serious interview.
 
@@ -224,7 +220,7 @@ The answer has consistently been no.
 
 ---
 
-## Kiana Martins
+# Kiana Martins
 
 **Role:** Backstage interviewer, feature presenter and occasional commentator
 
@@ -245,7 +241,7 @@ Rather than appearing on a perfectly controlled interview set, Kiana may intervi
 
 This creates opportunities for interruptions and unexpected interactions.
 
-### Personality
+## Personality
 
 Kiana is a long-time wrestling fan with particular interest in:
 
@@ -268,7 +264,7 @@ She originally became especially interested in independent wrestling, TNA, ROH a
 
 That background influences the wrestlers and stories she naturally gravitates toward.
 
-### Interview Style
+## Interview Style
 
 Kiana tends to ask questions about:
 
@@ -284,7 +280,7 @@ Her enthusiasm can occasionally become visible when interviewing wrestlers whose
 
 ---
 
-## Tropicbeck
+# Tropicbeck
 
 **Role:** Backstage interviewer, feature presenter and talent-focused correspondent
 
@@ -300,7 +296,7 @@ He often handles:
 - breaking developments;
 - confrontations that happen naturally during the show.
 
-### Personality
+## Personality
 
 Tropicbeck has broad wrestling tastes and tends to value balance.
 
@@ -325,7 +321,7 @@ He is often the interviewer most likely to ask a simple question and then allow 
 
 ---
 
-## Jim Barry
+# Jim Barry
 
 **Role:** SLC President and occasional broadcast guest
 
@@ -348,7 +344,7 @@ He does not routinely book matches on-screen or dominate SLC programming.
 
 ---
 
-## Training and Physical Involvement
+# Training and Physical Involvement
 
 SLC's core broadcast and creative personalities have undergone basic professional wrestling training.
 
@@ -372,7 +368,7 @@ Physical involvement from broadcasters remains unusual.
 
 ---
 
-## Commentary Rotation
+# Commentary Rotation
 
 The standard SLC commentary team is:
 
@@ -398,7 +394,7 @@ The audience should first recognise Limebeck and Lemonbeck as the defining voice
 
 ---
 
-## Interviews
+# Interviews
 
 SLC generally prefers interviews to feel immediate.
 
@@ -417,7 +413,7 @@ SLC should feel like events are happening inside an active wrestling promotion r
 
 ---
 
-## Fire Theme
+# Fire Theme
 
 The official theme of **SLC Fire** is:
 
@@ -433,7 +429,7 @@ The title also directly connects with the name of SLC's primary weekly programme
 
 ---
 
-## Broadcast Philosophy
+# Broadcast Philosophy
 
 SLC's broadcast presentation is intended to feel:
 

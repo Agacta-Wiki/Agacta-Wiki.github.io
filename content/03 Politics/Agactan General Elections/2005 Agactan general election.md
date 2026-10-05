@@ -1,7 +1,3 @@
----
-title: "2005 Agactan general election"
----
-
 # 2005 Agactan general election
 
 The **2005 Agactan general election** was held on **___ 2005** to elect the 240 members of the [[Parliament of Agacta]].
@@ -12,7 +8,7 @@ The [[Constitution Party]] made significant gains, while the [[Green Party]] con
 
 ---
 
-## Background
+# Background
 
 The election followed four years of Socialist majority government.
 
@@ -22,7 +18,7 @@ The Green Party also continued to campaign on environmental protection and susta
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -33,7 +29,7 @@ The Green Party also continued to campaign on environmental protection and susta
 
 ---
 
-## Government formation
+# Government formation
 
 The Socialist Party retained an overall parliamentary majority with **137 seats**, allowing it to continue governing without coalition partners.
 
@@ -41,7 +37,7 @@ The President subsequently invited the leader of the Socialist Party to form the
 
 ---
 
-## Analysis
+# Analysis
 
 The election represented a modest setback for the governing Socialist Party following its landslide victory four years earlier. Nevertheless, it remained comfortably ahead of its rivals and secured another outright majority.
 
@@ -51,7 +47,7 @@ The Liberal Party lost ground but maintained a substantial parliamentary presenc
 
 ---
 
-## Legacy
+# Legacy
 
 The 2005 election is generally regarded as the beginning of the Constitution Party's recovery after its historic defeat in 2001.
 
@@ -59,7 +55,7 @@ While the Socialist Party remained dominant, the result suggested that Agactan p
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

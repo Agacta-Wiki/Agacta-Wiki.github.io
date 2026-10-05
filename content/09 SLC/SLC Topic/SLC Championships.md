@@ -1,7 +1,3 @@
----
-title: "SLC Championships"
----
-
 # SLC Championships
 
 ## Overview

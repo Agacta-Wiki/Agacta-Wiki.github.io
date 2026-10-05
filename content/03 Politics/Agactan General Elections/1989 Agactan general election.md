@@ -1,7 +1,3 @@
----
-title: "1989 Agactan general election"
----
-
 # 1989 Agactan general election
 
 The **1989 Agactan general election** was held on **___ 1989** to elect the 240 members of the [[Parliament of Agacta]].
@@ -10,7 +6,7 @@ The election resulted in the [[Socialist Party]] returning to a parliamentary ma
 
 ---
 
-## Background
+# Background
 
 The election followed four years of Socialist-Liberal coalition government.
 
@@ -20,7 +16,7 @@ Domestically, the campaign focused on economic growth, public services and polit
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -31,7 +27,7 @@ Domestically, the campaign focused on economic growth, public services and polit
 
 ---
 
-## Government formation
+# Government formation
 
 The Socialist Party secured an overall parliamentary majority with **123 seats**, allowing it to form a government without coalition partners.
 
@@ -39,7 +35,7 @@ The President subsequently invited the leader of the Socialist Party to form the
 
 ---
 
-## Analysis
+# Analysis
 
 The election marked a significant recovery for the Socialist Party, which regained an outright parliamentary majority after two elections of coalition government.
 
@@ -51,7 +47,7 @@ Despite the international collapse of communism, the Communist Party narrowly in
 
 ---
 
-## Legacy
+# Legacy
 
 The 1989 election is widely regarded as the end of one political era and the beginning of another.
 
@@ -61,7 +57,7 @@ The election also marked the end of the Liberal Party's most influential period,
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

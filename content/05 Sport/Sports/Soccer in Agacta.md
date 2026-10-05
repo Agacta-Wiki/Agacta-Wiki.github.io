@@ -1,7 +1,3 @@
----
-title: "Soccer in Agacta"
----
-
 # Soccer in Agacta
 
 **Soccer** is one of the most popular sports in Agacta alongside [[Agactan Rules Football]]. It is administered by the [[Agactan Sports Commission]] (ASC), which organises professional and amateur competitions throughout the country.
@@ -10,17 +6,17 @@ Like all major ASC sports, soccer operates using Agacta's provincial franchise s
 
 ---
 
-## League structure
+# League structure
 
 The professional pyramid consists of three national divisions.
 
-### Division 1
+## Division 1
 
 Division 1 is the highest level of Agactan soccer and consists of **12 provincial franchises**.
 
 The league operates on a promotion and relegation system with Division 2.
 
-### Division 2
+## Division 2
 
 Division 2 consists of:
 
@@ -29,15 +25,15 @@ Division 2 consists of:
 
 Provincial franchises may be promoted to Division 1, while minor franchises are ineligible for promotion beyond Division 2.
 
-### Division 3
+## Division 3
 
 Division 3 consists of the remaining **24 minor franchises** competing on a semi-professional basis.
 
 ---
 
-## Provincial franchises
+# Provincial franchises
 
-### The Big Three
+## The Big Three
 
 Historically Agactan soccer has been dominated by three clubs:
 
@@ -56,7 +52,7 @@ Their position within Agactan football has frequently been compared to:
 
 ---
 
-### Merino Mariners
+## Merino Mariners
 
 The [[Merino Mariners]] are traditionally regarded as the strongest club outside the Big Three.
 
@@ -68,7 +64,7 @@ The Mariners have often been compared to clubs such as Braga, AZ Alkmaar, Genk, 
 
 ---
 
-### Orientoport Owls
+## Orientoport Owls
 
 The [[Orientoport Owls]] emerged as a major force during the early twenty-first century.
 
@@ -80,7 +76,7 @@ They are frequently compared to Hearts, FC Twente and Vitória de Guimarães.
 
 ---
 
-### Kalisto Falcons
+## Kalisto Falcons
 
 The [[Kalisto Falcons]] were historically regarded as the country's fourth-largest club.
 
@@ -90,7 +86,7 @@ Their historical trajectory has been compared to clubs such as Hibernian, Belene
 
 ---
 
-### Aquatrip Sunsets
+## Aquatrip Sunsets
 
 The [[Aquatrip Sunsets]] have been one of the most consistent top-flight clubs outside the traditional elite.
 
@@ -100,7 +96,7 @@ They are often compared to Motherwell or Gil Vicente.
 
 ---
 
-### Stototrip Storm
+## Stototrip Storm
 
 Despite representing one of Agacta's largest cities, the [[Stototrip Storm]] are widely regarded as one of the country's great underachievers.
 
@@ -110,7 +106,7 @@ Comparisons are frequently drawn with ADO Den Haag and Dundee FC.
 
 ---
 
-### Established top-flight clubs
+## Established top-flight clubs
 
 Several clubs have traditionally occupied the lower half of Division 1 while remaining more associated with top-flight football than the second tier.
 
@@ -122,7 +118,7 @@ These include:
 
 ---
 
-### Yo-yo clubs
+## Yo-yo clubs
 
 Several provincial franchises have alternated regularly between Divisions 1 and 2.
 
@@ -135,13 +131,13 @@ These include:
 
 ---
 
-### Division 2 specialists
+## Division 2 specialists
 
 The remaining provincial franchises have historically spent the majority of their history in Division 2, occasionally earning promotion to the top flight but generally being more closely associated with the second tier.
 
 ---
 
-## Culture
+# Culture
 
 Soccer occupies a unique place within Agactan sporting culture.
 
@@ -153,7 +149,7 @@ Promotion and relegation remain central to the sport, although only provincial f
 ---
 
 
-### Soccer television schedule
+## Soccer television schedule
 
 The modern top-level [[Soccer in Agacta|Agactan soccer]] weekend consists of six principal fixture slots, with every match in each round occupying its own television window.
 
@@ -176,7 +172,7 @@ Unlike the traditional Saturday 16:00 schedule which characterised Agactan socce
 
 ---
 
-## See also
+# See also
 
 - [[Sport in Agacta]]
 - [[Agactan Sports Commission]]

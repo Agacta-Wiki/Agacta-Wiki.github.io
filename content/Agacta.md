@@ -1,12 +1,8 @@
----
-title: "Agacta"
----
-
-# Agacta
+# Agacta  
   
 Welcome to the Agacta Encyclopedia.  
   
-## Country
+## Country  
   
 - [[History of Agacta]]  
 - [[Geography of Agacta]]  
@@ -14,13 +10,13 @@ Welcome to the Agacta Encyclopedia.
 - [[Economy of Agacta]]  
 - [[Culture of Agacta]]  
   
-## Politics
+## Politics  
   
 - [[Overview of Politics of Agacta]]  
 - [[President of Agacta]]  
 - [[Constitution of Agacta]]  
   
-## Sport
+## Sport  
   
 - [[Sport in Agacta]]  
 - [[Agactan Rules Football]]  
@@ -28,7 +24,7 @@ Welcome to the Agacta Encyclopedia.
 - [[Agacta Rugby League]]  
 - [[Basketball in Agacta]]  
   
-## Major Cities
+## Major Cities  
   
 - [[Treslio]]  
 - [[Nleto]]  

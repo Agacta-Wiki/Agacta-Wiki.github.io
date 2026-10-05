@@ -1,7 +1,3 @@
----
-title: "1985 Agactan general election"
----
-
 # 1985 Agactan general election
 
 The **1985 Agactan general election** was held on **___ 1985** to elect the 240 members of the [[Parliament of Agacta]].
@@ -10,7 +6,7 @@ The election resulted in the [[Socialist Party]] remaining the largest party in 
 
 ---
 
-## Background
+# Background
 
 The election followed four years of Constitution Party-Liberal coalition government. As the campaign progressed, debate centred on the economy, public services and taxation, with all four parliamentary parties presenting differing visions for Agacta's future.
 
@@ -18,7 +14,7 @@ The Socialist Party sought to return to government by highlighting its record in
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -29,7 +25,7 @@ The Socialist Party sought to return to government by highlighting its record in
 
 ---
 
-## Government formation
+# Government formation
 
 The Socialist Party remained the largest party but fell short of an overall majority.
 
@@ -39,7 +35,7 @@ The President subsequently invited the leader of the Socialist Party to form the
 
 ---
 
-## Analysis
+# Analysis
 
 The election saw a modest recovery for the Socialist Party after its losses in 1981, allowing it to return to government with Liberal support.
 
@@ -49,7 +45,7 @@ Although the Liberal Party lost seats, it once again held the balance of power a
 
 ---
 
-## Legacy
+# Legacy
 
 The 1985 election further demonstrated the stability of Agacta's coalition politics. By the mid-1980s it had become widely accepted that governments would often depend on Liberal support, reinforcing the party's reputation as the country's political kingmaker.
 
@@ -57,7 +53,7 @@ The election would also prove to be the last in which the Communist Party mainta
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

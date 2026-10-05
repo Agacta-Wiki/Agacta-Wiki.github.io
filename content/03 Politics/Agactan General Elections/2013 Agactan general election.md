@@ -1,7 +1,3 @@
----
-title: "2013 Agactan general election"
----
-
 # 2013 Agactan general election
 
 The **2013 Agactan general election** was held on **___ 2013** to elect the 240 members of the [[Parliament of Agacta]].
@@ -12,7 +8,7 @@ The election also saw the [[Green Party]] record its strongest performance to da
 
 ---
 
-## Background
+# Background
 
 The election followed four years of Socialist-Green coalition government.
 
@@ -22,7 +18,7 @@ The Green Party sought to build upon its role in government, while the Agacta Le
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -34,7 +30,7 @@ The Green Party sought to build upon its role in government, while the Agacta Le
 
 ---
 
-## Government formation
+# Government formation
 
 Following the election, the Constitution Party and Liberal Party agreed to form a coalition government with a combined total of **124 seats**.
 
@@ -42,7 +38,7 @@ The President subsequently invited the leader of the Constitution Party to form 
 
 ---
 
-## Analysis
+# Analysis
 
 The election represented one of the most significant political realignments in modern Agactan history.
 
@@ -58,7 +54,7 @@ Meanwhile, the Agacta Left Bloc experienced a modest decline but retained parlia
 
 ---
 
-## Legacy
+# Legacy
 
 The 2013 election is widely regarded as a watershed in Agactan political history.
 
@@ -68,7 +64,7 @@ The election also confirmed the Green Party as a major parliamentary party, whil
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

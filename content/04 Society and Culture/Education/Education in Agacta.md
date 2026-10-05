@@ -1,7 +1,3 @@
----
-title: "Education in Agacta"
----
-
 # Education in Agacta
 
 Education in Agacta is divided into four main stages:
@@ -15,11 +11,11 @@ The education system is designed around gradual independence, broad education be
 
 ---
 
-## Pre-Primary Education
+# Pre-Primary Education
 
 Pre-primary education covers approximately ages 3–5 and becomes progressively more structured as children approach primary-school age.
 
-### Pre-Primary Year 1
+## Pre-Primary Year 1
 
 **Typical age:** 3  
 **Schedule:** 3 days per week  
@@ -38,7 +34,7 @@ Activities commonly include:
 - Socialisation
 - Early language development
 
-### Pre-Primary Year 2
+## Pre-Primary Year 2
 
 **Typical age:** 4  
 **Schedule:** 4 days per week  
@@ -47,7 +43,7 @@ Activities commonly include:
 
 The programme remains strongly play-based while gradually introducing more structured routines and learning activities.
 
-### Pre-Primary Year 3
+## Pre-Primary Year 3
 
 **Typical age:** 5  
 **Schedule:** 5 days per week  
@@ -67,7 +63,7 @@ Children continue to learn through play, songs and activities, but there is an i
 
 ---
 
-## Primary Education
+# Primary Education
 
 **Typical ages:** 6–12  
 **Duration:** 7 years
@@ -76,15 +72,15 @@ Primary education provides broad general education in literacy, numeracy, langua
 
 The school day gradually becomes longer as children progress through primary school.
 
-### Primary Years 1 and 2
+## Primary Years 1 and 2
 
 **Typical hours:** 08:00–12:30
 
-### Primary Years 3 and 4
+## Primary Years 3 and 4
 
 **Typical hours:** 08:00–13:00
 
-### Primary Years 5–7
+## Primary Years 5–7
 
 **Typical hours:** 08:00–14:00
 
@@ -94,7 +90,7 @@ Large schools may stagger break times between different age groups.
 
 ---
 
-## Typical Full School Day
+# Typical Full School Day
 
 A common timetable for older primary and secondary students is:
 
@@ -112,7 +108,7 @@ The final two periods are normally shorter than the earlier morning periods.
 
 ---
 
-## Breakfast and Morning Provision
+# Breakfast and Morning Provision
 
 Many schools provide breakfast before the formal school day.
 
@@ -131,7 +127,7 @@ Most students nevertheless continue to eat breakfast at home.
 
 ---
 
-## School Lunches
+# School Lunches
 
 The traditional Agactan pattern is for students to eat their main lunchtime meal at home after classes.
 
@@ -149,7 +145,7 @@ Children from low-income households may receive school lunches **free of charge 
 
 ---
 
-## Afternoon Activities
+# Afternoon Activities
 
 The end of formal classes does not necessarily mean the end of a child's organised day.
 
@@ -175,7 +171,7 @@ This allows the relatively short formal school day to coexist with modern workin
 
 ---
 
-## School Transport
+# School Transport
 
 Agacta has an extensive school transport system.
 
@@ -202,7 +198,7 @@ On another day, the same child might instead return home for lunch before attend
 
 ---
 
-## Secondary 1
+# Secondary 1
 
 **Typical ages:** 13–15  
 **Duration:** 3 years  
@@ -212,7 +208,7 @@ Secondary 1 is the compulsory lower-secondary stage.
 
 Students continue to receive a broad general education while beginning to make limited subject choices.
 
-### Compulsory Subjects
+## Compulsory Subjects
 
 Students normally study:
 
@@ -229,7 +225,7 @@ Students additionally choose **3 elective subjects**.
 
 ---
 
-## Secondary 1 Electives
+# Secondary 1 Electives
 
 Common elective subjects include:
 
@@ -254,7 +250,7 @@ Every school must also offer at least one language from:
 
 Not every school offers every possible elective.
 
-### Esperanto
+## Esperanto
 
 Esperanto has a special status within the education system.
 
@@ -266,27 +262,27 @@ Esperanto is generally not taught as an ordinary L2 to Ido-speaking students bec
 
 ---
 
-## Elective Organisation
+# Elective Organisation
 
 Schools have considerable freedom in how they organise elective subjects.
 
-### Subject Tracks
+## Subject Tracks
 
 Many schools group electives into informal tracks.
 
-#### Arts
+### Arts
 
 - Art
 - Music
 - Drama
 
-#### Humanities
+### Humanities
 
 - Economics
 - Politics
 - Sociology
 
-#### Technical
+### Technical
 
 - Computer Science
 - Engineering
@@ -296,21 +292,21 @@ A common combination is for a student to choose **two subjects from one group pl
 
 Other schools actively encourage students to mix subjects across different areas.
 
-### Timetable Blocks
+## Timetable Blocks
 
 Smaller schools often organise choices through timetable blocks rather than offering completely unrestricted combinations.
 
 For example:
 
-#### Elective Slot 1
+### Elective Slot 1
 - Music
 - Computer Science
 
-#### Elective Slot 2
+### Elective Slot 2
 - French
 - Politics
 
-#### Elective Slot 3
+### Elective Slot 3
 - Engineering
 - Art
 
@@ -320,13 +316,13 @@ Consequently, the exact combinations available can vary substantially between sc
 
 ---
 
-## Secondary 1 Assessment
+# Secondary 1 Assessment
 
 The Secondary 1 Diploma is accumulated across all three years.
 
 There is no single high-stakes examination comparable to the Junior Certificate, GCSEs or similar systems.
 
-### Continuous Assessment — 60%
+## Continuous Assessment — 60%
 
 Continuous assessment varies by subject and may include:
 
@@ -341,7 +337,7 @@ Continuous assessment varies by subject and may include:
 - Performances
 - Technical work
 
-### Formal Examinations — 40%
+## Formal Examinations — 40%
 
 The formal examination component is progressively weighted:
 
@@ -353,7 +349,7 @@ Later performance therefore carries greater weight without making the entire dip
 
 ---
 
-## External Marking and Moderation
+# External Marking and Moderation
 
 Routine classwork and smaller continuous assessments are normally marked internally by the student's teachers.
 
@@ -376,7 +372,7 @@ Agacta has increasingly experimented with **digital external marking**, allowing
 
 ---
 
-## Progression from Secondary 1
+# Progression from Secondary 1
 
 Students normally require an **overall average of 40%** to receive the Diplomita and progress directly to Secondary 2.
 
@@ -399,7 +395,7 @@ Failure to enter Secondary 2 therefore does not mean the end of publicly funded 
 
 ---
 
-## Secondary 2
+# Secondary 2
 
 **Typical ages:** 16–18  
 **Duration:** 3 years  
@@ -413,7 +409,7 @@ Students are increasingly expected to manage their own education, attendance, de
 
 ---
 
-## Secondary 2 Pathways
+# Secondary 2 Pathways
 
 The principal pathways are:
 
@@ -426,13 +422,13 @@ These are regarded as different forms of upper-secondary education rather than a
 
 ---
 
-## Academic Secondary 2
+# Academic Secondary 2
 
 Academic Secondary 2 is the most common route for students intending to attend university.
 
 Students progressively narrow their studies over the three years.
 
-### Subject Load
+## Subject Load
 
 - **Year 1:** 6 subjects
 - **Year 2:** 5 subjects
@@ -446,7 +442,7 @@ Students can therefore specialise according to their interests and intended futu
 
 ---
 
-## Secondary 2 Subject Selection
+# Secondary 2 Subject Selection
 
 Students normally submit a ranked list containing more subjects than they ultimately require.
 
@@ -474,7 +470,7 @@ Smaller schools may instead organise approximate pathways such as:
 
 ---
 
-## Vocational Secondary 2
+# Vocational Secondary 2
 
 Vocational Secondary 2 combines general education with occupational and practical training.
 
@@ -495,7 +491,7 @@ Vocational Secondary 2 is a deliberate educational choice and is not restricted 
 
 ---
 
-## Arts Secondary 2
+# Arts Secondary 2
 
 Arts education may take place in conventional secondary schools or specialist arts schools.
 
@@ -525,7 +521,7 @@ These requirements establish whether a student has reached a sufficient standard
 
 ---
 
-## ASC Secondary 2
+# ASC Secondary 2
 
 The **ASC pathway** is intended for students who have entered elite sporting development.
 
@@ -535,7 +531,7 @@ Students may enter the ASC pathway only after securing a place in the academy sy
 
 For example, a student selected for the **Nleto Knights academy** may combine formal education with intensive athletic training.
 
-### ASC Education
+## ASC Education
 
 ASC students continue studying essential academic and practical subjects such as:
 
@@ -559,7 +555,7 @@ The ASC pathway allows elite teenage athletes to pursue professional sporting de
 
 ---
 
-## Secondary 2 Culture
+# Secondary 2 Culture
 
 Secondary 2 is culturally distinct from Secondary 1.
 
@@ -567,7 +563,7 @@ Students are regarded as **adults in training**.
 
 They are expected to assume increasing responsibility for their own choices.
 
-### Attendance
+## Attendance
 
 Attendance is generally optional.
 
@@ -588,7 +584,7 @@ The broad philosophy is:
 > Secondary 1 is responsible for ensuring that students are educated.  
 > Secondary 2 provides education, but students are increasingly responsible for using it.
 
-### Discipline
+## Discipline
 
 Disciplinary matters in Secondary 2 are generally handled more like workplace conduct issues than conventional school discipline.
 
@@ -606,11 +602,11 @@ Parental involvement is generally limited to serious situations involving matter
 
 ---
 
-## Secondary 2 Assessment
+# Secondary 2 Assessment
 
 The Secondary 2 Diploma follows the same broad assessment model as Secondary 1.
 
-### Continuous Assessment — 60%
+## Continuous Assessment — 60%
 
 This may include:
 
@@ -625,7 +621,7 @@ This may include:
 - Technical assessments
 - Smaller tests
 
-### Formal Examinations — 40%
+## Formal Examinations — 40%
 
 - **5%** — end of Year 1
 - **15%** — end of Year 2
@@ -637,7 +633,7 @@ Major work and formal examinations may be externally marked or moderated.
 
 ---
 
-## Secondary 2 Results
+# Secondary 2 Results
 
 Final Secondary 2 results are issued once major assessments, examinations and moderation procedures have been completed.
 
@@ -651,7 +647,7 @@ The later diploma ceremony is therefore ceremonial rather than the point at whic
 
 ---
 
-## Secondary 2 Conferring Ceremony
+# Secondary 2 Conferring Ceremony
 
 Students completing Secondary 2 are normally invited to an optional formal **conferring ceremony** at their secondary school in September or October.
 
@@ -676,7 +672,7 @@ It is commonly associated with:
 
 ---
 
-## University Access
+# University Access
 
 Successful completion of the **Secondary 2 Diploma** gives students the right to access state-owned universities in Agacta.
 
@@ -700,7 +696,7 @@ In general, a student who satisfies the relevant prerequisites can normally expe
 
 ---
 
-## Educational Philosophy
+# Educational Philosophy
 
 The Agactan education system is built around several broad principles:
 

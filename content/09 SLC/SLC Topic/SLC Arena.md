@@ -1,7 +1,3 @@
----
-title: "SLC Arena"
----
-
 # SLC Arena
 
 ## Overview

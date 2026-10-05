@@ -1,7 +1,3 @@
----
-title: "1993 Agactan general election"
----
-
 # 1993 Agactan general election
 
 The **1993 Agactan general election** was held on **___ 1993** to elect the 240 members of the [[Parliament of Agacta]].
@@ -12,7 +8,7 @@ The election was the first to take place following the collapse of the [[Communi
 
 ---
 
-## Background
+# Background
 
 The election followed four years of Socialist majority government.
 
@@ -22,7 +18,7 @@ The campaign focused on the economy, taxation, public services and the future di
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -32,7 +28,7 @@ The campaign focused on the economy, taxation, public services and the future di
 
 ---
 
-## Government formation
+# Government formation
 
 Although the Socialist Party remained the largest party, it no longer commanded a parliamentary majority.
 
@@ -42,7 +38,7 @@ The President subsequently invited the leader of the Constitution Party to form 
 
 ---
 
-## Analysis
+# Analysis
 
 The election produced a more balanced Parliament than in 1989.
 
@@ -52,7 +48,7 @@ The disappearance of the Communist Party also marked the end of the traditional 
 
 ---
 
-## Legacy
+# Legacy
 
 The 1993 election marked the beginning of a new era in Agactan politics following the end of the Cold War.
 
@@ -62,7 +58,7 @@ The election also paved the way for new political movements to emerge during the
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

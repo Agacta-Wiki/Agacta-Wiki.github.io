@@ -1,7 +1,3 @@
----
-title: "Campus Bars and Barbecue Culture"
----
-
 # Campus Bars and Barbecue Culture
 
 **Campus bars and barbecue culture** are a distinctive part of sporting life in [[Agacta]]. The country's large multi-sport campuses typically contain several permanent bars with extensive outdoor areas, combining aspects of a traditional sports pub, stadium fan zone and barbecue gathering.

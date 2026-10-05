@@ -1,7 +1,3 @@
----
-title: "2017 Agactan general election"
----
-
 # 2017 Agactan general election
 
 The **2017 Agactan general election** was held on **___ 2017** to elect the 240 members of the [[Parliament of Agacta]].
@@ -12,7 +8,7 @@ The election is chiefly remembered for the dramatic surge of the [[Green Party]]
 
 ---
 
-## Background
+# Background
 
 The election followed four years of Constitution Party-Liberal coalition government.
 
@@ -22,7 +18,7 @@ The Green Party campaigned on environmental protection, sustainable economic dev
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -34,7 +30,7 @@ The Green Party campaigned on environmental protection, sustainable economic dev
 
 ---
 
-## Government formation
+# Government formation
 
 Following the election, the Constitution Party and Liberal Party agreed to renew their coalition government, holding a combined total of **138 seats**.
 
@@ -42,7 +38,7 @@ The President subsequently invited the leader of the Constitution Party to form 
 
 ---
 
-## Analysis
+# Analysis
 
 The election produced one of the most dramatic shifts in modern Agactan political history.
 
@@ -58,7 +54,7 @@ Meanwhile, the Agacta Left Bloc experienced further decline, recording its weake
 
 ---
 
-## Legacy
+# Legacy
 
 The 2017 election marked a decisive shift in the balance of Agactan politics.
 
@@ -70,7 +66,7 @@ The result also laid the foundations for the closely contested political landsca
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

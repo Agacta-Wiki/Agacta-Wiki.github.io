@@ -1,7 +1,3 @@
----
-title: "Sports campuses in Agacta"
----
-
 # Sports campuses in Agacta
 
 **Sports campuses** are large multi-sport complexes used by the provincial franchises of the [[Agactan Sports Commission]] (ASC). They form a distinctive feature of professional sport in Agacta and serve as the principal sporting homes of the country's nineteen provincial franchises.
@@ -12,7 +8,7 @@ The campuses are frequently compared in appearance and atmosphere to university 
 
 ---
 
-## Development
+# Development
 
 The sports campus model developed from the distinctive structure of professional sport in Agacta.
 
@@ -24,7 +20,7 @@ This structure encouraged the development of shared multi-sport complexes capabl
 
 ---
 
-## Typical facilities
+# Typical facilities
 
 The exact size and layout of a sports campus varies considerably between provinces. Larger campuses commonly include:
 
@@ -47,7 +43,7 @@ The smaller outdoor stadiums found on some campuses have been compared to second
 
 ---
 
-## Location
+# Location
 
 Sports campuses are found in a variety of urban settings.
 
@@ -59,9 +55,9 @@ This urban relationship is sometimes compared to major European stadium district
 
 ---
 
-## Supporter culture
+# Supporter culture
 
-### Bars and social spaces
+## Bars and social spaces
 
 Bars are a major feature of Agactan sports campuses.
 
@@ -83,7 +79,7 @@ The combination of neighbourhood pub culture and large outdoor gathering spaces 
 
 ---
 
-### Barbecue culture
+## Barbecue culture
 
 Barbecued food is strongly associated with matchdays at many Agactan sports campuses.
 
@@ -95,7 +91,7 @@ One of the best-known examples is found at the [[Tlelmund Guardians]] sports cam
 
 ---
 
-## Away supporters
+# Away supporters
 
 For most ASC fixtures, supporters of opposing franchises are able to mix relatively freely within the sports campus.
 
@@ -109,7 +105,7 @@ This arrangement allows sports campuses to function both as shared social spaces
 
 ---
 
-## High-security fixtures
+# High-security fixtures
 
 Strict supporter segregation is relatively uncommon across Agactan sport and is primarily associated with major soccer rivalry matches.
 
@@ -127,7 +123,7 @@ For such matches, campus design allows authorities to separate visiting supporte
 
 ---
 
-## Cultural significance
+# Cultural significance
 
 Sports campuses are an important part of the social culture surrounding professional sport in Agacta.
 
@@ -147,7 +143,7 @@ Because the same franchise identity operates across multiple sports, supporters 
 
 ---
 
-## See also
+# See also
 
 - [[Sport in Agacta]]
 - [[Agactan Sports Commission]]

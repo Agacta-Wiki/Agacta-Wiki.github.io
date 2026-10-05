@@ -1,50 +1,15 @@
----
-title: "Encyclopedia of Agacta"
----
-
 # Encyclopedia of Agacta
 
-Welcome to the **Encyclopedia of Agacta**, a reference guide to the Republic of Agacta covering its history, politics, culture, sport, media, infrastructure, international relations and wider world.
+Welcome to the Encyclopedia of Agacta.
 
-## Explore Agacta
+## Contents
 
-### Country and Society
-
-- [[Agacta]]
-- [[Agactan History]]
-- [[Politics of Agacta]]
-- [[Education in Agacta]]
-- [[Beaches and Coastal Tourism in Agacta]]
-
-### Sport
-
-- [[Sport in Agacta]]
-- [[Agactan Rules Football]]
-- [[Soccer in Agacta]]
-- [[Agacta Rugby League]]
-- [[Agactan Sports Commission]]
-
-### Transport and Infrastructure
-
-- [[Rail Transport in Agacta]]
-- [[Local Transport in Agacta]]
-- [[Agactan Valuto]]
-
-### Media
-
-- [[Sports TV in Agacta]]
-- [[Television in Agacta – Analogue Era]]
-
-### Altur and International
-
-- [[Agacta Space Organisation]]
-- [[Vunter System]]
-- [[Siva Avarka Economic Zone]]
-
-### Super League Combat
-
-- [[Super League Combat]]
-- [[SLC Events]]
-- [[SLC Championships]]
-- [[SLC Roster]]
-- [[SLC Teams and Factions]]
+- [[01 History]]
+- [[02 Geography]]
+- [[03 Politics]]
+- [[04 Society and Culture]]
+- [[05 Sport]]
+- [[06 Media]]
+- [[07 Economy and Infastructure]]
+- [[08 Altur and International]]
+- [[09 SLC]]

@@ -1,7 +1,3 @@
----
-title: "ASC Club Fundraising"
----
-
 # ASC Club Fundraising
 
 The **Agacta Sport Commission (ASC)** views fundraising as an important part of community sport. While clubs receive funding from numerous sources, fundraising provides additional income, strengthens community ties, and allows individual sections to finance projects beyond their core budgets.

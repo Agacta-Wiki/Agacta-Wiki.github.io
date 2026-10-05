@@ -1,7 +1,3 @@
----
-title: "Provincial franchises"
----
-
 # Provincial franchises
 
 The **provincial franchises** are the highest level of professional sport in Agacta. Each of the country's **19 provinces** (15 mainland provinces and 4 overseas territories) is represented by a single franchise, which competes across multiple sports administered by the [[Agactan Sports Commission]] (ASC).
@@ -12,7 +8,7 @@ The franchise model was introduced to ensure every province had representation a
 
 ---
 
-## Overview
+# Overview
 
 Every provincial franchise has:
 
@@ -26,7 +22,7 @@ The same franchise name and branding is used regardless of the sport being playe
 
 ---
 
-## Franchises
+# Franchises
 
 | Province            | Franchise                    | Colours                   |
 | ------------------- | ---------------------------- | ------------------------- |
@@ -52,7 +48,7 @@ The same franchise name and branding is used regardless of the sport being playe
 
 ---
 
-## Identity
+# Identity
 
 Each franchise possesses a unique name, colour scheme and visual identity intended to reflect the history, geography or culture of its province.
 
@@ -60,7 +56,7 @@ Unlike traditional sports clubs, franchise identities remain consistent across e
 
 ---
 
-## Colours
+# Colours
 
 The official colours of each franchise are intended to be instantly recognisable and remain consistent across all sporting codes.
 
@@ -88,7 +84,7 @@ The official colours of each franchise are intended to be instantly recognisable
 
 ---
 
-## Cultural significance
+# Cultural significance
 
 The provincial franchises are among the most recognisable institutions in Agactan society.
 
@@ -98,7 +94,7 @@ This model contrasts with the club-based systems found elsewhere in Europe and h
 
 ---
 
-## See also
+# See also
 
 - [[Sport in Agacta]]
 - [[Agactan Sports Commission]]

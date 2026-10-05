@@ -1,7 +1,3 @@
----
-title: "Rail Transport in Agacta"
----
-
 # Rail Transport in Agacta
 
 Rail transport in [[Agacta]] consists of an extensive high-speed, long-distance, regional and suburban network. The mainland network combines publicly owned infrastructure with open-access competition on high-speed and major long-distance routes, competitive tendering on several major regional networks, and direct operation of other regional services by the state-owned [[Agacta Naciona Fervojo]] (ANF).
@@ -166,9 +162,9 @@ The process of transferring responsibility for the networks began with reforms t
 
 The resulting operators are broadly comparable in institutional structure to FGC in Catalonia, FGV in the Valencian Community and Euskotren in the Basque Country.
 
-## Passenger operators
+# Passenger operators
 
-### Agacta Naciona Fervojo
+## Agacta Naciona Fervojo
 
 **[[Agacta Naciona Fervojo]] (ANF)** is Agacta's state-owned national railway company and largest passenger rail operator. It has operated rail services in Agacta for more than a century.
 
@@ -176,7 +172,7 @@ ANF operates high-speed, conventional long-distance, regional and suburban servi
 
 Its livery uses **dark blue, red and light blue**, mirroring the colours of the Agactan flag.
 
-#### Granda Veloceso
+### Granda Veloceso
 
 ANF markets its high-speed services as **[[Granda Veloceso]]**.
 
@@ -197,7 +193,7 @@ Granda Veloceso is a full-service high-speed product and includes:
 
 ANF's onboard sandwiches have developed a particularly good reputation among passengers.
 
-### Sensinese Rail
+## Sensinese Rail
 
 The Sensinese state railway operates high-speed services under the **[[Sonik]]** brand.
 
@@ -205,15 +201,15 @@ Sonik offers a full-service product broadly comparable with ANF's Granda Veloces
 
 Although Sensinese Rail is legally permitted to operate purely domestic services within Agacta, Sonik services operating in Agacta generally originate or terminate in Sensin.
 
-#### Sonik routes serving Agacta
+### Sonik routes serving Agacta
 
-##### Lojburg–Treslio
+#### Lojburg–Treslio
 
 **Lojburg – Signaburg – Aulburg – Sandmund – Stototrip – Nleto – Merino – Treslio**
 
 This is one of the principal Sensin–Agacta high-speed services.
 
-##### Neutra–Treslio
+#### Neutra–Treslio
 
 **Neutra – Daulburg – Sandmund – Stototrip – Nleto – Merino – Treslio**
 
@@ -221,15 +217,15 @@ Two services operate daily.
 
 [[Neutra]], Sensin's second-largest city, provides interchange with Sensin's West Coast railway, allowing passengers from Agacta to transfer for destinations in western Sensin.
 
-##### An Goma–Uvulp
+#### An Goma–Uvulp
 
 Sonik operates one daily **An Goma–Uvulp** service covering the Continental East Corridor through Sensin, Agacta and Luum.
 
-##### Lojburg–Lonin
+#### Lojburg–Lonin
 
 Following the opening of the Setroburg–Nleto HSR in May 2026, Sonik introduced **two daily Lojburg–Lonin services** via Nleto and Setroburg.
 
-### Luum Train
+## Luum Train
 
 The Luumian state railway operates its high-speed services under the **[[LT-HS]]** brand.
 
@@ -250,7 +246,7 @@ LT-HS routes serving Agacta include:
 
 The last of these became possible as a through high-speed service following the May 2026 opening of the Setroburg–Nleto line.
 
-### Agacta Net
+## Agacta Net
 
 **[[Agacta Net]]** is Agacta's principal private general-purpose railway company and the main private competitor to ANF.
 
@@ -269,7 +265,7 @@ It is the **second-largest high-speed and long-distance operator** in Agacta and
 
 Agacta Net operates on the major Agactan high-speed corridors and is currently the only competitor to ANF on the **Treslio–Orientoport** and **Setroburg–Alaram** high-speed routes. It also plans to compete with ANF on the conventional Setroburg–Kalisto long-distance route.
 
-#### High-speed service
+### High-speed service
 
 Agacta Net's high-speed product combines a conventional full-service onboard offering with some pricing practices associated with low-cost operators.
 
@@ -290,13 +286,13 @@ High-speed trains provide:
 
 Manual seat selection costs **4 Valuto**, slightly more than €1. This compares with approximately 20–30 Valuto on dedicated low-cost carriers, while ANF provides seat selection without an additional charge.
 
-#### Regional and suburban services
+### Regional and suburban services
 
 Agacta Net competes for government tenders to operate regional and suburban networks.
 
 Onboard facilities and rolling stock vary according to the nature and length of the service rather than following the company's high-speed configuration.
 
-### Low-cost high-speed operators
+## Low-cost high-speed operators
 
 Three dedicated low-cost high-speed operators have a significant presence in Agacta:
 
@@ -311,11 +307,11 @@ None operates regional services in Agacta.
 
 Common characteristics of the low-cost sector include restrictive ticket conditions, baggage limits, extensive ancillary charges, the absence of conventional dining carriages and little or no genuine First Class provision.
 
-#### National Express
+### National Express
 
 **National Express** is a Sensinese low-cost bus and rail company unrelated to the present-day British company of the same name.
 
-##### Origins
+#### Origins
 
 The company originated with an unsuccessful attempt by the British National Express company to enter the Sensinese bus market in **1998**. The venture failed within months and the Sensinese operation and rights to the name in Sensin were acquired by businessman **[[Mateo Geltro]]**.
 
@@ -329,7 +325,7 @@ Following the liberalisation of the Sensinese passenger railway market in **2007
 
 The Geltro brothers are frequently parodied in Sensinese popular culture for their extreme cost-consciousness and the customer-service reputation of their respective companies. A recurring joke portrays the brothers as admirers of Ryanair chief executive Michael O'Leary.
 
-##### Advertising
+#### Advertising
 
 National Express became particularly well known in Sensin for inexpensive television advertising using part of **"National Express" by The Divine Comedy**.
 
@@ -339,7 +335,7 @@ The song had previously been little known in Sensin, with the result that many S
 
 The advertising style was subsequently introduced in Agacta.
 
-##### Agactan branding
+#### Agactan branding
 
 The unqualified **National Express** name presented a potential political problem when the Sensinese company entered Agacta.
 
@@ -352,7 +348,7 @@ The company therefore uses different branding in the Agactan market:
 - **International Express** for international services
     
 
-##### Onboard product
+#### Onboard product
 
 National Express pursues an especially high-density, highly unbundled low-cost model.
 
@@ -399,7 +395,7 @@ National Express does not provide a conventional premium First Class. Its nomina
 
 Passengers sometimes joke that the bright lighting and frequent announcements are deliberately intended to prevent passengers sleeping so that they purchase more products from the vending machines.
 
-### RapiGo
+## RapiGo
 
 **[[RapiGo]]** is an Agactan low-cost high-speed operator identifiable by its **green livery**.
 
@@ -426,7 +422,7 @@ Its high-speed product includes:
 
 RapiGo concentrates overwhelmingly on the Agactan domestic market and does not operate extensively elsewhere on the continent. Some services extend beyond Agacta to nearby cross-border destinations such as **Sandmund** in Sensin.
 
-### Aro-Rail
+## Aro-Rail
 
 **[[Aro-Rail]]** is a Flymese low-cost high-speed operator and one of National Express's principal competitors in the continental low-cost rail market.
 
@@ -451,7 +447,7 @@ Its product includes:
 
 Unlike the primarily domestic RapiGo, Aro-Rail operates extensively in the continental international low-cost market.
 
-### Destinia
+## Destinia
 
 **[[Destinia]]** is an Agactan regional passenger railway operator.
 
@@ -459,7 +455,7 @@ It is the **third-largest regional operator in Agacta**, behind ANF and Agacta N
 
 Destinia uses a **white and sky-blue livery** and does not operate Agactan high-speed services.
 
-## Operator overview
+# Operator overview
 
 |Operator|Ownership/origin|HSR|Long-distance|Regional/suburban|HSR/service brand|
 |---|---|---|---|---|---|
@@ -472,7 +468,7 @@ Destinia uses a **white and sky-blue livery** and does not operate Agactan high-
 |Aro-Rail|Flymese private|Yes|HSR only in Agacta|No|Aro-Rail|
 |Destinia|Agactan private|No|No|Yes|Destinia|
 
-## High-speed chronology
+# High-speed chronology
 
 |Year|Development|
 |---|---|
@@ -487,7 +483,7 @@ Destinia uses a **white and sky-blue livery** and does not operate Agactan high-
 |**2023**|Setroburg–Alaram connection opens|
 |**May 2026**|Setroburg–Nleto high-speed line opens, completing the fastest Lonin–Lojburg rail corridor|
 
-## See also
+# See also
 
 - [[Transport in Agacta]]
     

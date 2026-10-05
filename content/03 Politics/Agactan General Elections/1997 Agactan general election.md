@@ -1,7 +1,3 @@
----
-title: "1997 Agactan general election"
----
-
 # 1997 Agactan general election
 
 The **1997 Agactan general election** was held on **___ 1997** to elect the 240 members of the [[Parliament of Agacta]].
@@ -10,7 +6,7 @@ The election resulted in the [[Socialist Party]] returning to government with an
 
 ---
 
-## Background
+# Background
 
 The election followed four years of Constitution Party-Liberal coalition government.
 
@@ -20,7 +16,7 @@ The campaign focused on economic growth, public services, environmental protecti
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -31,7 +27,7 @@ The campaign focused on economic growth, public services, environmental protecti
 
 ---
 
-## Government formation
+# Government formation
 
 With **127 seats**, the Socialist Party secured an overall parliamentary majority and was able to form a government without coalition partners.
 
@@ -39,7 +35,7 @@ The President subsequently invited the leader of the Socialist Party to form the
 
 ---
 
-## Analysis
+# Analysis
 
 The election saw the Socialist Party recover from its defeat in 1993, regaining an outright parliamentary majority.
 
@@ -51,7 +47,7 @@ The principal story of the election was the parliamentary breakthrough of the Gr
 
 ---
 
-## Legacy
+# Legacy
 
 The 1997 election is remembered primarily for the Green Party's parliamentary breakthrough.
 
@@ -59,7 +55,7 @@ While the Socialist Party returned to majority government, the arrival of the Gr
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

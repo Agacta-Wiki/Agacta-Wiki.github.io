@@ -1,10 +1,6 @@
----
-title: "Agactan Rules Football (ARF)"
----
-
 # Agactan Rules Football (ARF)
 
-## Agactan Rules Football
+# Agactan Rules Football
 
 **Agactan Rules Football**, commonly known as **Agactan Rules** or simply **Rules**, is an indigenous team sport originating in [[Agacta]]. It is one of the country's largest and most culturally significant sports and is organised nationally by the [[Agactan Sports Commission]] (ASC).
 
@@ -16,7 +12,7 @@ Agactan Rules occupies a particularly important place within the wider sporting 
 
 ---
 
-## Name
+# Name
 
 The sport's formal name is **Agactan Rules Football**.
 
@@ -39,7 +35,7 @@ The name distinguishes the sport from other football codes played in Agacta, par
 
 ---
 
-## History
+# History
 
 Agactan Rules Football developed within Agacta and became one of the country's principal organised sports.
 
@@ -53,7 +49,7 @@ The sport also influenced the early development of [[Rugby league in Agacta|rugb
 
 ---
 
-## Organisation
+# Organisation
 
 Agactan Rules Football is administered by the [[Agactan Sports Commission]].
 
@@ -84,7 +80,7 @@ Unlike countries in which individual sporting codes are governed by entirely sep
 
 ---
 
-## Provincial franchise system
+# Provincial franchise system
 
 At the highest level, Agactan Rules is organised around the nineteen principal [[Provincial franchises|provincial franchises]].
 
@@ -135,11 +131,11 @@ A supporter therefore follows the same franchise identity across multiple sporti
 
 ---
 
-## League system
+# League system
 
 The national Agactan Rules pyramid is organised across three divisions.
 
-### Division 1
+## Division 1
 
 [[Agactan Rules Football Division 1]] is the highest level of the sport and consists of **12 provincial franchises**.
 
@@ -149,7 +145,7 @@ Provincial franchises may be promoted to or relegated from Division 1 according 
 
 ---
 
-### Division 2
+## Division 2
 
 Division 2 normally consists of **12 teams**.
 
@@ -168,7 +164,7 @@ Minor franchises are not eligible for promotion to Division 1.
 
 ---
 
-### Division 3
+## Division 3
 
 Division 3 consists primarily of [[Minor franchises|minor franchises]] operating at the semi-professional and developmental level.
 
@@ -178,7 +174,7 @@ Main provincial franchises are ordinarily protected from relegation into Divisio
 
 ---
 
-## Minor franchises
+# Minor franchises
 
 [[Minor franchises]] form the developmental level between the principal provincial franchises and the local amateur club system.
 
@@ -201,7 +197,7 @@ This restriction ensures that the highest division remains reserved for the nine
 
 ---
 
-## Amateur game
+# Amateur game
 
 Below the national franchise structure is an extensive amateur club system.
 
@@ -226,7 +222,7 @@ A professional player does not simultaneously represent both their local club an
 
 ---
 
-## Relationship with local clubs
+# Relationship with local clubs
 
 Despite professional players leaving their original amateur clubs, first clubs retain considerable cultural importance.
 
@@ -249,7 +245,7 @@ This relationship is particularly visible during the [[Agactan Rules Football Gr
 
 ---
 
-## Division 1 finals series
+# Division 1 finals series
 
 The Agactan Rules championship is not awarded solely on the basis of regular-season standings.
 
@@ -261,7 +257,7 @@ The postseason culminates in the [[Agactan Rules Football Grand Final]].
 
 ---
 
-## Grand Final
+# Grand Final
 
 The [[Agactan Rules Football Grand Final]] is one of the largest annual sporting occasions in Agacta.
 
@@ -290,7 +286,7 @@ Since **2006**, the Grand Final has also featured a major half-time show.
 
 ---
 
-## Pokalo de Jaltro
+# Pokalo de Jaltro
 
 The [[Pokalo de Jaltro]] is the championship trophy of Agactan Rules Football.
 
@@ -313,11 +309,11 @@ The trophy is roughly comparable in size to the UEFA Cup and possesses prominent
 
 ---
 
-## Grand Final traditions
+# Grand Final traditions
 
 The Grand Final is surrounded by a series of established ASC traditions.
 
-### Hall of Fame ceremony
+## Hall of Fame ceremony
 
 The annual [[Agactan Sports Hall of Fame]] induction ceremony takes place on the night before the Grand Final.
 
@@ -325,7 +321,7 @@ At the end of the first quarter of the Grand Final, the newly inducted members a
 
 ---
 
-### Journey of the Jaltro
+## Journey of the Jaltro
 
 On Sunday morning, the captain of the previous year's championship-winning team traditionally hands the Jaltro to the President of the [[Agactan Sports Commission]].
 
@@ -356,7 +352,7 @@ Participants are commonly selected for outstanding contributions to sport and co
 
 ---
 
-### Presidential traditions
+## Presidential traditions
 
 The [[President of Agacta]] traditionally attends the Grand Final.
 
@@ -364,7 +360,7 @@ Before the match, the President shakes hands with the players of both competing 
 
 ---
 
-## Grassroots recognition
+# Grassroots recognition
 
 The Grand Final places particular emphasis on the amateur clubs that developed the participating players.
 
@@ -387,7 +383,7 @@ The tradition forms an important link between elite professional competition and
 
 ---
 
-## Traditional powers
+# Traditional powers
 
 Three franchises are regarded as the enduring giants of Agactan Rules Football:
 
@@ -417,7 +413,7 @@ Among the overseas franchises, the [[Savtrio Palms]] are the most historically s
 
 ---
 
-## Rivalries
+# Rivalries
 
 Agactan Rules shares the wider inter-provincial rivalry culture of ASC sport.
 
@@ -457,7 +453,7 @@ Because franchise identities extend across multiple sports, these rivalries are 
 
 ---
 
-## Venues
+# Venues
 
 Major Agactan Rules matches are commonly played at dedicated ovals located within provincial [[Sports Campuses in Agacta|sports campuses]].
 
@@ -486,7 +482,7 @@ Because the same franchise operates across multiple sports, the campus serves as
 
 ---
 
-## Supporter culture
+# Supporter culture
 
 Agactan Rules supporter culture forms part of the wider social life of the provincial franchise system.
 
@@ -500,7 +496,7 @@ The combination of neighbourhood pubs, campus bars, outdoor barbecues and provin
 
 ---
 
-### Agactan Rules television schedule
+## Agactan Rules television schedule
 
 The modern top-level [[Agactan Rules]] weekend consists of six principal fixture slots.
 
@@ -521,7 +517,7 @@ The selection system means that broadcasters do not simply receive whichever fix
 
 
 
-## Cultural significance
+# Cultural significance
 
 Agactan Rules Football is one of the principal expressions of Agactan sporting identity.
 
@@ -550,7 +546,7 @@ While elite competition is centred on the nineteen provincial franchises, the co
 
 ---
 
-## See also
+# See also
 
 - [[Sport in Agacta]]
     

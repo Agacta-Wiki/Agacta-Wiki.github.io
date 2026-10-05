@@ -1,7 +1,3 @@
----
-title: "2009 Agactan general election"
----
-
 # 2009 Agactan general election
 
 The **2009 Agactan general election** was held on **___ 2009** to elect the 240 members of the [[Parliament of Agacta]].
@@ -12,7 +8,7 @@ The election also marked the parliamentary debut of the [[Agacta Left Bloc]] (AM
 
 ---
 
-## Background
+# Background
 
 The election followed four years of Socialist majority government.
 
@@ -22,7 +18,7 @@ The election also saw the newly established Agacta Left Bloc contest its first g
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -34,7 +30,7 @@ The election also saw the newly established Agacta Left Bloc contest its first g
 
 ---
 
-## Government formation
+# Government formation
 
 Despite suffering significant losses, the Socialist Party remained the largest party in Parliament.
 
@@ -44,7 +40,7 @@ The President subsequently invited the leader of the Socialist Party to form the
 
 ---
 
-## Analysis
+# Analysis
 
 The election marked the end of the Socialist Party's era of majority government.
 
@@ -56,7 +52,7 @@ The principal story of the election, however, was the debut of the Agacta Left B
 
 ---
 
-## Legacy
+# Legacy
 
 The 2009 election marked the beginning of a new five-party era in Agactan politics.
 
@@ -64,7 +60,7 @@ It was the first election contested by the Agacta Left Bloc and the first to pro
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

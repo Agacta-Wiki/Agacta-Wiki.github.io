@@ -1,7 +1,3 @@
----
-title: "Pokalo de Jaltro"
----
-
 # Pokalo de Jaltro
 
 The **Pokalo de Jaltro**, commonly known simply as **the Jaltro**, is the championship trophy awarded to the winner of the [[Agactan Rules Football]] Grand Final.
@@ -14,9 +10,9 @@ Expressions such as **"we're going to win the Jaltro"**, **"the race for the Jal
 
 ---
 
-## History
+# History
 
-### Teovaldo Jaltro
+## Teovaldo Jaltro
 
 The trophy is named after [[Teovaldo Jaltro]], one of the founders of the [[Agactan Sports Commission]].
 
@@ -26,7 +22,7 @@ The championship trophy of [[Agactan Rules Football]] was named in his honour.
 
 ---
 
-## Design
+# Design
 
 The Pokalo de Jaltro is one of the most recognisable trophies in Agactan sport.
 
@@ -36,7 +32,7 @@ The trophy's size and distinctive handled design have contributed to its status 
 
 ---
 
-## Name and terminology
+# Name and terminology
 
 Although its formal name is the **Pokalo de Jaltro**, the trophy is almost universally known as **the Jaltro** in everyday speech.
 
@@ -70,7 +66,7 @@ The term may also be used more broadly as shorthand for the Agactan Rules champi
 
 ---
 
-## Grand Final weekend
+# Grand Final weekend
 
 The [[Agactan Rules Football Grand Final]] weekend is one of the largest annual occasions in Agactan sport.
 
@@ -99,9 +95,9 @@ Events commonly include:
 
 ---
 
-## Hall of Fame weekend
+# Hall of Fame weekend
 
-### Induction ceremony
+## Induction ceremony
 
 The annual [[Agactan Sports Hall of Fame]] induction ceremony is held on the night before the Grand Final.
 
@@ -109,7 +105,7 @@ The ceremony honours figures from across Agactan sport rather than exclusively f
 
 ---
 
-### Presentation during the Grand Final
+## Presentation during the Grand Final
 
 At the end of the **first quarter**, the newly inducted Hall of Fame members are formally presented to the crowd.
 
@@ -119,9 +115,9 @@ The ceremony forms one of the established rituals of Grand Final day.
 
 ---
 
-## Journey of the Jaltro
+# Journey of the Jaltro
 
-### Handover by the defending champions
+## Handover by the defending champions
 
 On Sunday morning, the Pokalo de Jaltro begins its ceremonial journey to the stadium.
 
@@ -133,7 +129,7 @@ The player formally presents the Jaltro to the **President of the [[Agactan Spor
 
 ---
 
-### Transfer to the Agactan forces
+## Transfer to the Agactan forces
 
 The ASC President then hands the trophy to a member of the [[Agactan Armed Forces]] and formally tasks them with bringing the Jaltro to the stadium.
 
@@ -141,7 +137,7 @@ The handover marks the beginning of the public procession.
 
 ---
 
-## Procession to the stadium
+# Procession to the stadium
 
 The Jaltro is carried towards the Grand Final venue in a major public procession.
 
@@ -164,7 +160,7 @@ Large crowds commonly gather along sections of the route.
 
 ---
 
-## Jaltro relay
+# Jaltro relay
 
 As the procession approaches the stadium, the trophy passes through a ceremonial relay involving members of the Agactan sporting community.
 
@@ -195,7 +191,7 @@ Participation in the relay is widely regarded as a major honour within Agactan s
 
 ---
 
-## Pre-match ceremonies
+# Pre-match ceremonies
 
 The [[President of Agacta]] traditionally attends the Grand Final.
 
@@ -205,7 +201,7 @@ The President also traditionally performs the ceremonial toss before the beginni
 
 ---
 
-## Local club recognition
+# Local club recognition
 
 A major part of the Grand Final tradition is the recognition of the amateur clubs that first developed the participating players.
 
@@ -215,7 +211,7 @@ The Grand Final therefore places particular emphasis on the grassroots clubs fro
 
 ---
 
-## Jaltro plaques
+# Jaltro plaques
 
 A local amateur club receives a commemorative plaque for every former player who becomes a member of a Jaltro-winning team.
 
@@ -238,7 +234,7 @@ The tradition reinforces the relationship between the professional provincial fr
 
 ---
 
-## Half-time show
+# Half-time show
 
 Since **2006**, the Agactan Rules Football Grand Final has featured a major half-time show.
 
@@ -246,7 +242,7 @@ The performance takes place during the main interval and has developed into one 
 
 ---
 
-## Cultural significance
+# Cultural significance
 
 The Pokalo de Jaltro is one of the most prestigious and recognisable prizes in Agactan sport.
 
@@ -277,7 +273,7 @@ The plaque tradition similarly ensures that victory is not associated solely wit
 
 ---
 
-## See also
+# See also
 
 - [[Agactan Rules Football]]
     

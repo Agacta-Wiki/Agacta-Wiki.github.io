@@ -1,7 +1,3 @@
----
-title: "2021 Agactan general election"
----
-
 # 2021 Agactan general election
 
 The **2021 Agactan general election** was held on **___ 2021** to elect the 240 members of the [[Parliament of Agacta]].
@@ -12,7 +8,7 @@ The election is chiefly remembered for the [[Green Party]] becoming the **Offici
 
 ---
 
-## Background
+# Background
 
 The election followed four years of Constitution Party-Liberal coalition government.
 
@@ -22,7 +18,7 @@ The Green Party sought to build upon its breakthrough performance in 2017, while
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -34,7 +30,7 @@ The Green Party sought to build upon its breakthrough performance in 2017, while
 
 ---
 
-## Government formation
+# Government formation
 
 Following the election, the Constitution Party and Liberal Party agreed to renew their coalition government, holding a combined total of **141 seats**.
 
@@ -42,7 +38,7 @@ The President subsequently invited the leader of the Constitution Party to form 
 
 ---
 
-## Analysis
+# Analysis
 
 The election reinforced the Constitution Party's position as Agacta's dominant governing party. Winning 111 seats, it achieved its strongest parliamentary result since the establishment of the modern republic.
 
@@ -56,7 +52,7 @@ Meanwhile, the Agacta Left Bloc more than doubled its parliamentary representati
 
 ---
 
-## Legacy
+# Legacy
 
 The 2021 election marked the high-water mark of the Constitution Party's electoral dominance.
 
@@ -66,7 +62,7 @@ However, the election also hinted at changing dynamics on the left of Agactan po
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

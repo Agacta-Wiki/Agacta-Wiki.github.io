@@ -1,7 +1,3 @@
----
-title: "Kopa de Metcalfe"
----
-
 # Kopa de Metcalfe
 
 The **Kopa de Metcalfe** is the championship trophy of top-level [[Rugby league in Agacta|rugby league in Agacta]]. Named after British soldier and rugby league pioneer [[James Metcalfe]], it is awarded annually to the winner of the national rugby league postseason organised by the [[Agactan Sports Commission]] (ASC).
@@ -12,9 +8,9 @@ Although the surname *Metcalfe* retains its English spelling, it is frequently m
 
 ---
 
-## History
+# History
 
-### James Metcalfe
+## James Metcalfe
 
 The trophy is named after [[James Metcalfe]], a British soldier from [[York]] who was stationed west of [[Setroburg]] during border skirmishes between Agacta and [[Alaram]] in the 1910s.
 
@@ -26,7 +22,7 @@ Metcalfe later married an Agactan woman and settled permanently in Agacta after 
 
 ---
 
-### Role in the Agactan Sports Commission
+## Role in the Agactan Sports Commission
 
 Following the establishment of the [[Agactan Sports Commission]] in 1928, Metcalfe was offered a position within the organisation.
 
@@ -38,7 +34,7 @@ The national championship trophy was later named in his honour.
 
 ---
 
-## Trophy presentation
+# Trophy presentation
 
 A distinctive tradition of the Kopa de Metcalfe is the involvement of the Metcalfe family in the trophy presentation.
 
@@ -48,7 +44,7 @@ The tradition is regarded as a direct link between the modern professional champ
 
 ---
 
-## Final weekend
+# Final weekend
 
 The Kopa de Metcalfe final weekend is a major national sporting occasion.
 
@@ -69,9 +65,9 @@ The final itself is traditionally played at **16:00 on Sunday**.
 
 ---
 
-## Hall of Fame weekend
+# Hall of Fame weekend
 
-### Induction ceremony
+## Induction ceremony
 
 The annual [[Agactan Sports Hall of Fame]] induction ceremony is held on the night before the Kopa de Metcalfe final.
 
@@ -79,7 +75,7 @@ The ceremony honours major figures from across Agactan sport rather than rugby l
 
 ---
 
-### Presentation during the final
+## Presentation during the final
 
 During the final, the newly inducted Hall of Fame members are formally presented to the crowd.
 
@@ -89,9 +85,9 @@ The ceremony has become one of the established rituals of the final.
 
 ---
 
-## Procession of the trophy
+# Procession of the trophy
 
-### Transfer to the ASC President
+## Transfer to the ASC President
 
 On Sunday morning, the Kopa de Metcalfe begins its ceremonial journey to the stadium.
 
@@ -101,7 +97,7 @@ The player formally hands the trophy to the **President of the [[Agactan Sports 
 
 ---
 
-### Military escort
+## Military escort
 
 The ASC President subsequently hands the Kopa de Metcalfe to a member of the [[Agactan Armed Forces]], formally tasking them with bringing the trophy to the stadium.
 
@@ -118,7 +114,7 @@ The procession forms one of the most visible public traditions of the final week
 
 ---
 
-## Jaltro relay
+# Jaltro relay
 
 As the procession approaches the stadium, the ceremony incorporates a relay involving the [[Jaltro]].
 
@@ -140,7 +136,7 @@ Selection for the relay is widely regarded as an important form of recognition w
 
 ---
 
-## Pre-match ceremonies
+# Pre-match ceremonies
 
 The [[President of Agacta]] traditionally attends the Kopa de Metcalfe final.
 
@@ -150,7 +146,7 @@ The President also traditionally performs the ceremonial toss before the beginni
 
 ---
 
-## Local club representation
+# Local club representation
 
 One of the most distinctive traditions of the Kopa de Metcalfe final is the formal recognition of the amateur clubs that developed the participating players.
 
@@ -162,7 +158,7 @@ This tradition reflects the relationship between elite professional franchises a
 
 ---
 
-## Metcalfe plaques
+# Metcalfe plaques
 
 Local amateur clubs receive formal recognition for producing players who become members of Kopa de Metcalfe-winning teams.
 
@@ -179,7 +175,7 @@ As a result, the final is experienced not only as a contest between two professi
 
 ---
 
-## Half-time show
+# Half-time show
 
 Since **2006**, the Kopa de Metcalfe final has featured a major half-time show.
 
@@ -187,7 +183,7 @@ The show has developed into one of the most prominent entertainment events in th
 
 ---
 
-## Cultural significance
+# Cultural significance
 
 The Kopa de Metcalfe final is widely regarded as one of the defining annual occasions in Agactan sport.
 
@@ -208,7 +204,7 @@ The tradition of displaying each finalist's first club is particularly associate
 
 ---
 
-## See also
+# See also
 
 - [[Rugby league in Agacta]]
 - [[James Metcalfe]]

@@ -1,7 +1,3 @@
----
-title: "Ignition (2026)"
----
-
 # Ignition (2026)
 
 **Ignition (2026)** was a professional wrestling pay-per-view event produced by **Super League Combat (SLC)**. It took place on **17 April 2026** at the **SLC Arena** in Treslio, Agacta.

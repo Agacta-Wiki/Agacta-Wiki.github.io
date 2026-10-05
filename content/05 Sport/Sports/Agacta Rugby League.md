@@ -1,7 +1,3 @@
----
-title: "Rugby league in Agacta"
----
-
 # Rugby league in Agacta
 
 **Rugby league** is a major professional sport in Agacta and is organised by the [[Agactan Sports Commission]] (ASC).
@@ -12,7 +8,7 @@ The sport is played across mainland Agacta and the country's overseas territorie
 
 ---
 
-## Organisation
+# Organisation
 
 Rugby league in Agacta is administered by the [[Agactan Sports Commission]], which is responsible for the organisation of professional competitions, development structures and the wider domestic game.
 
@@ -22,7 +18,7 @@ All nineteen principal provincial franchises operate professional rugby league t
 
 ---
 
-## League system
+# League system
 
 The highest level of Agactan rugby league consists of a **10-team top division**.
 
@@ -34,7 +30,7 @@ As in other ASC sports, minor franchises may participate within the lower nation
 
 ---
 
-## Provincial franchises
+# Provincial franchises
 
 The nineteen principal rugby league franchises are:
 
@@ -60,7 +56,7 @@ The nineteen principal rugby league franchises are:
 
 ---
 
-## Competition format
+# Competition format
 
 The top division consists of ten franchises competing during the regular season.
 
@@ -70,11 +66,11 @@ The championship trophy is the **[[Kopa de Metcalfe]]**.
 
 ---
 
-## 2025 season
+# 2025 season
 
 The [[2025 Agactan rugby league season]] was won by the [[Kalisto Falcons]], who defeated the [[Mlaa Monarchs]] in the championship final.
 
-### Regular-season standings
+## Regular-season standings
 
 | Position | Franchise | Outcome |
 |---------:|-----------|---------|
@@ -93,19 +89,19 @@ The [[Orientoport Owls]] earned promotion to the top division for the following 
 
 ---
 
-## 2025 postseason
+# 2025 postseason
 
-### Quarter-finals
+## Quarter-finals
 
 - [[Kalisto Falcons]] defeated [[Ulos Blizzard]]
 - [[Nleto Knights]] defeated [[Merino Mariners]]
 
-### Semi-finals
+## Semi-finals
 
 - [[Mlaa Monarchs]] defeated [[Nleto Knights]]
 - [[Kalisto Falcons]] defeated [[Treslio Thunder]]
 
-### Final
+## Final
 
 - [[Kalisto Falcons]] defeated [[Mlaa Monarchs]]
 
@@ -113,11 +109,11 @@ The victory made the Kalisto Falcons the **2025 Agactan rugby league champions**
 
 ---
 
-## Broadcasting
+# Broadcasting
 
 Agactan rugby league is broadcast nationally across several television networks.
 
-### Rugby League television schedule
+## Rugby League television schedule
 
 The top-level [[Rugby League in Agacta|Agactan Rugby League]] schedule consists of five principal fixture slots spread across Saturday, Sunday and Monday.
 
@@ -139,7 +135,7 @@ Rugby League scheduling is designed partly around the wider [[Agacta Sports Comm
 
 ---
 
-## Supporter culture
+# Supporter culture
 
 Rugby league shares the wider supporter culture of the ASC franchise system.
 
@@ -151,7 +147,7 @@ A supporter of the Kalisto Falcons, for example, may follow the Falcons in rugby
 
 ---
 
-## Relationship with other sports
+# Relationship with other sports
 
 Rugby league exists within Agacta's highly integrated multi-sport system.
 
@@ -170,7 +166,7 @@ with other sports played by the same provincial franchise.
 
 ---
 
-## See also
+# See also
 
 - [[Sport in Agacta]]
 - [[Agactan Sports Commission]]

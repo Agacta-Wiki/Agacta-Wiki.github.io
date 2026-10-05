@@ -1,7 +1,3 @@
----
-title: "Local Transport in Agacta"
----
-
 # Local Transport in Agacta
 
 Local public transport in [[Agacta]] is characterised by a mixture of historic tramways, suburban railways, metro, monorail and bus services. There is no single standard model used throughout the country. Individual cities developed their networks according to local geography, population, historical infrastructure and municipal transport policy.
@@ -26,9 +22,9 @@ These figures refer to passenger lines or services and do not necessarily repres
 
 ---
 
-## Trams
+# Trams
 
-### Historical Development
+## Historical Development
 
 Trams have been part of Agactan urban life since the late 19th and early 20th centuries.
 
@@ -53,7 +49,7 @@ Consequently, today's tram networks are descendants of the much larger and somet
 
 A city possessing five tram lines today may once have possessed considerably more.
 
-### Surface Operation
+## Surface Operation
 
 Agactan tramways operate **entirely above ground**.
 
@@ -65,7 +61,7 @@ Instead, Agactan cities have generally improved tram performance through surface
 
 The only conventional underground urban rail system in Agacta is the [[Treslio Metro]].
 
-### Long-Distance Tram Services
+## Long-Distance Tram Services
 
 Agactan tram routes are not necessarily confined to short journeys through city centres.
 
@@ -83,7 +79,7 @@ The two modes nevertheless perform different functions. A suburban train general
 
 ---
 
-## Suburban Rail
+# Suburban Rail
 
 Agactan **suburban rail** is broadly comparable to the Spanish [[Cercanías]] model.
 
@@ -104,17 +100,17 @@ A typical suburban service:
 
 Several suburban services may share the same railway corridor before branching towards different destinations.
 
-### Suburban and Regional Rail
+## Suburban and Regional Rail
 
 Suburban and regional trains can operate over the same railway for considerable distances.
 
 The distinction is based primarily upon **service pattern and purpose**.
 
-#### Suburban
+### Suburban
 
 > Treslio → suburb → suburb → small town → village → town → village → major town
 
-#### Regional
+### Regional
 
 > Treslio → major town → major town → major town → Orientoport
 
@@ -128,7 +124,7 @@ Regional and suburban services therefore complement rather than replace one anot
 
 ---
 
-## Connections Between Suburban Networks
+# Connections Between Suburban Networks
 
 The suburban networks surrounding neighbouring Agactan cities sometimes reach one another.
 
@@ -150,7 +146,7 @@ The arrangement reflects the Cercanías-style character of Agactan suburban rail
 
 ---
 
-## Metro
+# Metro
 
 Metro is relatively uncommon in Agacta.
 
@@ -168,7 +164,7 @@ The Treslio Metro is also notable for containing **Agacta's only underground urb
 
 ---
 
-## Monorail
+# Monorail
 
 Monorail occupies an unusual but culturally significant position in Agactan transport history.
 
@@ -188,7 +184,7 @@ The three cities which adopted monorail did so for somewhat different reasons.
 
 ---
 
-## Kalisto: The Monorail City
+# Kalisto: The Monorail City
 
 [[Kalisto]] embraced monorail more enthusiastically than anywhere else in Agacta.
 
@@ -196,9 +192,9 @@ Today it possesses **three monorail lines** and is widely associated with the ni
 
 Several factors made Kalisto unusually suitable for the technology.
 
-### Why Kalisto Chose Monorail
+## Why Kalisto Chose Monorail
 
-#### 1. Reduced Tram Infrastructure
+### 1. Reduced Tram Infrastructure
 
 Kalisto had historically removed a greater proportion of its old tram network than most major Agactan cities.
 
@@ -206,13 +202,13 @@ When demand for improved public transport began increasing again, it therefore h
 
 Eventually the remaining tram network disappeared entirely.
 
-#### 2. Urban Expansion
+### 2. Urban Expansion
 
 Kalisto was expanding considerably during the period in which monorails were becoming fashionable.
 
 New districts required public transport connections that could not easily be provided by the city's reduced historic tram network.
 
-#### 3. Lower-Density Development
+### 3. Lower-Density Development
 
 Although the capital of northern Agacta, Kalisto is only the **sixth most populous city in the country**.
 
@@ -220,13 +216,13 @@ Its urban form is also relatively spread out and house-based compared with the m
 
 A full underground metro network would therefore have been difficult to justify economically.
 
-#### 4. Terrain
+### 4. Terrain
 
 Kalisto is hillier than many of Agacta's other major cities.
 
 The ability of monorail technology to negotiate difficult terrain contributed to its appeal.
 
-### The Monorail Movement
+## The Monorail Movement
 
 Kalisto's mayor during the 1980s became a prominent advocate of monorail technology and argued that it represented the future of urban transport.
 
@@ -238,7 +234,7 @@ A second and eventually third line followed.
 
 By this point monorail was no longer regarded locally as an experimental technology. It had become Kalisto's established form of urban rapid transit.
 
-### Cultural Identity
+## Cultural Identity
 
 Monorail has subsequently become part of Kalisto's national image.
 
@@ -250,7 +246,7 @@ The joke became particularly well known because Agactan audiences immediately un
 
 ---
 
-## Setroburg Monorail
+# Setroburg Monorail
 
 [[Setroburg]] possesses a single monorail line.
 
@@ -276,7 +272,7 @@ Elevated monorail consequently emerged as the preferred compromise.
 
 ---
 
-## Setroburg Suburban Rail
+# Setroburg Suburban Rail
 
 Setroburg's **five suburban railway lines** serve a much wider area than the continuously built-up city.
 
@@ -293,7 +289,7 @@ The suburban network therefore functions simultaneously as:
 
 ---
 
-## Merino Monorail
+# Merino Monorail
 
 [[Merino]] possesses one monorail line alongside its three tram and three suburban railway lines.
 
@@ -309,7 +305,7 @@ Monorail therefore provided grade-separated rapid transit at a scale considered 
 
 ---
 
-## Unbuilt Monorails
+# Unbuilt Monorails
 
 The popularity of monorail technology during the late 20th century produced proposals elsewhere in Agacta.
 
@@ -327,9 +323,9 @@ Instead, the technology settled into its modern role:
 
 ---
 
-## City Networks
+# City Networks
 
-### Treslio
+## Treslio
 
 [[Treslio]] possesses Agacta's most extensive and diverse local transport network.
 
@@ -347,7 +343,7 @@ Treslio suburban services connect with both the [[Merino]] and [[Orientoport]] s
 
 ---
 
-### Setroburg
+## Setroburg
 
 [[Setroburg]] has:
 
@@ -363,7 +359,7 @@ Its suburban network includes [[Nordlako]] and [[Temund]] and forms an important
 
 ---
 
-### Nleto
+## Nleto
 
 [[Nleto]] has:
 
@@ -380,7 +376,7 @@ One suburban corridor eventually meets the [[Stototrip]] suburban network.
 
 ---
 
-### Merino
+## Merino
 
 [[Merino]] has:
 
@@ -396,7 +392,7 @@ One Merino suburban line meets a [[Treslio]] suburban service near the county bo
 
 ---
 
-### Orientoport
+## Orientoport
 
 [[Orientoport]] has:
 
@@ -409,7 +405,7 @@ Its suburban network connects with the outer reaches of the [[Treslio]] suburban
 
 ---
 
-### Kalisto
+## Kalisto
 
 [[Kalisto]] has:
 
@@ -422,7 +418,7 @@ Its unusually enthusiastic adoption of monorail during the late 20th century has
 
 ---
 
-### Stototrip
+## Stototrip
 
 [[Stototrip]] has:
 
@@ -437,7 +433,7 @@ Its suburban railway connects with the outer reaches of the [[Nleto]] suburban n
 
 ---
 
-## Overseas Territories
+# Overseas Territories
 
 Each of Agacta's overseas territories possesses a **devolved rail system**.
 
@@ -457,7 +453,7 @@ This allows territories such as [[Ulos]], [[Tlelmund]], [[Aquatrip]] and [[Savtr
 
 ---
 
-## Transport Philosophy
+# Transport Philosophy
 
 Agacta's modern local transport network was never designed according to a single national blueprint.
 
@@ -471,7 +467,7 @@ The underlying approach has generally been pragmatic: **retain existing infrastr
 
 This has produced a diverse but integrated urban transport culture in which century-old surface tramways, modern monorails, suburban railways and Treslio's underground Metro form different layers of the same wider public transport tradition.
 
-### See Also
+## See Also
 
 - [[Transport in Agacta]]
 - [[Railways of Agacta]]

@@ -1,7 +1,3 @@
----
-title: "Policing in Agacta"
----
-
 # Policing in Agacta
 
 Policing in [[Agacta]] follows a model influenced by several European policing traditions. The mainland is served by a single unified national police force, while policing in the four overseas territories is devolved to separate territorial forces.

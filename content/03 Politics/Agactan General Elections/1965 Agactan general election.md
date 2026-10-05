@@ -1,7 +1,3 @@
----
-title: "1965 Agactan general election"
----
-
 # 1965 Agactan general election
 
 The **1965 Agactan general election** was held on **___ 1965** to elect the 240 members of the [[Parliament of Agacta]].
@@ -12,7 +8,7 @@ The [[Constitution Party]] recorded its strongest result since the establishment
 
 ---
 
-## Background
+# Background
 
 Following more than a decade in office, the Socialist government sought a renewed mandate amid continued economic growth and political stability. After dominating Agactan politics throughout the 1950s and early 1960s, the government faced a more confident and organised opposition.
 
@@ -20,7 +16,7 @@ The campaign focused on economic management, public spending and the future dire
 
 ---
 
-## Results
+# Results
 
 | Party | Leader | Seats | +/- |
 |-------|--------|------:|----:|
@@ -31,7 +27,7 @@ The campaign focused on economic management, public spending and the future dire
 
 ---
 
-## Government formation
+# Government formation
 
 Despite losing 14 seats, the Socialist Party retained an overall parliamentary majority and continued in government without coalition partners.
 
@@ -39,7 +35,7 @@ President [[President of Agacta]] reappointed [[Josio Valtro]] as Prime Minister
 
 ---
 
-## Analysis
+# Analysis
 
 Although the Socialist Party secured a fourth consecutive victory, the election marked the first significant erosion of its parliamentary dominance.
 
@@ -49,7 +45,7 @@ The result suggested that Agactan politics was gradually becoming more competiti
 
 ---
 
-## Legacy
+# Legacy
 
 The 1965 election is generally regarded as the beginning of the end of the Socialist Party's period of overwhelming parliamentary dominance.
 
@@ -57,7 +53,7 @@ While the party remained comfortably in government, the rapid growth of the Cons
 
 ---
 
-## See also
+# See also
 
 - [[Parliamentary Elections in Agacta]]
 - [[Politics of Agacta]]

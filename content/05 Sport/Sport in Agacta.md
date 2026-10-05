@@ -1,7 +1,3 @@
----
-title: "Sport in Agacta"
----
-
 # Sport in Agacta
 
 Sport occupies a central place in Agactan society and is widely regarded as one of the country's defining cultural institutions. Participation rates are among the highest in Altur, while professional and amateur competitions attract large attendances throughout the year.
@@ -10,7 +6,7 @@ Unlike most neighbouring countries, almost all organised sport in Agacta operate
 
 ---
 
-## Organisation
+# Organisation
 
 The [[Agactan Sports Commission]] (ASC) is the governing body for almost all organised sport in Agacta.
 
@@ -22,7 +18,7 @@ Because of its influence throughout the country, the ASC is frequently compared 
 
 ---
 
-## Provincial franchise model
+# Provincial franchise model
 
 The defining feature of Agactan sport is its provincial franchise system.
 
@@ -34,7 +30,7 @@ The franchise model also reflects the ASC's philosophy of promoting provincial i
 
 ---
 
-## Relationship with the GAA
+# Relationship with the GAA
 
 The ASC is often compared with the Gaelic Athletic Association in Ireland.
 
@@ -48,11 +44,11 @@ The ASC has also developed a longstanding reputation for promoting bilingualism 
 
 ---
 
-## Competition structure
+# Competition structure
 
 Most ASC competitions operate within a three-tier pyramid.
 
-### Provincial franchises
+## Provincial franchises
 
 The highest level consists of the **19 provincial franchises**, which compete in fully professional national competitions.
 
@@ -62,7 +58,7 @@ Franchises may be promoted or relegated between Divisions 1 and 2 according to s
 
 ---
 
-### Minor franchises
+## Minor franchises
 
 Below the provincial franchises are the **minor franchises**.
 
@@ -76,7 +72,7 @@ Minor franchises compete in Divisions 2 and 3 but are **not eligible for promoti
 
 ---
 
-### Amateur clubs
+## Amateur clubs
 
 The foundation of Agactan sport is formed by thousands of local amateur clubs.
 
@@ -90,7 +86,7 @@ Former club players who reach the professional ranks are often celebrated locall
 
 ---
 
-## Promotion and relegation
+# Promotion and relegation
 
 Promotion and relegation operate differently from most European league systems.
 
@@ -106,7 +102,7 @@ Only in exceptional circumstances, such as prolonged competitive failure over ma
 
 ---
 
-## Sporting philosophy
+# Sporting philosophy
 
 The ASC's sporting philosophy combines elements of several international sporting traditions.
 
@@ -120,7 +116,7 @@ The result is a uniquely Agactan sporting system that combines professional elit
 
 ---
 
-## See also
+# See also
 
 - [[Agactan Sports Commission]]
 - [[Agactan Rules Football]]

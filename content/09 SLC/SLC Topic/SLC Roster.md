@@ -1,7 +1,3 @@
----
-title: "SLC Roster"
----
-
 # SLC Roster
 
 ## Overview

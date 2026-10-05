@@ -1,7 +1,3 @@
----
-title: "Siva Avarka Economic Zone"
----
-
 # Siva Avarka Economic Zone
 
 The **Siva Avarka Economic Zone (SAEZ)** is an economic framework connecting ten Alturian nations. It focuses on **free trade and the movement of people**, while preserving the political independence and distinct identities of its members.

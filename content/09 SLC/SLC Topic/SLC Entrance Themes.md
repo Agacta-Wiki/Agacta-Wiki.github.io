@@ -1,7 +1,3 @@
----
-title: "SLC Entrance Themes"
----
-
 # SLC Entrance Themes
 
 SLC uses a deliberately eclectic entrance-music style, balancing British and American alternative music with hip-hop, classic rock, pop-punk, international music and occasional comedy themes. The overall approach is intended to feel curated rather than genre-locked, with songs chosen to suit individual characters rather than following a standard wrestling-rock formula.

@@ -1,7 +1,3 @@
----
-title: "Agacta Space Organisation"
----
-
 # Agacta Space Organisation
 
 The **Agacta Space Organisation (ASO)** is Agacta's national space organisation. Founded by the government in **1928**, it oversees the country's space activities, including domestic and imported space programmes, and forms an important part of Agactan national identity.

@@ -1,7 +1,3 @@
----
-title: "Politics of Agacta"
----
-
 # Politics of Agacta
 
 ## Overview
@@ -12,9 +8,9 @@ Agacta elects its Parliament every four years using a mixed-member proportional 
 
 ---
 
-## Political system
+# Political system
 
-### Republic
+## Republic
 
 Agacta is a parliamentary republic with a largely ceremonial President serving as head of state.
 
@@ -22,7 +18,7 @@ Executive authority is exercised by the Prime Minister, who commands the confide
 
 The President performs constitutional and ceremonial duties, including appointing governments, promulgating legislation, and representing Agacta on state occasions.
 
-### Parliament
+## Parliament
 
 The Parliament of Agacta consists of **240 Members of Parliament (MPs)** elected every four years.
 
@@ -33,7 +29,7 @@ It is a unicameral legislature responsible for:
 - Holding the Government to account
 - Electing and supporting the Prime Minister
 
-### Electoral system
+## Electoral system
 
 Agacta uses a mixed-member proportional (MMP) electoral system.
 
@@ -43,11 +39,11 @@ Unlike some other MMP systems, Agacta deliberately prioritises local representat
 
 ---
 
-## Political parties
+# Political parties
 
 Since the late twentieth century Agactan politics has been dominated by five principal political parties.
 
-### Constitution Party
+## Constitution Party
 
 The Constitution Party is a centre-right political party founded during Agacta's independence era in the nineteenth century.
 
@@ -55,7 +51,7 @@ Historically the country's second-largest party, it overtook the Socialist Party
 
 Although generally regarded as centre-right, its policies are often comparatively centrist by international standards.
 
-### Socialist Party
+## Socialist Party
 
 The Socialist Party is a centre-left political party founded during the 1920s.
 
@@ -65,7 +61,7 @@ While officially centre-left, it has often governed from the political centre. I
 
 Following heavy electoral defeats during the 2010s and early 2020s, the party entered a period of rebuilding after the 2025 general election.
 
-### Liberal Party
+## Liberal Party
 
 The Liberal Party occupies the political centre.
 
@@ -75,7 +71,7 @@ Because of its repeated role as junior coalition partner, it is jokingly referre
 
 Its preferred coalition partner has traditionally been the Constitution Party, although it has also governed alongside the Socialist Party when parliamentary arithmetic has favoured such an arrangement.
 
-### Green Party
+## Green Party
 
 The Green Party emerged as Agacta's principal environmental party following the collapse of the Communist Party.
 
@@ -85,7 +81,7 @@ Its greatest success came in the 2021 general election, when it became the Offic
 
 However, following an ineffective period in opposition and increased competition from the Agacta Left Bloc, the party suffered significant losses in the 2025 election.
 
-### Agacta Left Bloc
+## Agacta Left Bloc
 
 The Agacta Left Bloc (AMB) is a democratic socialist alliance founded in 2009.
 
@@ -95,9 +91,9 @@ In the 2025 general election it made substantial gains, attracting many former G
 
 ---
 
-## Historical development
+# Historical development
 
-### Four-party era
+## Four-party era
 
 For much of the twentieth century Agacta was characterised by a stable four-party system consisting of the:
 
@@ -110,19 +106,19 @@ The Socialists were generally the largest party, while the Constitution Party co
 
 The Liberals regularly held the balance of power, while the Communists maintained a small but consistent parliamentary presence.
 
-### Collapse of the Communist Party
+## Collapse of the Communist Party
 
 Following the political changes of 1989, the Communist Party rapidly declined and eventually disappeared from parliamentary politics.
 
 Its place was gradually taken by the Green Party during the 1990s.
 
-### Rise of the Green Party
+## Rise of the Green Party
 
 The Green Party first entered Parliament in 1997.
 
 Over the following two decades it steadily expanded its support, culminating in becoming the Official Opposition following the 2021 general election.
 
-### Five-party era
+## Five-party era
 
 The emergence of the Agacta Left Bloc transformed Agacta into a five-party political system.
 
@@ -136,7 +132,7 @@ As of the 2025 general election, parliamentary politics is dominated by the:
 
 ---
 
-## Coalition politics
+# Coalition politics
 
 Coalition governments have been a common feature of Agactan politics.
 
@@ -146,7 +142,7 @@ Despite their relatively moderate ideological differences, a coalition between t
 
 ---
 
-## Current political landscape
+# Current political landscape
 
 The 2025 general election returned the Constitution Party and Liberal Party to office for a historic fourth consecutive term.
 
@@ -156,7 +152,7 @@ Meanwhile, the Agacta Left Bloc has emerged as one of the country's fastest-grow
 
 ---
 
-## See also
+# See also
 
 - [[Parliament of Agacta]]
 - [[Constitution of Agacta]]
