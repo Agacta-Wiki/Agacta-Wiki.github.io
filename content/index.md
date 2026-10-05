@@ -18,7 +18,7 @@ Welcome to the **Encyclopedia of Agacta**, a reference guide to the Republic of 
 
 ### Sport
 
-- [[Sport in Agacta]]
+- [[Sport]]
 - [[Agactan Rules Football]]
 - [[Soccer in Agacta]]
 - [[Agacta Rugby League]]
