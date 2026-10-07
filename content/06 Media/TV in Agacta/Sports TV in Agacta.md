@@ -144,7 +144,7 @@ The top-level [[Rugby League in Agacta|Agactan Rugby League]] schedule consists 
 
 | Day      | Kick-off | Selection | Broadcaster        |
 | -------- | -------: | --------: | ------------------ |
-| Saturday |   14:00* |    Pick 4 | [[Agasat Sport]]   |
+| Saturday |   14:00* |    Pick 4 | [[AgaSat Sport]]   |
 | Saturday |    16:00 |    Pick 3 | [[Star Network]]   |
 | Saturday |    18:00 |    Pick 1 | [[AgaSat Sport]]   |
 | Sunday   |    12:00 |    Pick 5 | [[Invictus Sport]] |

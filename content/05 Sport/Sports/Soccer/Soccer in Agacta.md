@@ -158,7 +158,7 @@ The modern top-level [[Soccer in Agacta|Agactan soccer]] weekend consists of six
 | Friday   |    21:00 |    Pick 1 | [[AgaSat Sport]]            |     |
 | Saturday |    14:00 |    Pick 5 | [[Invictus Sport]]          |     |
 | Saturday |    16:00 |    Pick 3 | [[AgaSat Sport]]            |     |
-| Sunday   |    12:00 |    Pick 6 | [[Agasat Sport]]            |     |
+| Sunday   |    12:00 |    Pick 6 | [[AgaSat Sport]]            |     |
 | Sunday   |    18:00 |    Pick 4 | [[Agacta Kanalo Diverteso]] |     |
 | Sunday   |    20:00 |    Pick 2 | [[Invictus Sport]]          |     |
 
