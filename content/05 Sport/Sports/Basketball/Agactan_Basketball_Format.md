@@ -14,11 +14,11 @@ title: Agactan Basketball Season
 # Agactan Basketball Season
 
 The **Agactan basketball season** is the national competition system for
-professional basketball in \[\[Agacta\]\]. Rather than using a single
+professional basketball in Agacta. Rather than using a single
 conventional league table, the season is built around four historic Cup
-competitions --- the \[\[East Cup\]\], \[\[North Cup\]\], \[\[West
-Cup\]\] and \[\[South Cup\]\] --- followed by the \[\[Agactan Basketball
-Championship\]\] playoffs.
+competitions --- the **East Cup**, **North Cup**, **West Cup** and
+**South Cup** --- followed by the **Agactan Basketball Championship
+playoffs**.
 
 Results in each Cup award **Championship points**. At the end of the
 four Cups, the eight professional franchises with the most Championship
@@ -34,17 +34,17 @@ the same season.
 The four Cups pre-date the modern national basketball division.
 
 Before a unified national competition existed, the regional divisions of
-\[\[ASC Basketball\]\] each organised an open tournament. Despite their
+**ASC Basketball** each organised an open tournament. Despite their
 regional administration, these competitions were open to teams from
 throughout Agacta rather than being restricted to clubs from the host
 region.
 
 The four competitions were:
 
-1.  \[\[East Cup\]\]
-2.  \[\[North Cup\]\]
-3.  \[\[West Cup\]\]
-4.  \[\[South Cup\]\]
+1.  **East Cup**
+2.  **North Cup**
+3.  **West Cup**
+4.  **South Cup**
 
 When the national basketball system developed, the existing Cups were
 retained rather than replaced. They gradually became the four stages of
@@ -69,8 +69,8 @@ automatic Championship places. Winning a Cup earns the largest
 Championship-points award, but **does not automatically qualify a
 franchise for the Championship playoffs**.
 
-This means a team must accumulate enough points across the season to
-finish in the overall top eight.
+A team must accumulate enough points across the season to finish in the
+overall top eight.
 
 ## Professional divisions
 
@@ -453,3 +453,10 @@ Championship playoffs → national champion**
 The four Cups determine both trophies and the Championship race, while
 the promotion and relegation system continually reshapes the field
 around them.
+
+## Season articles
+
+-   [2024--25 Agactan Basketball
+    Season](2024-25_Agactan_Basketball_Season.md)
+-   [2025--26 Agactan Basketball
+    Season](2025-26_Agactan_Basketball_Season.md)
