@@ -11,7 +11,6 @@ tags:
 - Agacta
 - basketball
 - 2025-26-season
-- Treslio-Thunder
 title: 2025--26 Agactan Basketball Season
 west_cup: Treslio Thunder
 ---
@@ -19,335 +18,193 @@ west_cup: Treslio Thunder
 # 2025--26 Agactan Basketball Season
 
 The **2025--26 Agactan basketball season** was contested through the
-\[[East Cup](#east-cup)\], \[[North Cup](#north-cup)\], \[[West
-Cup](#west-cup)\] and \[[South Cup](#south-cup)\], followed by the
-eight-team \[\[Agactan Basketball Championship\|Championship
-playoffs\]\].
+East, North, West and South Cups, followed by the eight-team Agactan
+Basketball Championship playoffs.
 
-\[\[Treslio Thunder\]\] finished first in the cumulative Championship
-standings with 60 points after winning both the West and South Cups.
-Treslio then defeated \[\[Tarbo Tigers\]\], \[\[Orientoport Ospreys\]\]
-and \[\[Savtrio Tropicbirds\]\] in the Championship playoffs to become
-**2025--26 Agactan champions**.
+Treslio Thunder finished first in the cumulative Championship standings
+with 60 points after winning both the West and South Cups. Treslio then
+defeated Tarbo Tigers, Orientoport Ospreys and Savtrio Tropicbirds in
+the Championship playoffs to become **2025--26 Agactan champions**.
 
 ## Season summary
 
   -----------------------------------------------------------------------
   Competition             Champion                Runner-up
   ----------------------- ----------------------- -----------------------
-  \[[East                 \[\[Savtrio             \[\[Setroburg
-  Cup](#east-cup)\]       Tropicbirds\]\]         Lynxes\]\]
+  East Cup                Savtrio Tropicbirds     Setroburg Lynxes
 
-  \[[North                \[\[Merino Mariners\]\] \[\[Setroburg
-  Cup](#north-cup)\]                              Lynxes\]\]
+  North Cup               Merino Mariners         Setroburg Lynxes
 
-  \[[West                 \[\[Treslio Thunder\]\] \[\[Orientoport
-  Cup](#west-cup)\]                               Ospreys\]\]
+  West Cup                Treslio Thunder         Orientoport Ospreys
 
-  \[[South                \[\[Treslio Thunder\]\] \[\[Stototrip Hares\]\]
-  Cup](#south-cup)\]                              
+  South Cup               Treslio Thunder         Stototrip Hares
 
-  \[\[Agactan Basketball  **\[\[Treslio           \[\[Savtrio
-  Championship\]\]        Thunder\]\]**           Tropicbirds\]\]
+  Agactan Basketball      **Treslio Thunder**     Savtrio Tropicbirds
+  Championship                                    
   -----------------------------------------------------------------------
 
 ## East Cup
 
-The East Cup opened the season with two Division 1 groups of eight.
-\[\[Savtrio Tropicbirds\]\] won the Cup after defeating \[\[Setroburg
-Lynxes\]\] in the final.
+### Championship points
 
-### Division 1 group stage
+  Finish                            Teams
+  --------------------------------- --------------------------------------
+  Champion --- 20                   Savtrio
+  Runner-up --- 16                  Setroburg
+  Semifinal --- 13                  Kalisto, Riala
+  Quarterfinal --- 11               Treslio, Mlaxa
+  Top 8 --- 8                       Merino, Nleto
+  Top 12 --- 6                      Stototrip, Orientoport, Ulos, Bantro
+  Bottom four, survived --- 4       Tleve, Aquatrip, Montanomund
+  Relegated --- 2                   Abeldrip
+  D2 champion/promoted --- 6        Tarbo
+  D2 runner-up/lost playoff --- 2   Tlelmund
+  Other professional D2 --- 1       Nlastromund
 
-    Pos. Group 1A    Group 1B
-  ------ ----------- -------------
-       1 Savtrio     Setroburg
-       2 Treslio     Kalisto
-       3 Mlaxa       Riala
-       4 Merino      Nleto
-       5 Stototrip   Orientoport
-       6 Ulos        Bantro
-       7 Tleve       Montanomund
-       8 Abeldrip    Aquatrip
+Savtrio won the East Cup, defeating Setroburg in the final. Kalisto and
+Riala were the other semifinalists.
 
-### Quarterfinals
-
--   \[\[Riala Rapids\]\] defeated \[\[Treslio Thunder\]\]
--   \[\[Kalisto Kestrels\]\] defeated \[\[Mlaxa Meteors\]\]
-
-### Semifinals
-
--   \[\[Savtrio Tropicbirds\]\] defeated \[\[Kalisto Kestrels\]\]
--   \[\[Setroburg Lynxes\]\] defeated \[\[Riala Rapids\]\]
-
-### Final
-
--   **\[\[Savtrio Tropicbirds\]\] defeated \[\[Setroburg Lynxes\]\]**
-
-### Division 2 and relegation
-
-The Division 2 group finished:
-
-1.  \[\[Tarbo Tigers\]\]
-2.  Yojo
-3.  \[\[Tlelmund Seals\]\]
-4.  Rojer
-5.  Nordlako
-6.  \[\[Nlastromund Wolves\]\]
-7.  Salia Abel
-8.  Hojomund
-
-Tlelmund defeated Yojo in the Division 2 semifinal before Tarbo defeated
-Tlelmund in the final.
-
-The Division 1 relegation games were:
-
--   Aquatrip defeated Abeldrip
--   Tleve defeated Montanomund
--   Aquatrip defeated Montanomund
--   Montanomund defeated Tlelmund in the promotion/relegation playoff
-
-Tarbo earned automatic promotion as Division 2 champion. Abeldrip were
-relegated.
+Tarbo won Division 2 and earned promotion. Tlelmund finished as the
+professional runner-up but lost the promotion/relegation playoff.
+Abeldrip were relegated.
 
 ## North Cup
 
-The North Cup used four Division 1 groups of four. \[\[Merino
-Mariners\]\] won the competition, defeating Setroburg in the final.
+### Championship points
 
-### Division 1 group stage
+  Finish                            Teams
+  --------------------------------- ------------------------------------------
+  Champion --- 20                   Merino
+  Runner-up --- 16                  Setroburg
+  Semifinal --- 13                  Savtrio, Aquatrip
+  Quarterfinal --- 9                Tarbo, Ulos, Nleto, Treslio
+  Top 12 --- 6                      Riala, Kalisto, Orientoport, Montanomund
+  Bottom four, survived --- 4       Mlaxa, Tleve, Stototrip
+  Relegated --- 2                   Bantro
+  D2 champion/promoted --- 6        Tlelmund
+  D2 runner-up/lost playoff --- 2   Abeldrip
+  Other professional D2 --- 1       Nlastromund
 
-  Group   1st         2nd       3rd           4th
-  ------- ----------- --------- ------------- -----------
-  1A      Savtrio     Tarbo     Riala         Bantro
-  1B      Aquatrip    Ulos      Kalisto       Mlaxa
-  1C      Nleto       Treslio   Orientoport   Tleve
-  1D      Setroburg   Merino    Montanomund   Stototrip
+Merino won the North Cup, defeating Setroburg in the final. Savtrio and
+Aquatrip reached the semifinals.
 
-### Quarterfinals
-
--   \[\[Setroburg Lynxes\]\] defeated \[\[Tarbo Tigers\]\]
--   \[\[Merino Mariners\]\] defeated \[\[Nleto Knights\]\]
--   \[\[Savtrio Tropicbirds\]\] defeated \[\[Ulos Blizzard\]\]
--   \[\[Aquatrip Sunsets\]\] defeated \[\[Treslio Thunder\]\]
-
-### Semifinals
-
--   \[\[Setroburg Lynxes\]\] defeated \[\[Savtrio Tropicbirds\]\]
--   \[\[Merino Mariners\]\] defeated \[\[Aquatrip Sunsets\]\]
-
-### Final
-
--   **\[\[Merino Mariners\]\] defeated \[\[Setroburg Lynxes\]\]**
-
-### Division 2 and relegation
-
-Division 2 was divided into two groups:
-
-    Pos. Group 2A      Group 2B
-  ------ ------------- ----------
-       1 Tlelmund      Abeldrip
-       2 Yojo          Rojer
-       3 Hojomund      Nordlako
-       4 Nlastromund   Melk
-
-Tlelmund defeated Rojer in one semifinal and Abeldrip defeated Yojo in
-the other. Tlelmund then defeated Abeldrip in the Division 2 final.
-
-The Division 1 relegation series was:
-
--   Stototrip defeated Mlaxa
--   Tleve defeated Bantro
--   Mlaxa defeated Bantro
--   Mlaxa defeated Abeldrip in the promotion/relegation playoff
-
-Bantro were relegated and Tlelmund were promoted.
+Tlelmund won Division 2 and earned promotion. Abeldrip finished as
+runner-up but lost the promotion/relegation playoff. Bantro were
+relegated.
 
 ## West Cup
 
-The West Cup returned to the two-group format. \[\[Treslio Thunder\]\]
-won their first Cup of the season by defeating \[\[Orientoport
-Ospreys\]\] in the final.
+### Championship points
 
-### Division 1 group stage
+  Finish                                    Teams
+  ----------------------------------------- ------------------------------------
+  Champion --- 20                           Treslio
+  Runner-up --- 16                          Orientoport
+  Semifinal --- 13                          Savtrio, Tarbo
+  Quarterfinal --- 11                       Nleto, Stototrip
+  Top 8 --- 8                               Tleve, Mlaxa
+  Top 12 --- 6                              Merino, Riala, Setroburg, Tlelmund
+  Bottom four, survived --- 4               Aquatrip, Ulos
+  Relegated --- 2                           Kalisto, Montanomund
+  D2 champion/promoted --- 6                Nlastromund
+  D2 runner-up/promoted via playoff --- 5   Bantro
+  Other professional D2 --- 1               Abeldrip
 
-    Pos. Group 1A    Group 1B
-  ------ ----------- -------------
-       1 Savtrio     Treslio
-       2 Stototrip   Orientoport
-       3 Nleto       Tarbo
-       4 Tleve       Mlaxa
-       5 Merino      Setroburg
-       6 Riala       Tlelmund
-       7 Ulos        Aquatrip
-       8 Kalisto     Montanomund
+Treslio won the West Cup, defeating Orientoport in the final. Savtrio
+and Tarbo were the other semifinalists.
 
-### Quarterfinals
+Nlastromund won Division 2 and earned automatic promotion. Bantro
+finished as the professional runner-up and won the promotion/relegation
+playoff. Kalisto and Montanomund were relegated.
 
--   \[\[Orientoport Ospreys\]\] defeated \[\[Nleto Knights\]\]
--   \[\[Tarbo Tigers\]\] defeated \[\[Stototrip Hares\]\]
+## Standings after the West Cup
 
-### Semifinals
+    Rank Team            Points
+  ------ ------------- --------
+       1 Savtrio             46
+       2 Treslio             40
+       3 Setroburg           38
+       4 Merino              34
+      5= Orientoport         28
+      5= Tarbo               28
+      5= Nleto               28
+       8 Riala               25
+       9 Mlaxa               23
+     10= Stototrip           21
+     10= Aquatrip            21
+     10= Kalisto             21
+      13 Ulos                19
+      14 Tleve               16
+      15 Tlelmund            14
+      16 Bantro              13
+      17 Montanomund         12
+      18 Nlastromund          8
+      19 Abeldrip             5
 
--   \[\[Treslio Thunder\]\] defeated \[\[Tarbo Tigers\]\]
--   \[\[Orientoport Ospreys\]\] defeated \[\[Savtrio Tropicbirds\]\]
+Kalisto and Montanomund were in Division 2 after the West Cup and were
+therefore excluded from the South Cup Division 1 seeding despite their
+cumulative Championship totals.
 
-### Final
+The South Cup pots for the current Division 1 teams were:
 
--   **\[\[Treslio Thunder\]\] defeated \[\[Orientoport Ospreys\]\]**
-
-### Division 2 and relegation
-
-The Division 2 group was headed by the three professional franchises:
-
-1.  \[\[Nlastromund Wolves\]\]
-2.  Abeldrip
-3.  \[\[Bantro Bison\]\]
-4.  Yojo
-5.  Rojer
-6.  Nordlako
-7.  Prelhoj
-8.  Nordlako
-
-Bantro defeated Abeldrip in the Division 2 semifinal before Nlastromund
-defeated Bantro in the final.
-
-The Division 1 relegation series was:
-
--   Aquatrip defeated Ulos
--   Kalisto defeated Montanomund
--   Ulos defeated Kalisto
--   Bantro defeated Kalisto in the promotion/relegation playoff
-
-Nlastromund earned automatic promotion. Bantro also returned to Division
-1 by winning the promotion/relegation playoff. Montanomund and Kalisto
-were relegated.
+  Pot     Teams
+  ------- --------------------------------------
+  Pot 1   Savtrio, Treslio, Setroburg, Merino
+  Pot 2   Orientoport, Tarbo, Nleto, Riala
+  Pot 3   Mlaxa, Stototrip, Aquatrip, Ulos
+  Pot 4   Tleve, Tlelmund, Bantro, Nlastromund
 
 ## South Cup
 
-The South Cup draw was seeded according to the cumulative Championship
-standings after the first three Cups.
+### Championship points
 
-### Championship standings before the South Cup
+  Finish                                    Teams
+  ----------------------------------------- ---------------------------------------------
+  Champion --- 20                           Treslio
+  Runner-up --- 16                          Stototrip
+  Semifinal --- 13                          Nleto, Tlelmund
+  Quarterfinal --- 9                        Nlastromund, Merino, Setroburg, Orientoport
+  Top 12 --- 6                              Savtrio, Tleve, Mlaxa, Riala
+  Bottom four, survived --- 4               Aquatrip, Tarbo
+  Relegated --- 2                           Ulos, Bantro
+  D2 champion/promoted --- 6                Kalisto
+  D2 runner-up/promoted via playoff --- 5   Montanomund
+  Other professional D2 --- 1               Abeldrip
 
-  Team            Points
-  ------------- --------
-  Savtrio             46
-  Treslio             40
-  Setroburg           38
-  Merino              34
-  Orientoport         28
-  Tarbo               28
-  Nleto               28
-  Riala               25
-  Mlaxa               23
-  Stototrip           21
-  Aquatrip            21
-  Kalisto             21
-  Ulos                19
-  Tleve               16
-  Tlelmund            14
-  Bantro              13
-  Montanomund         12
-  Nlastromund          8
-  Abeldrip             5
+Treslio won the South Cup, defeating Stototrip in the final. Nleto and
+Tlelmund were the other semifinalists.
 
-Only franchises in Division 1 were included in the South Cup seeding
-pots. Kalisto and Montanomund were therefore omitted from the seeded
-Division 1 field despite their cumulative points totals.
+The four bottom Division 1 teams were Aquatrip, Tarbo, Bantro and Ulos.
+Tarbo defeated Ulos and Aquatrip defeated Bantro in the first relegation
+games. Bantro then defeated Ulos, leaving Ulos relegated.
 
-### Division 1 draw
-
-  Group 1A      Group 1B    Group 1C      Group 1D
-  ------------- ----------- ------------- ----------
-  Savtrio       Merino      Setroburg     Treslio
-  Nleto         Tarbo       Orientoport   Riala
-  Aquatrip      Stototrip   Mlaxa         Ulos
-  Nlastromund   Tleve       Bantro        Tlelmund
-
-### Division 1 group stage
-
-    Pos. Group 1A      Group 1B    Group 1C      Group 1D
-  ------ ------------- ----------- ------------- ----------
-       1 Nleto         Stototrip   Orientoport   Treslio
-       2 Nlastromund   Merino      Setroburg     Tlelmund
-       3 Savtrio       Tleve       Mlaxa         Riala
-       4 Aquatrip      Tarbo       Bantro        Ulos
-
-### Quarterfinals
-
--   \[\[Treslio Thunder\]\] defeated \[\[Nlastromund Wolves\]\]
--   \[\[Nleto Knights\]\] defeated \[\[Merino Mariners\]\]
--   \[\[Stototrip Hares\]\] defeated \[\[Setroburg Lynxes\]\]
--   \[\[Tlelmund Seals\]\] defeated \[\[Orientoport Ospreys\]\]
-
-### Semifinals
-
--   \[\[Treslio Thunder\]\] defeated \[\[Nleto Knights\]\]
--   \[\[Stototrip Hares\]\] defeated \[\[Tlelmund Seals\]\]
-
-### Final
-
--   **\[\[Treslio Thunder\]\] defeated \[\[Stototrip Hares\]\]**
-
-Treslio's South Cup victory gave the Thunder consecutive Cup wins after
-their West Cup triumph.
-
-### Division 2 and relegation
-
-Division 2 was divided into two groups:
-
-    Pos. Group 2A      Group 2B
-  ------ ------------- ----------
-       1 Montanomund   Kalisto
-       2 Abeldrip      Rojer
-       3 Oyatrip       Yojo
-       4 Hojomund      Prelhoj
-
-The Division 2 semifinals were:
-
--   Montanomund defeated Rojer
--   Kalisto defeated Abeldrip
-
-Kalisto then defeated Montanomund in the Division 2 final.
-
-The Division 1 relegation series was:
-
--   Tarbo defeated Ulos
--   Aquatrip defeated Bantro
--   Bantro defeated Ulos
--   Montanomund defeated Bantro in the promotion/relegation playoff
-
-Kalisto earned automatic promotion as Division 2 champion. Montanomund
-also earned promotion through the playoff. Ulos and Bantro were
-relegated.
+Kalisto won Division 2 and earned automatic promotion. Montanomund
+finished as runner-up and defeated Bantro in the promotion/relegation
+playoff. Montanomund were promoted and Bantro were relegated.
 
 ## Final Championship standings
 
-Points accumulated across all four Cups determined the eight
-Championship playoff qualifiers.
-
-    Rank Team                                 East   North   West   South    Total
-  ------ ---------------------------------- ------ ------- ------ ------- --------
-       1 \[\[Treslio Thunder\]\]                11       9     20      20   **60**
-       2 \[\[Savtrio Tropicbirds\]\]            20      13     13       6   **52**
-       3 \[\[Setroburg Lynxes\]\]               16      16      6       9   **47**
-       4 \[\[Merino Mariners\]\]                 8      20      6       9   **43**
-       5 \[\[Nleto Knights\]\]                   8       9     11      13   **41**
-       6 \[\[Orientoport Ospreys\]\]             6       6     16       9   **37**
-       7 \[\[Stototrip Hares\]\]                 6       4     11      16   **37**
-       8 \[\[Tarbo Tigers\]\]                    6       9     13       4   **32**
-       9 \[\[Riala Rapids\]\]                   13       6      6       6   **31**
-      10 \[\[Mlaxa Meteors\]\]                  11       4      8       6   **29**
-     11= \[\[Kalisto Kestrels\]\]               13       6      2       6   **27**
-     11= \[\[Tlelmund Seals\]\]                  2       6      6      13   **27**
-      13 \[\[Aquatrip Sunsets\]\]                4      13      4       4   **25**
-      14 \[\[Tleve Titans\]\]                    4       4      8       6   **22**
-      15 \[\[Ulos Blizzard\]\]                   6       9      4       2   **21**
-     16= \[\[Nlastromund Wolves\]\]              1       1      6       9   **17**
-     16= \[\[Montanomund Mountaineers\]\]        4       6      2       5   **17**
-      18 \[\[Bantro Bison\]\]                    6       2      5       2   **15**
-      19 Abeldrip                                2       2      1       1    **6**
+    Rank Team                         East   North   West   South    Total
+  ------ -------------------------- ------ ------- ------ ------- --------
+       1 Treslio Thunder                11       9     20      20   **60**
+       2 Savtrio Tropicbirds            20      13     13       6   **52**
+       3 Setroburg Lynxes               16      16      6       9   **47**
+       4 Merino Mariners                 8      20      6       9   **43**
+       5 Nleto Knights                   8       9     11      13   **41**
+       6 Orientoport Ospreys             6       6     16       9   **37**
+       7 Stototrip Hares                 6       4     11      16   **37**
+       8 Tarbo Tigers                    6       9     13       4   **32**
+       9 Riala Rapids                   13       6      6       6   **31**
+      10 Mlaxa Meteors                  11       4      8       6   **29**
+     11= Kalisto Kestrels               13       6      2       6   **27**
+     11= Tlelmund Seals                  2       6      6      13   **27**
+      13 Aquatrip Sunsets                4      13      4       4   **25**
+      14 Tleve Titans                    4       4      8       6   **22**
+      15 Ulos Blizzard                   6       9      4       2   **21**
+     16= Nlastromund Wolves              1       1      6       9   **17**
+     16= Montanomund Mountaineers        4       6      2       5   **17**
+      18 Bantro Bison                    6       2      5       2   **15**
+      19 Abeldrip                        2       2      1       1    **6**
 
 ### Orientoport--Stototrip tiebreak
 
@@ -371,14 +228,10 @@ Championship seed. Stototrip were seeded seventh.
 
 The quarterfinals were best-of-five series.
 
--   **(1) \[\[Treslio Thunder\]\] defeated (8) \[\[Tarbo Tigers\]\],
-    3--2**
--   **(2) \[\[Savtrio Tropicbirds\]\] defeated (7) \[\[Stototrip
-    Hares\]\], 3--1**
--   **(6) \[\[Orientoport Ospreys\]\] defeated (3) \[\[Setroburg
-    Lynxes\]\], 3--2**
--   **(4) \[\[Merino Mariners\]\] defeated (5) \[\[Nleto Knights\]\],
-    3--1**
+-   **(1) Treslio defeated (8) Tarbo, 3--2**
+-   **(2) Savtrio defeated (7) Stototrip, 3--1**
+-   **(6) Orientoport defeated (3) Setroburg, 3--2**
+-   **(4) Merino defeated (5) Nleto, 3--1**
 
 Orientoport's victory over third-seeded Setroburg was the only
 quarterfinal won by the lower seed.
@@ -387,35 +240,32 @@ quarterfinal won by the lower seed.
 
 The semifinals were best-of-seven series.
 
--   **(1) \[\[Treslio Thunder\]\] defeated (6) \[\[Orientoport
-    Ospreys\]\], 4--2**
--   **(2) \[\[Savtrio Tropicbirds\]\] defeated (4) \[\[Merino
-    Mariners\]\], 4--1**
+-   **(1) Treslio defeated (6) Orientoport, 4--2**
+-   **(2) Savtrio defeated (4) Merino, 4--1**
 
 ### Championship Final
 
 The Championship Final was a best-of-seven series.
 
-**\[\[Treslio Thunder\]\] defeated \[\[Savtrio Tropicbirds\]\], 4--2**,
-to win the 2025--26 Agactan Championship.
+**Treslio Thunder defeated Savtrio Tropicbirds, 4--2**, to win the
+2025--26 Agactan Championship.
 
 ## Champions: Treslio Thunder
 
 Treslio finished first in the cumulative Championship standings with 60
-points. Their season built toward a dominant finish: after quarterfinal
-appearances in both the East and North Cups, they won the West Cup and
-South Cup consecutively before entering the Championship playoffs as the
-number-one seed.
+points. After quarterfinal appearances in the East and North Cups, the
+Thunder won the West and South Cups consecutively before entering the
+Championship playoffs as the number-one seed.
 
-Their route to the national title was:
+Their season was:
 
 -   East Cup --- quarterfinalist
 -   North Cup --- quarterfinalist
 -   West Cup --- **champion**
 -   South Cup --- **champion**
 -   Championship standings --- **1st, 60 points**
--   Championship QF --- defeated Tarbo 3--2
--   Championship SF --- defeated Orientoport 4--2
+-   Championship quarterfinal --- defeated Tarbo 3--2
+-   Championship semifinal --- defeated Orientoport 4--2
 -   Championship Final --- **defeated Savtrio 4--2**
 
 Savtrio finished as Championship runner-up after winning the East Cup
@@ -424,10 +274,18 @@ and reaching the semifinals of both the North and West Cups.
 ## Honours
 
   Honour                          Team
-  ------------------------------- -----------------------------
-  **Agactan Champion**            **\[\[Treslio Thunder\]\]**
-  East Cup                        \[\[Savtrio Tropicbirds\]\]
-  North Cup                       \[\[Merino Mariners\]\]
-  West Cup                        \[\[Treslio Thunder\]\]
-  South Cup                       \[\[Treslio Thunder\]\]
-  Championship standings leader   \[\[Treslio Thunder\]\]
+  ------------------------------- ---------------------
+  **Agactan champion**            **Treslio Thunder**
+  East Cup                        Savtrio Tropicbirds
+  North Cup                       Merino Mariners
+  West Cup                        Treslio Thunder
+  South Cup                       Treslio Thunder
+  Championship standings leader   Treslio Thunder
+
+## See also
+
+-   [Basketball in Agacta](Basketball_in_Agacta_FIXED.md)
+-   [Agactan Basketball
+    Season](Agactan_Basketball_Season_Format_FIXED.md)
+-   [2024--25 Agactan Basketball
+    Season](2024-25_Agactan_Basketball_Season_REWRITTEN.md)

@@ -12,14 +12,13 @@ title: Basketball in Agacta
 
 # Basketball in Agacta
 
-**Basketball in Agacta** is organised nationally through \[\[ASC
-Basketball\]\] and is played through a professional and
-semi-professional competition structure. The top level of the sport is
-unusual in that the national season is not based around a single
-conventional league campaign. Instead, professional franchises compete
-across four historic Cup competitions, with their results accumulating
-toward qualification for the season-ending \[[Agactan Basketball
-Championship](#agactan-basketball-championship)\].
+**Basketball in Agacta** is organised nationally through **ASC
+Basketball** and is played through a professional and semi-professional
+competition structure. The top level of the sport is not based around a
+single conventional league campaign. Instead, professional franchises
+compete across four historic Cup competitions, with their results
+accumulating toward qualification for the season-ending **Agactan
+Basketball Championship**.
 
 Agacta has **19 professional basketball franchises**. Sixteen compete in
 Division 1 at any one time, while the remaining professional teams
@@ -31,7 +30,7 @@ The national Championship is the principal domestic title.
 
 ## Organisation
 
-The sport is administered by \[\[ASC Basketball\]\].
+The sport is administered by **ASC Basketball**.
 
 The modern national system combines professional basketball,
 semi-professional competition, the four historic regional Cups and the
@@ -39,10 +38,10 @@ national Championship.
 
 The four major Cups are:
 
-1.  \[\[East Cup\]\]
-2.  \[\[North Cup\]\]
-3.  \[\[West Cup\]\]
-4.  \[\[South Cup\]\]
+1.  **East Cup**
+2.  **North Cup**
+3.  **West Cup**
+4.  **South Cup**
 
 Although associated with the four regional divisions of ASC Basketball,
 the Cups are national competitions rather than tournaments restricted to
@@ -55,32 +54,27 @@ retains its own identity and history.
 
 There are **19 professional franchises** in Agactan basketball.
 
-The professional franchises are:
-
-  Franchise                          Home area
-  ---------------------------------- ---------------------
-  \[\[Tleve Titans\]\]               \[\[Tleva\]\]
-  \[\[Kalisto Kestrels\]\]           \[\[Kalisto\]\]
-  \[\[Montanomund Mountaineers\]\]   \[\[Montanomund\]\]
-  \[\[Riala Rapids\]\]               \[\[Riala\]\]
-  \[\[Setroburg Lynxes\]\]           \[\[Setroburg\]\]
-  Abeldrip                           \[\[Abeldrip\]\]
-  \[\[Nlastromund Wolves\]\]         \[\[Nlastromund\]\]
-  \[\[Mlaxa Meteors\]\]              \[\[Mlaxa\]\]
-  \[\[Orientoport Ospreys\]\]        \[\[Orientoport\]\]
-  \[\[Treslio Thunder\]\]            \[\[Treslio\]\]
-  \[\[Merino Mariners\]\]            \[\[Merino\]\]
-  \[\[Nleto Knights\]\]              \[\[Nleto\]\]
-  \[\[Stototrip Hares\]\]            \[\[Stototrip\]\]
-  \[\[Bantro Bison\]\]               \[\[Bantro\]\]
-  \[\[Tarbo Tigers\]\]               \[\[Tarbo\]\]
-  \[\[Ulos Blizzard\]\]              \[\[Ulos\]\]
-  \[\[Tlelmund Seals\]\]             \[\[Tlelmund\]\]
-  \[\[Aquatrip Sunsets\]\]           \[\[Aquatrip\]\]
-  \[\[Savtrio Tropicbirds\]\]        \[\[Savtrio\]\]
-
-The 19-franchise structure gives each of Agacta's 19 principal
-territorial franchises a professional basketball representative.
+  Franchise                  Home area
+  -------------------------- -------------
+  Tleve Titans               Tleva
+  Kalisto Kestrels           Kalisto
+  Montanomund Mountaineers   Montanomund
+  Riala Rapids               Riala
+  Setroburg Lynxes           Setroburg
+  Abeldrip                   Abeldrip
+  Nlastromund Wolves         Nlastromund
+  Mlaxa Meteors              Mlaxa
+  Orientoport Ospreys        Orientoport
+  Treslio Thunder            Treslio
+  Merino Mariners            Merino
+  Nleto Knights              Nleto
+  Stototrip Hares            Stototrip
+  Bantro Bison               Bantro
+  Tarbo Tigers               Tarbo
+  Ulos Blizzard              Ulos
+  Tlelmund Seals             Tlelmund
+  Aquatrip Sunsets           Aquatrip
+  Savtrio Tropicbirds        Savtrio
 
 ## Divisional structure
 
@@ -127,17 +121,15 @@ The national season consists of five principal stages:
 4.  **South Cup**
 5.  **Agactan Basketball Championship playoffs**
 
-The four Cups serve two purposes.
-
-Each is an independent trophy competition with its own champion, while
-finishing positions also award points toward the season-long
-Championship standings.
+The four Cups serve two purposes. Each is an independent trophy
+competition with its own champion, while finishing positions also award
+points toward the season-long Championship standings.
 
 After all four Cups, the eight professional franchises with the most
 Championship points qualify for the Championship playoffs.
 
-For the complete competition system, see \[\[Agactan Basketball
-Season\]\].
+For the complete competition system, see [Agactan Basketball
+Season](Agactan_Basketball_Season_Format_FIXED.md).
 
 ## The four Cups
 
@@ -203,9 +195,8 @@ Championship standings.
 
 ## Agactan Basketball Championship
 
-The \[[Agactan Basketball
-Championship](#agactan-basketball-championship)\] determines the
-national champion.
+The **Agactan Basketball Championship** determines the national
+champion.
 
 The top eight teams in the cumulative standings qualify and are seeded
 from first to eighth.
@@ -217,9 +208,8 @@ The playoff bracket begins:
 -   3rd vs 6th
 -   4th vs 5th
 
-The quarterfinals are played as **best-of-five series**.
-
-The semifinals and Championship Final are **best-of-seven series**.
+The quarterfinals are played as **best-of-five series**. The semifinals
+and Championship Final are **best-of-seven series**.
 
 Winning one of the four Cups does not provide automatic qualification
 for the Championship. A Cup winner must still finish inside the overall
@@ -267,21 +257,18 @@ National basketball is carried across several Agactan broadcasters.
 Established national basketball broadcast windows include:
 
   Day           Time Selection   Broadcaster
-  ---------- ------- ----------- ------------------
-  Friday       18:00 Pick 3      \[\[Star\]\]
-  Saturday     18:00 Pick 4      \[\[Invictus\]\]
-  Saturday     20:00 Pick 1      \[\[Invictus\]\]
-  Sunday       12:00 Pick 5      \[\[AgaSat\]\]
-  Sunday       14:00 Pick 6      \[\[Invictus\]\]
-  Monday       19:00 Pick 3      \[\[AgaSat\]\]
-
-The schedule gives national basketball regular free-to-air and
-pay/television exposure across the weekend and Monday evening.
+  ---------- ------- ----------- -------------
+  Friday       18:00 Pick 3      Star
+  Saturday     18:00 Pick 4      Invictus
+  Saturday     20:00 Pick 1      Invictus
+  Sunday       12:00 Pick 5      AgaSat
+  Sunday       14:00 Pick 6      Invictus
+  Monday       19:00 Pick 3      AgaSat
 
 ## Altur competition
 
-Agactan basketball teams can also compete in the \[\[Altur Champions
-Cup\]\].
+Agactan basketball teams can also compete in the **Altur Champions
+Cup**.
 
 The Altur Champions Cup is a knockout continental competition. It is
 separate from the domestic Championship system and does not replace the
@@ -292,15 +279,13 @@ regarded as the principal title.
 
 ## Recent champions
 
-  -----------------------------------------------------------------------
-  Season                  National champion       Runner-up
-  ----------------------- ----------------------- -----------------------
-  \[\[2024--25 Agactan    2024--25\]\]            **\[\[Savtrio
-  Basketball Season                               Tropicbirds\]\]**
+  --------------------------------------------------------------------------------------------------
+  Season                                             National champion       Runner-up
+  -------------------------------------------------- ----------------------- -----------------------
+  [2024--25](2024-25_Agactan_Basketball_Season.md)   **Savtrio Tropicbirds** Nleto Knights
 
-  \[\[2025--26 Agactan    2025--26\]\]            **\[\[Treslio
-  Basketball Season                               Thunder\]\]**
-  -----------------------------------------------------------------------
+  [2025--26](2025-26_Agactan_Basketball_Season.md)   **Treslio Thunder**     Savtrio Tropicbirds
+  --------------------------------------------------------------------------------------------------
 
 In 2024--25, Savtrio won the South Cup before defeating top-seeded Nleto
 in the Championship Final.
@@ -311,14 +296,9 @@ Final.
 
 ## See also
 
--   \[\[Agactan Basketball Season\]\]
--   \[[Agactan Basketball
-    Championship](#agactan-basketball-championship)\]
--   \[\[East Cup\]\]
--   \[\[North Cup\]\]
--   \[\[West Cup\]\]
--   \[\[South Cup\]\]
--   \[\[2024--25 Agactan Basketball Season\]\]
--   \[\[2025--26 Agactan Basketball Season\]\]
--   \[\[Altur Champions Cup\]\]
--   \[\[ASC Basketball\]\]
+-   [Agactan Basketball
+    Season](Agactan_Basketball_Season_Format_FIXED.md)
+-   [2024--25 Agactan Basketball
+    Season](2024-25_Agactan_Basketball_Season.md)
+-   [2025--26 Agactan Basketball
+    Season](2025-26_Agactan_Basketball_Season.md)
