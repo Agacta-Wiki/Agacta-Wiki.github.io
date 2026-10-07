@@ -8,293 +8,4783 @@ title: 2024--25 Agactan Basketball Season
 
 # 2024--25 Agactan Basketball Season
 
-The **2024--25 Agactan Basketball Season** was the national professional
-basketball season in Agacta. The season comprised four Cup competitions
---- the East Cup, North Cup, West Cup and South Cup --- with results
-contributing to an overall Championship table. The top eight franchises
-qualified for the season-ending Agactan Basketball Championship
-playoffs.
-
-**Savtrio Tropicbirds** won the national championship, defeating **Nleto
-Knights** in the Championship Final. Nleto had finished first in the
-Championship table with 55 points and won both the East and West Cups,
-while Savtrio finished second with 50 points and won the South Cup.
-
-## Season overview
-
-  -------------------------------- -------------------------
-  **National champions**           **Savtrio Tropicbirds**
-  **Championship runners-up**      Nleto Knights
-  **Championship table winners**   Nleto Knights
-  **East Cup winners**             Nleto Knights
-  **North Cup winners**            Kalisto Kestrels
-  **West Cup winners**             Nleto Knights
-  **South Cup winners**            Savtrio Tropicbirds
-  -------------------------------- -------------------------
-
-## Teams
-
-Nineteen professional franchises participated during the season. Sixteen
-competed in Division 1 at any one time, while the remaining professional
-franchises competed in Division 2 alongside semi-professional teams.
-
-The professional Division 2 franchises at the beginning of the season
-were **Orientoport Ospreys, Aquatrip Sunsets and Nlastromund Wolves**.
-
-Promotion and relegation took place after each Cup.
+The **2024--25 Agactan Basketball Season** concluded with **Savtrio
+Tropicbirds** defeating **Nleto Knights** in the Agactan Basketball
+Championship Final. Nleto finished first in the overall Championship
+standings and won the East and West Cups; Kalisto Kestrels won the North
+Cup and Savtrio won the South Cup.
 
 ## East Cup
 
-### Division 1
+### Division 1 group stage
 
-    Pos. Group 1A                   Group 1B
-  ------ -------------------------- ---------------------
-       1 Treslio Thunder            Nleto Knights
-       2 Abeldrip                   Tleve Titans
-       3 Merino Mariners            Savtrio Tropicbirds
-       4 Setroburg Lynxes           Tarbo Tigers
-       5 Ulos Blizzard              Mlaxa Meteors
-       6 Riala Rapids               Kalisto Kestrels
-       7 Tlelmund Seals             Stototrip Hares
-       8 Montanomund Mountaineers   Bantro Bison
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th style="text-align:center">
+```
+Pos
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1A
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+Status
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+Pos
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1B
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+Status
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr style="background:#cfe2f3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}1`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Treslio Thunder`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}SF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}1`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}SF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}2`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Abeldrip`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}QF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}2`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Tleve Titans`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}QF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}3`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Merino Mariners`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}QF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}3`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}QF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Setroburg Lynxes
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo Tigers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+5
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos Blizzard
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+5
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Mlaxa Meteors
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Riala Rapids
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Kalisto Kestrels
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#fff2cc">
+```
+```{=html}
+<td align="center">
+```
+7
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tlelmund Seals
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+Relegation
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+7
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Stototrip Hares
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+Relegation
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#fff2cc">
+```
+```{=html}
+<td align="center">
+```
+8
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Montanomund Mountaineers
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+Relegation
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+8
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+Relegation
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
+```{=html}
+<p>
+```
+`<small>`{=html}[Direct to
+semi-finals]{style="background:#cfe2f3;padding:2px 8px"}  
+[Quarter-finals]{style="background:#d9ead3;padding:2px 8px"}  
+[Relegation
+stage]{style="background:#fff2cc;padding:2px 8px"}`</small>`{=html}
+```{=html}
+</p>
+```
 ### Knockout stage
 
-  Round           Result
-  --------------- ----------------------------
-  Quarter-final   Savtrio defeated Abeldrip
-  Quarter-final   Tleve defeated Merino
-  Semi-final      Nleto defeated Savtrio
-  Semi-final      Treslio defeated Tleve
-  **Final**       **Nleto defeated Treslio**
-
-Nleto Knights won the East Cup. Savtrio Tropicbirds and Tleve Titans
-were the losing semi-finalists.
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Quarter-finals
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Semi-finals
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Final
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Champion
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Savtrio Tropicbirds
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="4">
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="8" style="background:#ffd966;text-align:center">
+```
+`<b>`{=html}NLETO KNIGHTS`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Abeldrip
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td colspan="1">
+```
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+Savtrio Tropicbirds
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Tleve Titans
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+Tleve Titans
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="4">
+```
+Treslio Thunder
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Merino Mariners
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+`<b>`{=html}Treslio Thunder`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 ### Promotion and relegation
 
-Orientoport Ospreys won the Division 2 competition and were promoted to
-Division 1. Aquatrip Sunsets finished as the professional runner-up but
-lost the promotion/relegation playoff to Bantro Bison.
-
-Montanomund Mountaineers were relegated.
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Stage
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Winner
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Loser
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Outcome
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 relegation game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Stototrip Hares
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Montanomund Mountaineers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Stototrip safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 relegation game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tlelmund Seals
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tlelmund safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 survival game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+<td style="background:#f4cccc">
+```
+Montanomund Mountaineers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Montanomund relegated
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Promotion/relegation playoff
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Aquatrip Sunsets
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bantro remained in D1
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td>
+```
+D2 promotion
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Orientoport Ospreys`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Promoted to D1`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 ## North Cup
 
-### Division 1
+### Division 1 group stage
 
-  --------------------------------------------------------------------------
-  Group          1st            2nd            3rd            4th
-  -------------- -------------- -------------- -------------- --------------
-  1A             Savtrio        Kalisto        Orientoport    Treslio
-                 Tropicbirds    Kestrels       Ospreys        Thunder
-
-  1B             Abeldrip       Mlaxa Meteors  Tlelmund Seals Tarbo Tigers
-
-  1C             Nleto Knights  Setroburg      Stototrip      Ulos Blizzard
-                                Lynxes         Hares          
-
-  1D             Merino         Tleve Titans   Riala Rapids   Bantro Bison
-                 Mariners                                     
-  --------------------------------------------------------------------------
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th style="text-align:center">
+```
+Pos
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1A
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1B
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1C
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1D
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}1`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Abeldrip`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Merino Mariners`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}2`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Kalisto Kestrels`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Mlaxa Meteors`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Setroburg Lynxes`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Tleve Titans`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+3
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Orientoport Ospreys
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tlelmund Seals
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Stototrip Hares
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Riala Rapids
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#fff2cc">
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Treslio Thunder
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo Tigers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos Blizzard
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
+```{=html}
+<p>
+```
+`<small>`{=html}[Quarter-finals]{style="background:#d9ead3;padding:2px 8px"}
+  [Relegation
+stage]{style="background:#fff2cc;padding:2px 8px"}`</small>`{=html}
+```{=html}
+</p>
+```
 ### Knockout stage
 
-  Round           Result
-  --------------- --------------------------------
-  Quarter-final   Merino defeated Mlaxa
-  Quarter-final   Kalisto defeated Nleto
-  Quarter-final   Setroburg defeated Abeldrip
-  Quarter-final   Tleve defeated Savtrio
-  Semi-final      Setroburg defeated Tleve
-  Semi-final      Kalisto defeated Merino
-  **Final**       **Kalisto defeated Setroburg**
-
-Kalisto Kestrels won the North Cup after defeating Setroburg Lynxes in
-the final.
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Quarter-finals
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Semi-finals
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Final
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Champion
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Merino Mariners
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+Merino Mariners
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="4">
+```
+`<b>`{=html}Kalisto Kestrels`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="8" style="background:#ffd966;text-align:center">
+```
+`<b>`{=html}KALISTO KESTRELS`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Mlaxa Meteors
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Kalisto Kestrels
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+`<b>`{=html}Kalisto Kestrels`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Nleto Knights
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Setroburg Lynxes
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+`<b>`{=html}Setroburg Lynxes`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="4">
+```
+Setroburg Lynxes
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Abeldrip
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Tleve Titans
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+Tleve Titans
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Savtrio Tropicbirds
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 ### Promotion and relegation
 
-Semi-professional Hojomund won the Division 2 competition, defeating
-Nlastromund Wolves in the final. As Hojomund were not eligible for
-Division 1 promotion, Nlastromund entered the promotion/relegation
-playoff and defeated Bantro Bison.
-
-Nlastromund were promoted and Bantro were relegated.
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Stage
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Winner
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Loser
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Outcome
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 relegation game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Treslio Thunder
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Treslio safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 relegation game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos Blizzard
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo Tigers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 survival game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo Tigers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Promotion/relegation playoff
+```{=html}
+</td>
+```
+```{=html}
+<td style="background:#d9ead3">
+```
+`<b>`{=html}Nlastromund Wolves`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td style="background:#f4cccc">
+```
+`<b>`{=html}Bantro Bison`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Nlastromund promoted; Bantro relegated
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 ## West Cup
 
-### Division 1
+### Division 1 group stage
 
-    Pos. Group 1A              Group 1B
-  ------ --------------------- ------------------
-       1 Nleto Knights         Kalisto Kestrels
-       2 Mlaxa Meteors         Merino Mariners
-       3 Orientoport Ospreys   Treslio Thunder
-       4 Savtrio Tropicbirds   Setroburg Lynxes
-       5 Tleve Titans          Riala Rapids
-       6 Ulos Blizzard         Tarbo Tigers
-       7 Tlelmund Seals        Stototrip Hares
-       8 Nlastromund Wolves    Abeldrip
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th style="text-align:center">
+```
+Pos
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1A
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+Status
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+Pos
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1B
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+Status
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr style="background:#cfe2f3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}1`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}SF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}1`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Kalisto Kestrels`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}SF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}2`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Mlaxa Meteors`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}QF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}2`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Merino Mariners`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}QF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}3`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Orientoport Ospreys`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}QF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}3`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Treslio Thunder`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}QF`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Savtrio Tropicbirds
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Setroburg Lynxes
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+5
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tleve Titans
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+5
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Riala Rapids
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos Blizzard
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo Tigers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#fff2cc">
+```
+```{=html}
+<td align="center">
+```
+7
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tlelmund Seals
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+Relegation
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+7
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Stototrip Hares
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+Relegation
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#fff2cc">
+```
+```{=html}
+<td align="center">
+```
+8
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Nlastromund Wolves
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+Relegation
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+8
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Abeldrip
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+Relegation
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 ### Knockout stage
 
-  Round           Result
-  --------------- -----------------------------
-  Quarter-final   Merino defeated Orientoport
-  Quarter-final   Mlaxa defeated Treslio
-  Semi-final      Kalisto defeated Mlaxa
-  Semi-final      Nleto defeated Merino
-  **Final**       **Nleto defeated Kalisto**
-
-Nleto Knights won their second Cup of the season, defeating Kalisto
-Kestrels in the final.
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Quarter-finals
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Semi-finals
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Final
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Champion
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Merino Mariners
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+Merino Mariners
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="4">
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="8" style="background:#ffd966;text-align:center">
+```
+`<b>`{=html}NLETO KNIGHTS`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Orientoport Ospreys
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Mlaxa Meteors
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+Mlaxa Meteors
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="4">
+```
+Kalisto Kestrels
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Treslio Thunder
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+`<b>`{=html}Kalisto Kestrels`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 ### Promotion and relegation
 
-Bantro Bison earned direct promotion from Division 2. Montanomund
-Mountaineers subsequently defeated Tlelmund Seals in the
-promotion/relegation playoff.
-
-Bantro and Montanomund were promoted, while Nlastromund Wolves and
-Tlelmund were relegated.
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Stage
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Winner
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Loser
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Outcome
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 relegation game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Stototrip Hares
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tlelmund Seals
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Stototrip safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 relegation game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Abeldrip
+```{=html}
+</td>
+```
+```{=html}
+<td style="background:#f4cccc">
+```
+Nlastromund Wolves
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Nlastromund relegated
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 survival game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Abeldrip
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tlelmund Seals
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Abeldrip safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td>
+```
+D2 promotion
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Bantro Bison`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Promoted to D1`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Promotion/relegation playoff
+```{=html}
+</td>
+```
+```{=html}
+<td style="background:#d9ead3">
+```
+`<b>`{=html}Montanomund Mountaineers`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td style="background:#f4cccc">
+```
+`<b>`{=html}Tlelmund Seals`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Montanomund promoted; Tlelmund relegated
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 ## South Cup
 
-The South Cup draw was seeded according to the cumulative Championship
-standings after the first three Cups, using only the sixteen franchises
-then competing in Division 1.
+### Division 1 group stage
 
-### Group stage
-
-  --------------------------------------------------------------------------
-               Pos. Group 1A      Group 1B       Group 1C      Group 1D
-  ----------------- ------------- -------------- ------------- -------------
-                  1 Stototrip     Setroburg      Merino        Savtrio
-                    Hares         Lynxes         Mariners      Tropicbirds
-
-                  2 Treslio       Abeldrip       Tleve Titans  Bantro Bison
-                    Thunder                                    
-
-                  3 Nleto Knights Mlaxa Meteors  Orientoport   Riala Rapids
-                                                 Ospreys       
-
-                  4 Tarbo Tigers  Montanomund    Ulos Blizzard Kalisto
-                                  Mountaineers                 Kestrels
-  --------------------------------------------------------------------------
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th style="text-align:center">
+```
+Pos
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1A
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1B
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1C
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Group 1D
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}1`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Stototrip Hares`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Setroburg Lynxes`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Merino Mariners`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}2`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Treslio Thunder`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Abeldrip`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Tleve Titans`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Bantro Bison`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+3
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Nleto Knights
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Mlaxa Meteors
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Orientoport Ospreys
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Riala Rapids
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#fff2cc">
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo Tigers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Montanomund Mountaineers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos Blizzard
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Kalisto Kestrels
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 ### Knockout stage
 
-  Round           Result
-  --------------- --------------------------------
-  Quarter-final   Stototrip defeated Tleve
-  Quarter-final   Savtrio defeated Abeldrip
-  Quarter-final   Treslio defeated Setroburg
-  Quarter-final   Bantro defeated Merino
-  Semi-final      Stototrip defeated Bantro
-  Semi-final      Savtrio defeated Treslio
-  **Final**       **Savtrio defeated Stototrip**
-
-Savtrio Tropicbirds won the South Cup, their first Cup victory of the
-season.
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Quarter-finals
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Semi-finals
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Final
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Champion
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Stototrip Hares
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+`<b>`{=html}Stototrip Hares`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="4">
+```
+Stototrip Hares
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="8" style="background:#ffd966;text-align:center">
+```
+`<b>`{=html}SAVTRIO TROPICBIRDS`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Tleve Titans
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Merino Mariners
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Savtrio Tropicbirds
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+`<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="4">
+```
+`<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Abeldrip
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Treslio Thunder
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+Treslio Thunder
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Setroburg Lynxes
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
 ### Promotion and relegation
 
-Semi-professional Yojo won Division 2 after defeating Aquatrip Sunsets
-in the final. Aquatrip were the only professional franchise among the
-Division 2 semi-finalists and received the available
-promotion/relegation playoff place.
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Stage
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Winner
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Loser
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Outcome
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 relegation game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Kalisto Kestrels
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo Tigers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Kalisto safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 relegation game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Montanomund Mountaineers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos Blizzard
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Montanomund safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+D1 survival game
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos Blizzard
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo Tigers
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos safe
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Promotion/relegation playoff
+```{=html}
+</td>
+```
+```{=html}
+<td style="background:#d9ead3">
+```
+`<b>`{=html}Aquatrip Sunsets`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td style="background:#f4cccc">
+```
+`<b>`{=html}Tarbo Tigers`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Aquatrip promoted; Tarbo relegated
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
+## Championship standings
 
-Aquatrip defeated Tarbo Tigers and were promoted. Tarbo were relegated.
-
-The result left **Tarbo Tigers, Tlelmund Seals and Nlastromund Wolves**
-as the three professional Division 2 franchises entering 2025--26.
-
-## Championship table
-
-The final Championship table was calculated from results across all four
-Cups. The top eight qualified for the Championship playoffs.
-
-     Pos. Team                         East   North   West   South      Pts
-  ------- -------------------------- ------ ------- ------ ------- --------
-    **1** **Nleto Knights**              20       9     20       6   **55**
-    **2** **Savtrio Tropicbirds**        13       9      8      20   **50**
-    **3** **Kalisto Kestrels**            6      20     16       4   **46**
-    **4** **Merino Mariners**            11      13     13       9   **46**
-    **5** **Treslio Thunder**            16       4     11      13   **44**
-    **6** **Setroburg Lynxes**            8      16      8       9   **41**
-    **7** **Tleve Titans**               13      13      6       9   **41**
-    **8** **Mlaxa Meteors**               6       9     13       6   **34**
-        9 Abeldrip                       11       9      4       9   **33**
-       10 Stototrip Hares                 4       6      4      16   **30**
-       11 Orientoport Ospreys             6       6     11       6   **29**
-       12 Bantro Bison                    4       2      6      13   **25**
-       13 Riala Rapids                    6       6      6       6   **24**
-      14= Tarbo Tigers                    8       4      6       2   **20**
-      14= Ulos Blizzard                   6       4      6       4   **20**
-       16 Tlelmund Seals                  4       6      2       1   **13**
-       17 Montanomund Mountaineers        2       1      5       4   **12**
-      18= Nlastromund Wolves              1       5      2       1    **9**
-      18= Aquatrip Sunsets                2       1      1       5    **9**
-
-Kalisto ranked above Merino on the first applicable Championship
-tiebreaker, having won the North Cup. Setroburg ranked above Tleve after
-reaching the North Cup final.
-
-Mlaxa secured the eighth and final playoff place by one point over
-Abeldrip.
-
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th style="text-align:center">
+```
+Pos
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Team
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+East
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+North
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+West
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+South
+```{=html}
+</th>
+```
+```{=html}
+<th style="text-align:center">
+```
+Pts
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}1`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+20
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+9
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+20
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}55`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}2`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+13
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+9
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+8
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+20
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}50`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}3`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Kalisto Kestrels`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+20
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+16
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}46`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}4`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Merino Mariners`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+11
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+13
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+13
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+9
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}46`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}5`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Treslio Thunder`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+16
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+11
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+13
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}44`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}6`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Setroburg Lynxes`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+8
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+16
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+8
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+9
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}41`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}7`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Tleve Titans`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+13
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+13
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+9
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}41`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#d9ead3">
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}8`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Mlaxa Meteors`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+9
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+13
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}34`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+9
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Abeldrip
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+11
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+9
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+9
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}33`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+10
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Stototrip Hares
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+16
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}30`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+11
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Orientoport Ospreys
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+11
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}29`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+12
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Bantro Bison
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+2
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+13
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}25`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+13
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Riala Rapids
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}24`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+14=
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tarbo Tigers
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+8
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+2
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}20`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+14=
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Ulos Blizzard
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}20`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+16
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Tlelmund Seals
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+6
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+2
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+1
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}13`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+17
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Montanomund Mountaineers
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+2
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+1
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+5
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+4
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}12`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+18=
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Nlastromund Wolves
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+1
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+5
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+2
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+1
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}9`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+18=
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Aquatrip Sunsets
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+2
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+1
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+1
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+5
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<b>`{=html}9`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
+```{=html}
+<p>
+```
+`<small>`{=html}[Qualified for Championship
+playoffs]{style="background:#d9ead3;padding:2px 8px"}`</small>`{=html}
+```{=html}
+</p>
+```
 ## Championship playoffs
-
-The quarter-finals were played as best-of-five series. The semi-finals
-and Championship Final were best-of-seven.
 
 ### Bracket
 
-  Quarter-finals                     Semi-finals                      Championship Final
-  ---------------------------------- -------------------------------- --------------------------------
-  \(1\) Nleto def. (8) Mlaxa         \(1\) Nleto def. (5) Treslio     
-  \(5\) Treslio def. (4) Merino                                       **(2) Savtrio def. (1) Nleto**
-  \(2\) Savtrio def. (7) Tleve       \(2\) Savtrio def. (3) Kalisto   
-  \(3\) Kalisto def. (6) Setroburg                                    
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Quarter-finals`<br>`{=html}`<small>`{=html}Best of 5`</small>`{=html}
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Semi-finals`<br>`{=html}`<small>`{=html}Best of 7`</small>`{=html}
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Championship Final`<br>`{=html}`<small>`{=html}Best of
+7`</small>`{=html}
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Champion
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}(1) Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="2">
+```
+`<b>`{=html}(1) Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td rowspan="4">
+```
+(1) Nleto Knights
+    ```{=html}
+    </td>
+    ```
+    ```{=html}
+    <td rowspan="8" style="background:#ffd966;text-align:center">
+    ```
+    `<b>`{=html}SAVTRIO`<br>`{=html}TROPICBIRDS`</b>`{=html}
+    ```{=html}
+    </td>
+    ```
+    ```{=html}
+    </tr>
+    ```
+    ```{=html}
+    <tr>
+    ```
+    ```{=html}
+    <td>
+    ```
+    (8) Mlaxa Meteors
+        ```{=html}
+        </td>
+        ```
+        ```{=html}
+        </tr>
+        ```
+        ```{=html}
+        <tr>
+        ```
+        ```{=html}
+        <td>
+        ```
+        `<b>`{=html}(5) Treslio Thunder`</b>`{=html}
+        ```{=html}
+        </td>
+        ```
+        ```{=html}
+        <td rowspan="2">
+        ```
+        (5) Treslio Thunder
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </tr>
+            ```
+            ```{=html}
+            <tr>
+            ```
+            ```{=html}
+            <td>
+            ```
+            (4) Merino Mariners
+                ```{=html}
+                </td>
+                ```
+                ```{=html}
+                </tr>
+                ```
+                ```{=html}
+                <tr>
+                ```
+                ```{=html}
+                <td>
+                ```
+                `<b>`{=html}(2) Savtrio Tropicbirds`</b>`{=html}
+                ```{=html}
+                </td>
+                ```
+                ```{=html}
+                <td rowspan="2">
+                ```
+                `<b>`{=html}(2) Savtrio Tropicbirds`</b>`{=html}
+                ```{=html}
+                </td>
+                ```
+                ```{=html}
+                <td rowspan="4">
+                ```
+                `<b>`{=html}(2) Savtrio Tropicbirds`</b>`{=html}
+                ```{=html}
+                </td>
+                ```
+                ```{=html}
+                </tr>
+                ```
+                ```{=html}
+                <tr>
+                ```
+                ```{=html}
+                <td>
+                ```
+                (7) Tleve Titans
+                    ```{=html}
+                    </td>
+                    ```
+                    ```{=html}
+                    </tr>
+                    ```
+                    ```{=html}
+                    <tr>
+                    ```
+                    ```{=html}
+                    <td>
+                    ```
+                    `<b>`{=html}(3) Kalisto Kestrels`</b>`{=html}
+                    ```{=html}
+                    </td>
+                    ```
+                    ```{=html}
+                    <td rowspan="2">
+                    ```
+                    (3) Kalisto Kestrels
+                        ```{=html}
+                        </td>
+                        ```
+                        ```{=html}
+                        </tr>
+                        ```
+                        ```{=html}
+                        <tr>
+                        ```
+                        ```{=html}
+                        <td>
+                        ```
+                        (6) Setroburg Lynxes
+                            ```{=html}
+                            </td>
+                            ```
+                            ```{=html}
+                            </tr>
+                            ```
+                            ```{=html}
+                            </tbody>
+                            ```
+                            ```{=html}
+                            </table>
+                            ```
 
-### Quarter-finals
+### Results
 
--   (1) Nleto Knights defeated (8) Mlaxa Meteors
--   (2) Savtrio Tropicbirds defeated (7) Tleve Titans
--   (3) Kalisto Kestrels defeated (6) Setroburg Lynxes
--   (5) Treslio Thunder defeated (4) Merino Mariners
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Round
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Series
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Winner
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+Quarter-final
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+(1) Nleto vs (8) Mlaxa
+    ```{=html}
+    </td>
+    ```
+    ```{=html}
+    <td>
+    ```
+    `<b>`{=html}Nleto Knights`</b>`{=html}
+    ```{=html}
+    </td>
+    ```
+    ```{=html}
+    </tr>
+    ```
+    ```{=html}
+    <tr>
+    ```
+    ```{=html}
+    <td>
+    ```
+    Quarter-final
+    ```{=html}
+    </td>
+    ```
+    ```{=html}
+    <td>
+    ```
+    (2) Savtrio vs (7) Tleve
+        ```{=html}
+        </td>
+        ```
+        ```{=html}
+        <td>
+        ```
+        `<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+        ```{=html}
+        </td>
+        ```
+        ```{=html}
+        </tr>
+        ```
+        ```{=html}
+        <tr>
+        ```
+        ```{=html}
+        <td>
+        ```
+        Quarter-final
+        ```{=html}
+        </td>
+        ```
+        ```{=html}
+        <td>
+        ```
+        (3) Kalisto vs (6) Setroburg
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            `<b>`{=html}Kalisto Kestrels`</b>`{=html}
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            </tr>
+            ```
+            ```{=html}
+            <tr>
+            ```
+            ```{=html}
+            <td>
+            ```
+            Quarter-final
+            ```{=html}
+            </td>
+            ```
+            ```{=html}
+            <td>
+            ```
+            (4) Merino vs (5) Treslio
+                ```{=html}
+                </td>
+                ```
+                ```{=html}
+                <td>
+                ```
+                `<b>`{=html}Treslio Thunder`</b>`{=html}
+                ```{=html}
+                </td>
+                ```
+                ```{=html}
+                </tr>
+                ```
+                ```{=html}
+                <tr>
+                ```
+                ```{=html}
+                <td>
+                ```
+                Semi-final
+                ```{=html}
+                </td>
+                ```
+                ```{=html}
+                <td>
+                ```
+                (1) Nleto vs (5) Treslio
+                    ```{=html}
+                    </td>
+                    ```
+                    ```{=html}
+                    <td>
+                    ```
+                    `<b>`{=html}Nleto Knights`</b>`{=html}
+                    ```{=html}
+                    </td>
+                    ```
+                    ```{=html}
+                    </tr>
+                    ```
+                    ```{=html}
+                    <tr>
+                    ```
+                    ```{=html}
+                    <td>
+                    ```
+                    Semi-final
+                    ```{=html}
+                    </td>
+                    ```
+                    ```{=html}
+                    <td>
+                    ```
+                    (2) Savtrio vs (3) Kalisto
+                        ```{=html}
+                        </td>
+                        ```
+                        ```{=html}
+                        <td>
+                        ```
+                        `<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+                        ```{=html}
+                        </td>
+                        ```
+                        ```{=html}
+                        </tr>
+                        ```
+                        ```{=html}
+                        <tr style="background:#ffd966">
+                        ```
+                        ```{=html}
+                        <td>
+                        ```
+                        `<b>`{=html}Final`</b>`{=html}
+                        ```{=html}
+                        </td>
+                        ```
+                        ```{=html}
+                        <td>
+                        ```
+                        Nleto vs Savtrio
+                        ```{=html}
+                        </td>
+                        ```
+                        ```{=html}
+                        <td>
+                        ```
+                        `<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+                        ```{=html}
+                        </td>
+                        ```
+                        ```{=html}
+                        </tr>
+                        ```
+                        ```{=html}
+                        </tbody>
+                        ```
+                        ```{=html}
+                        </table>
+                        ```
 
-Treslio were the only lower seed to advance.
+## Cup winners
 
-### Semi-finals
-
--   (1) Nleto Knights defeated (5) Treslio Thunder
--   (2) Savtrio Tropicbirds defeated (3) Kalisto Kestrels
-
-### Championship Final
-
-**Savtrio Tropicbirds defeated Nleto Knights** to win the 2024--25
-Agactan Basketball Championship.
-
-Savtrio entered the playoffs as the second seed after winning the South
-Cup. Nleto had led the Championship table and won two of the four Cups,
-but finished the season as national runners-up.
-
-## Honours
-
-  Competition                           Winners
-  ------------------------------------- -------------------------
-  **Agactan Basketball Championship**   **Savtrio Tropicbirds**
-  East Cup                              Nleto Knights
-  North Cup                             Kalisto Kestrels
-  West Cup                              Nleto Knights
-  South Cup                             Savtrio Tropicbirds
-
-## See also
-
--   [Basketball in Agacta](Basketball_in_Agacta_FIXED.md)
--   [Agactan Basketball
-    Season](Agactan_Basketball_Season_Format_FIXED.md)
--   [2025--26 Agactan Basketball
-    Season](2025-26_Agactan_Basketball_Season_WIKIPEDIA_STYLE.md)
+```{=html}
+<table>
+```
+```{=html}
+<thead>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<th>
+```
+Competition
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Winner
+```{=html}
+</th>
+```
+```{=html}
+<th>
+```
+Runner-up
+```{=html}
+</th>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</thead>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+East Cup
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Treslio Thunder
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+North Cup
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Kalisto Kestrels`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Setroburg Lynxes
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+West Cup
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Nleto Knights`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Kalisto Kestrels
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+South Cup
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Stototrip Hares
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr style="background:#ffd966">
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Agactan Basketball Championship`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Savtrio Tropicbirds`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Nleto Knights
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
