@@ -1,6 +1,6 @@
 # Motorways in Agacta
 
-The motorway network of [[Agacta]] consists of a system of high-capacity roads known as **Autostrade**, designated by the prefix **A** followed by a route number.
+The motorway network of [[Agacta]] consists of a system of high-capacity roads known as **Autostrade**, designated primarily by the prefix **A** followed by a route number.
 
 Agacta was an early adopter of motorway construction, opening its first motorway section in **1957**. The network initially developed around two principal corridors: the **A1**, popularly known as *Agacta's Main Street*, and the **A2**, connecting the capital, [[Treslio]], with [[Setroburg]].
 
@@ -10,17 +10,33 @@ The opening of the A5 to [[Orientoport]] in 1988 and the completion of the A1 ex
 
 Subsequent motorway construction concentrated increasingly on providing alternative routes, improving regional connectivity and linking areas not directly served by the original A1 and A2 corridors.
 
-By 2026, Agacta's motorway network is considered largely complete, although selected road improvements and motorway upgrades continue.
+By 2026, Agacta's principal motorway network is considered largely complete, although selected road improvements and motorway upgrades continue.
+
+In addition to the nine principal A-series routes, Agacta possesses several shorter motorway sections, motorway-standard urban ring roads and other motorway connections.
 
 ## Motorway network
 
-Agacta's motorway network consists of nine principal A-series routes, eight of which were constructed as motorways, while the A9 has been developed through the selective upgrading of an existing road corridor.
+Agacta's principal motorway network consists of nine A-series routes, eight of which were constructed as motorways, while the A9 has been developed through the selective upgrading of an existing road corridor.
 
 The A1 and A2 form the original backbone of the network, while subsequent routes provide connections between additional cities and regions.
 
 One distinctive feature of the motorway system is the difference between the official extent of a numbered motorway and the intercity corridor it serves.
 
 This is particularly noticeable around [[Setroburg]], where the city's geographical position beside [[Lake Setro]] has influenced the development of the motorway network.
+
+### Principal motorway routes
+
+| Motorway | Route or principal corridor | Completion |
+|---|---|---|
+| A1 | Kalisto–Montanomund–Treslio–Merino–Nleto–Stototrip | 1990 |
+| A2 | Setroburg–Treslio | 1975 |
+| A3 | Setroburg–Treslio, southern corridor | 2003 |
+| A4 | Setroburg–Nleto corridor | 1998 |
+| A5 | Treslio–Orientoport | 1988 |
+| A6 | Setroburg–Stototrip/Sensin border corridor | 2010 |
+| A7 | Setroburg–Merino corridor | 2008 |
+| A8 | Setroburg–Riala–Montanomund corridor | 2006 |
+| A9 | Treslio–Tleve corridor | Partially upgraded |
 
 ### A1: Kalisto–Stototrip
 
@@ -125,24 +141,176 @@ Motorway upgrades began in 2013.
 
 As of 2026, there are no plans to convert the entire corridor into a continuous motorway.
 
+## Other motorway-standard roads
+
+Although the A1–A9 comprise the nine principal motorway corridors, they do not represent every motorway-standard road in Agacta.
+
+Several other roads contain shorter motorway sections.
+
+These generally form part of existing national road corridors, provide improved connections between settlements or serve particular geographical areas.
+
+### A30: North-West mountain-prairies link
+
+Sections of the **N30** have been constructed or upgraded to motorway standard and are designated **A30**.
+
+The corridor provides a connection between the mountainous areas of northern Agacta and the prairie regions further west.
+
+Unlike the principal A-series motorways, the motorway-standard sections form part of a wider national road corridor.
+
+### A16: Nlastromund–Olbec
+
+The **N16** connects [[Nlastromund]] and [[Olbec]].
+
+A section of the route has been developed to motorway standard and is designated **A16**.
+
+The motorway section provides an improved connection along this corridor without requiring the entire N16 to be reconstructed as a motorway.
+
+### A20: Menha–Bantro
+
+The **N20** corridor includes a motorway-standard section designated **A20**.
+
+The route connects [[Menha]] with [[Bantro]] and forms part of the wider road connection between Bantro and Treslio.
+
+Like the A16 and A30, the motorway-standard portion does not necessarily extend along the entire national road corridor.
+
+### Other motorway connections
+
+Agacta also has additional motorway-standard intercity roads outside the nine principal A-series routes.
+
+These provide more localised connections between cities and towns or supplement the national motorway network.
+
+The existence of these shorter motorways means that the country's motorway infrastructure is more extensive than a list of the A1–A9 alone would suggest.
+
+## Urban motorways and ring roads
+
+Several major Agactan cities have motorway-standard ring roads and orbital routes.
+
+These roads are generally identified using the local road prefix of the city concerned, followed by a route number.
+
+Unlike the principal A-series motorways, urban motorways may therefore retain local route designations despite being constructed to motorway standard.
+
+The principal cities possessing motorway-standard ring roads include Treslio, Nleto, Setroburg, Stototrip, Merino, Kalisto, Orientoport and Riala.
+
+### Major urban ring roads
+
+| City | Motorway-standard ring roads |
+|---|---|
+| [[Treslio]] | T100, T200, T250 |
+| [[Nleto]] | NL100, NL200 |
+| [[Setroburg]] | SE100, SE200 |
+| [[Stototrip]] | ST100, ST150 |
+| [[Merino]] | ME100 |
+| [[Kalisto]] | KA100 |
+| [[Orientoport]] | OR100 |
+| [[Riala]] | RI100 |
+
+These urban motorways form an important part of the wider road network.
+
+They allow traffic to travel between different parts of a metropolitan area without necessarily passing through the city centre.
+
+They also provide connections between national motorways, suburban roads, industrial areas and other major traffic destinations.
+
+Individual ring roads may differ in their layout, capacity and engineering standards depending on when they were constructed and the geography of the city concerned.
+
+Not every numbered urban ring road is necessarily motorway standard along its entire length.
+
 ## Road classifications
 
 Agacta operates a hierarchical road classification system.
 
 | Classification | Prefix | Description |
 |---|---|---|
-| Autostrade | A | Motorways |
+| Autostrade | A | Principal motorways |
 | National roads | N | Principal roads connecting major settlements |
-| Regional roads | Varies by region | Roads serving regional and interurban traffic |
-| County roads | County-specific | Roads connecting smaller settlements and rural communities |
+| Regional roads | X, E, V or S | Roads serving regional and interurban traffic |
+| Local and county roads | Local prefix | Roads connecting settlements within a county or territory |
 
-Motorways and national roads form the principal national road network.
+The A-series motorways and N-series national roads form the principal national road network.
 
-Regional and county roads provide more localised connections, including routes serving towns and villages that are not directly connected to the motorway network.
+Regional and local roads provide connections between smaller settlements, villages and rural communities.
 
-In northern Agacta, regional roads use the prefix **X**, as the letter N is already reserved for national roads. This convention is comparable to the use of X for Wednesday in Spanish calendars, where M is already used for Tuesday.
+Certain national and local roads also have motorway-standard sections.
 
-Examples of northern regional road numbers include X17, X18 and X31.
+### Road signage and route shields
+
+Agacta uses different colours to distinguish motorway, national and regional road classifications.
+
+An important feature of the system is that **the colour of a route shield is not necessarily the same as the colour of the road's directional signage**.
+
+| Road classification | Route shield | Lettering | Directional signs |
+|---|---|---|---|
+| Motorways | Red | White | Green |
+| National roads | Red | White | White |
+| Regional roads | Yellow | Black | White |
+| Local and county roads | Yellow | Black | White |
+
+Motorways therefore use green directional signage while retaining red route shields.
+
+National roads also use red route shields, but their standard directional signage is white.
+
+Regional and local roads use yellow route shields with black lettering.
+
+These conventions allow motorists to distinguish road classifications through both their numbering and signage.
+
+### Regional roads
+
+Agacta's four mainland regions each have their own regional road prefix.
+
+| Region | Prefix |
+|---|---|
+| North | X |
+| East | E |
+| West | V |
+| South | S |
+
+The northern prefix **X** is used because N is already reserved for national roads.
+
+The convention is comparable to the use of X for Wednesday in Spanish calendars, where M is already used for Tuesday.
+
+Examples of northern regional road numbers include **X17, X18 and X31**.
+
+Regional roads provide connections within their respective regions, including routes linking county capitals, smaller towns and rural settlements.
+
+### Local and county roads
+
+Local roads use prefixes associated with the county or overseas territory in which they are located.
+
+Each of Agacta's 15 mainland counties has its own prefix.
+
+The four overseas territories also have individual road prefixes.
+
+#### Mainland counties
+
+| County | Prefix |
+|---|---|
+| [[Treslio]] | T |
+| [[Nleto]] | NL |
+| [[Setroburg]] | SE |
+| [[Merino]] | ME |
+| [[Stototrip]] | ST |
+| [[Bantro]] | BA |
+| [[Tarbo]] | TA |
+| [[Nlastromund]] | NA |
+| [[Abeldrip]] | AB |
+| [[Riala]] | RI |
+| [[Orientoport]] | OR |
+| [[Mlaxa]] | ML |
+| [[Tleve]] | TV |
+| [[Montanomund]] | MO |
+| [[Kalisto]] | KA |
+
+#### Overseas territories
+
+| Territory | Prefix |
+|---|---|
+| [[Tlelmund]] | TM |
+| [[Ulos]] | UL |
+| [[Aquatrip]] | AQ |
+| [[Savtrio]] | SA |
+
+These prefixes are used for local roads and can also appear on urban ring roads and motorway-standard roads within the relevant jurisdictions.
+
+For example, the T100, T200 and T250 are associated with Treslio, while the NL100 and NL200 are associated with Nleto.
 
 ### Relationship between motorways and national roads
 
@@ -353,6 +521,8 @@ The A9 reflects a more selective approach to motorway investment, in which indiv
 
 The construction periods include early isolated motorway sections where applicable.
 
+Additional motorway-standard sections exist on other national and local road corridors, but their construction dates are not included in this chronology.
+
 ## Motorway tolls
 
 Most motorways in Agacta are **toll-free**.
@@ -381,13 +551,17 @@ See [[Motorway Services in Agacta]] for further information.
 
 ## The motorway network in 2026
 
-By 2026, Agacta's motorway network is largely complete.
+By 2026, Agacta's principal motorway network is largely complete.
 
 The A1 remains the country's best-known motorway and is widely referred to as **Agacta's Main Street**.
 
 The A1 and A2 retain particular historical importance because they provided extensive intercity motorway connections decades before the construction of much of the remaining network.
 
 Later motorway development has primarily strengthened connections between existing corridors and improved access to other regions.
+
+In addition to the nine principal A-series routes, the country possesses shorter motorway-standard sections, urban ring roads and other motorway connections.
+
+These include sections of the N16, N20 and N30 corridors, as well as motorway-standard roads serving the major metropolitan areas.
 
 The national motorway system therefore combines infrastructure originating in the 1950s and 1960s with roads constructed during the major expansion programmes of the 1990s and 2000s.
 
