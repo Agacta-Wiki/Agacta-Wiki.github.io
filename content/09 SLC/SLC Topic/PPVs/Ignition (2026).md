@@ -135,14 +135,14 @@ The victory established Riddle as SLC's first leading champion and immediately p
 
 ## Results
 
-| No. | Match | Stipulation | Time |
-|---:|---|---|---:|
-| 1 | **Quo Zabay** def. George Pembrook | Singles match | 15:32 |
-| 2 | **Champagne Syndicate** def. Pavement Cartel | Match for the inaugural **SLC Tag Team Championship** | 17:07 |
-| 3 | **Simon Vale** def. Demolition Jones | Singles match | 23:28 |
-| 4 | **Dante Navarro** def. Kevin Nash | Singles match | 10:43 |
-| 5 | **Velociraptor** def. Desmond Boyce | Match for the inaugural **SLC Challenge Championship** | 24:48 |
-| 6 | **Matt Riddle** def. Rob Van Dam | Match for the inaugural **SLC World Championship** | 28:56 |
+| No. | Match                                        | Stipulation                                            |  Time |
+| --: | -------------------------------------------- | ------------------------------------------------------ | ----: |
+|   1 | **Quo Zabay** def. George Pembrook           | Singles match                                          | 09:32 |
+|   2 | **Champagne Syndicate** def. Pavement Cartel | Match for the inaugural **SLC Tag Team Championship**  | 10:07 |
+|   3 | **Simon Vale** def. Demolition Jones         | Singles match                                          | 11:28 |
+|   4 | **Dante Navarro** def. Kevin Nash            | Singles match                                          | 10:43 |
+|   5 | **Velociraptor** def. Desmond Boyce          | Match for the inaugural **SLC Challenge Championship** | 13:48 |
+|   6 | **Matt Riddle** def. Rob Van Dam             | Match for the inaugural **SLC World Championship**     | 18:56 |
 
 ---
 

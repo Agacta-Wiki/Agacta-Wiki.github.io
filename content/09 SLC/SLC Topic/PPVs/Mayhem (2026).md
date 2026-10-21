@@ -171,16 +171,16 @@ The result reinforced Riddle's presentation as a champion capable of winning wit
 
 ## Results
 
-| No. | Match | Stipulation | Time |
-|---:|---|---|---:|
-| 1 | **George Pembrook** def. Mark Henry | Singles match | 12:27 |
-| 2 | **Desmond Boyce** def. Behemoth | Singles match | 14:41 |
-| 3 | **Kevin Nash** def. Rob Van Dam | Singles match | 10:13 |
-| 4 | **Velociraptor (c)** def. Quo Zabay | **SLC Challenge Championship** | 21:37 |
-| 5 | **Demolition Jones** def. Simon Vale | Singles match | 17:26 |
-| 6 | **Pavement Cartel** def. Rock and Rap Connection | Tag team match | 16:38 |
-| 7 | **Yoon Tae-Seok** def. Dante Navarro | Singles match | 23:46 |
-| 8 | **Matt Riddle (c)** def. Justin Gabriel | **SLC World Championship** | 22:40 |
+| No. | Match                                            | Stipulation                    |  Time |
+| --: | ------------------------------------------------ | ------------------------------ | ----: |
+|   1 | **George Pembrook** def. Mark Henry              | Singles match                  | 08:27 |
+|   2 | **Desmond Boyce** def. Behemoth                  | Singles match                  | 14:41 |
+|   3 | **Kevin Nash** def. Rob Van Dam                  | Singles match                  | 10:13 |
+|   4 | **Velociraptor (c)** def. Quo Zabay              | **SLC Challenge Championship** | 12:37 |
+|   5 | **Demolition Jones** def. Simon Vale             | Singles match                  | 17:26 |
+|   6 | **Pavement Cartel** def. Rock and Rap Connection | Tag team match                 | 08:38 |
+|   7 | **Yoon Tae-Seok** def. Dante Navarro             | Singles match                  | 15:46 |
+|   8 | **Matt Riddle (c)** def. Justin Gabriel          | **SLC World Championship**     | 22:40 |
 
 ---
 
