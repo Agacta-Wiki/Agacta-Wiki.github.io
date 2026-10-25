@@ -359,12 +359,12 @@ record in SLC pay-per-view main events.
 | No. | Match                                                                | Stipulation                                              |  Time |
 | --: | -------------------------------------------------------------------- | -------------------------------------------------------- | ----: |
 |   1 | **Pavement Cartel** def. Desmond Boyce and Rock and Rap Connection   | Six-man tag team match                                   | 11:28 |
-|   2 | **Dante Navarro and Rob Van Dam** def. Mark Henry and Giovanni Vinci | Tag team match                                           | 09:23 |
+|   2 | **Dante Navarro and Rob Van Dam** def. Mark Henry and Giovanni Vinci | Tag team match                                           | 13:23 |
 |   3 | **Kevin Nash** def. George Pembrook                                  | Singles match                                            | 08:26 |
 |   4 | **Champagne Syndicate (c)** vs. The Vertex — **draw**                | **SLC Tag Team Championship; 20-minute time-limit draw** | 20:00 |
-|   5 | **Sheamus O'Shaughnessy** def. Yoon Tae-Seok                         | Singles match                                            | 12:22 |
-|   6 | **Velociraptor (c)** def. Simon Vale                                 | **SLC Challenge Championship**                           | 13:56 |
-|   7 | **Matt Riddle (c)** def. Demolition Jones                            | **SLC World Championship; 30-minute time limit**         | 16:18 |
+|   5 | **Sheamus O'Shaughnessy** def. Yoon Tae-Seok                         | Singles match                                            | 16:22 |
+|   6 | **Velociraptor (c)** def. Simon Vale                                 | **SLC Challenge Championship**                           | 23:56 |
+|   7 | **Matt Riddle (c)** def. Demolition Jones                            | **SLC World Championship; 30-minute time limit**         | 26:18 |
 
 **Total bell-to-bell wrestling time:**
 **1 hour, 47 minutes and 53 seconds**.
