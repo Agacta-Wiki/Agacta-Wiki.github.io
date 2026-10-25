@@ -9,7 +9,7 @@
 
 ---
 
-# PPV 1 — TBD
+## Retribution
 
 ## Provisional Card
 
@@ -103,7 +103,7 @@ This is intended as a long-term Chekhov's gun. The rematch should be held back u
 
 ---
 
-# PPV 2 — TBD
+# Warning
 
 ## Provisional Card
 
@@ -187,7 +187,7 @@ This is intended as a long-term Chekhov's gun. The rematch should be held back u
 
 ---
 
-# PPV 3 — Total Destruction
+## Total Destruction
 
 ## Provisional Card
 
@@ -253,7 +253,7 @@ This is intended as a long-term Chekhov's gun. The rematch should be held back u
 
 ---
 
-# PPV 4 — TBD
+# Reckoning
 
 ## Provisional Card
 
@@ -331,7 +331,7 @@ This is intended as a long-term Chekhov's gun. The rematch should be held back u
 
 ---
 
-# PPV 5 — Grand Super League Finals
+# Grand Super League Finals
 
 ## Men's Grand Super League
 
@@ -393,7 +393,7 @@ This is intended as a long-term Chekhov's gun. The rematch should be held back u
 
 ---
 
-# PPV 6 — Champion's Way
+# Champion's Way
 
 > [!note]
 > Champion's Way is the biggest SLC event of the season. This card is much further away than the other events and is therefore especially provisional.
