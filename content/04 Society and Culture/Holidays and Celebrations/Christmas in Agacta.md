@@ -21,7 +21,7 @@ Christmas overlaps with **[[Cultural and Ancestral Week]]**, which is held from 
 
 ## The Christmas season
 
-### 12–22 December
+### Mid December
 
 Public decorations and town-square illuminations are traditionally switched on around **12 December**, a widely recognised beginning to the festive season, although households and businesses vary in when they decorate.
 
@@ -55,7 +55,7 @@ The final day, **29 December**, is a national holiday and commonly concludes wit
 
 Christmas Eve is a popular night for going out, with many people meeting friends at pubs, bars, restaurants or parties. It is an important social occasion, although Christmas Day remains the principal family celebration.
 
-**Basketball matches on Christmas Eve and Christmas week** are a major sporting tradition, often featuring local rivals and attracting considerable interest.
+**Basketball is a major feature of the Christmas sporting calendar**, with a busy programme of fixtures throughout Christmas week, including prominent Christmas Eve games and occasional local derbies.
 
 ### Christmas Day
 
@@ -165,7 +165,7 @@ The signature Agactan Christmas cake is **Dueta Spicpano**, a two-layer ginger s
 
 Sugared stars or candied fruit are common decorations.
 
-Numerous variations exist such as:
+Numerous varieties of Dueta Spicpano are available nationwide, although each is traditionally associated with a particular region of Agacta:
 
 - Lemon-zest cream with light almond icing (associated with Stototrip)
 - Rum-cream filling and caramel icing (associated with Nleto)
