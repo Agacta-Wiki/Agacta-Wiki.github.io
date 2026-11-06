@@ -10,11 +10,12 @@ tags:
   - traditions
 ---
 
+
 # Christmas in Agacta
 
-**Christmas in Agacta** is a 52-day festive season beginning on **12 December** and ending with **[[Candlemas]] on 2 February**. Christmas Day, St Stephen's Day, New Year's Day and Candlemas are national holidays, while many Agactans take much or all of the period from 23 December to 1 January as holiday time.
+**Christmas in Agacta** is an extended festive season traditionally beginning in mid-December and continuing throughout January, with **[[Candlemas]] on 2 February** generally regarded as its conclusion. Christmas Day, St Stephen's Day, New Year's Day and Candlemas are national holidays, while many Agactans take much or all of the period from 23 December to 1 January as holiday time.
 
-The long duration of the season is one of the most distinctive features of an Agactan Christmas. Decorations remain up throughout January, Christmas music and films continue to be broadcast, and Christmas greetings remain normal until the beginning of February.
+The timing of the season is one of the most distinctive features of an Agactan Christmas. Decorations remain up throughout January, Christmas music and films continue to be broadcast, and Christmas greetings remain normal until the beginning of February.
 
 Christmas overlaps with **[[Cultural and Ancestral Week]]**, which is held from 23 to 29 December. Despite their overlap, the two are completely separate observances. Agactan households may celebrate Christmas, Cultural and Ancestral Week, both, or neither, although the majority celebrate both.
 
@@ -22,11 +23,13 @@ Christmas overlaps with **[[Cultural and Ancestral Week]]**, which is held from 
 
 ### 12–22 December
 
-The Christmas season begins on **12 December**, when public decorations and town-square illuminations are traditionally switched on.
+Public decorations and town-square illuminations are traditionally switched on around **12 December**, a widely recognised beginning to the festive season, although households and businesses vary in when they decorate.
 
 From this point, *Felican Kristnasin!* ("Merry Christmas!") becomes a normal seasonal greeting.
 
-Christmas markets, decorations and seasonal events become increasingly prominent during the following days.
+Christmas markets, decorations and seasonal events become increasingly prominent during the following days. Christmas is commercialised to much the same extent as in other contemporary European countries, but Christmas advertising, music and films are not generally associated with November in Agacta.
+
+Schools generally finish for Christmas around **22 December** and resume around **2 January**, with dates varying according to the calendar. A further school holiday of approximately a week takes place around Candlemas.
 
 ### Cultural and Ancestral Week
 
@@ -48,11 +51,17 @@ Seven candles are progressively lit during the week:
 
 The final day, **29 December**, is a national holiday and commonly concludes with a large family meal followed by storytelling, music or dancing.
 
+### Christmas Eve
+
+Christmas Eve is a popular night for going out, with many people meeting friends at pubs, bars, restaurants or parties. It is an important social occasion, although Christmas Day remains the principal family celebration.
+
+**Basketball matches on Christmas Eve and Christmas week** are a major sporting tradition, often featuring local rivals and attracting considerable interest.
+
 ### Christmas Day
 
 **Christmas Day, 25 December**, is a national holiday centred principally on family meals and gift-giving.
 
-Religious Agactans may also attend Christmas services. Within the country's majority Unitarian tradition, services tend to emphasise compassion, generosity and goodwill rather than theological doctrine.
+Religious Agactans may also attend Christmas services. Within the country's largest denomination, Unitarianism, services tend to emphasise compassion, generosity and goodwill. The timing of services varies by denomination, although wider Christmas customs are broadly shared.
 
 Children traditionally receive presents from **[[Grandfather Talmar]]**, Agacta's Christmas gift-bringer.
 
@@ -62,7 +71,7 @@ Children traditionally receive presents from **[[Grandfather Talmar]]**, Agacta'
 
 The day tends to be more outwardly social than Christmas Day. Visiting friends, charity and community activities are common.
 
-Sport forms a major part of St Stephen's Day in a manner comparable to Boxing Day and St Stephen's Day sporting traditions in Britain and Ireland.
+Sport forms a major part of St Stephen's Day in a manner comparable to Boxing Day and St Stephen's Day sporting traditions in Britain and Ireland, particularly in **soccer and basketball**. Agactan Rules and rugby league are summer sports and do not have an equivalent winter festive fixture tradition.
 
 In the [[Savtrio Islands]], the day is also associated with the arrival of [[Grandfather Talmar]] for his traditional post-Christmas holiday.
 
@@ -80,7 +89,7 @@ A more recent custom is deliberately choosing fast food or unusually indulgent f
 
 Christmas does not end with New Year in Agacta.
 
-The period from **2 January until 1 February** is commonly regarded as the **Long Christmas**. Christmas trees and decorations remain in homes and public spaces throughout January, while Christmas films, music, advertising and other seasonal media remain commonplace.
+The period from **2 January until 1 February** is commonly regarded as the **Long Christmas**. Christmas trees and decorations remain in homes and public spaces throughout January, while Christmas markets, lights, films, music, advertising and other seasonal media remain commonplace. The intensity varies between places and households, but the festive atmosphere does not disappear after New Year.
 
 Consequently, wishing somebody *Felican Kristnasin!* even in the final week of January is entirely normal.
 
@@ -92,11 +101,17 @@ Schools, workplaces and ordinary life nevertheless resume during this period. Th
 
 Religious services are held by several Christian denominations. Candles are traditionally carried to services to be blessed and may subsequently be used in the home during the year.
 
-Candlemas is also the occasion for the **second great festive dinner** of the Agactan Christmas season. Its importance within the household is comparable to Christmas dinner itself.
+Candlemas is also the occasion for the **second great festive dinner** of the Agactan Christmas season. Its importance within the household is comparable to Christmas dinner itself. Compared with Christmas Day, the emphasis is less on presents and more on gathering with family for a substantial meal; Agactans who have lived in the United States sometimes describe the occasion as a *Christmassy Thanksgiving*. Christmas decorations, music and films remain part of the celebration.
 
 Most families deliberately serve a different main course at Candlemas from the one they ate at Christmas. A family that has roast duck for Christmas, for example, might choose trout, pork or beef for Candlemas.
 
-Christmas decorations traditionally come down on **3 February**, bringing the 52-day season to an end.
+Christmas decorations are customarily taken down on **3 February**, although practices vary by household and region.
+
+## Religious observance
+
+Christmas is celebrated in broadly similar ways by Unitarians, Catholics, Reformed Catholics and nonreligious Agactans. Differences between the denominations generally concern church services rather than family meals, decorations, gifts or other festive customs.
+
+**Catholics**, and particularly **Reformed Catholics**, have maintained the tradition of **Midnight Mass** on Christmas Eve. **Unitarians** do not traditionally hold midnight Christmas services, typically worshipping on Christmas Eve afternoon or Christmas Day morning. Religious participation varies between families, and many Agactans celebrate Christmas without attending church.
 
 ## Food
 
@@ -121,10 +136,28 @@ Popular festive main courses include:
 - curried goat
 - sea bass with tamarind glaze
 
-
 Common accompaniments include potatoes, **paskuli**, bread, **pano-frito**, vegetables, pâtés, cured meats and olives.
 
 Turkey has become more common, particularly in cities, through overseas influence, but has not displaced the wider variety traditionally found on Agactan festive tables.
+
+### Regional Christmas dishes
+
+Although there is no fixed Christmas menu, some dishes have longstanding associations with particular parts of Agacta. The following are **traditional regional favourites**, not obligatory meals or necessarily the most common choices in every household today. Families regularly prepare other dishes, including recipes associated with relatives from elsewhere in the country.
+
+| Region or territory | Particularly traditional Christmas main course |
+| --- | --- |
+| Treslio | Roast duck with orange and honey glaze |
+| Nleto | Slow-roasted pork shoulder with a spiced wine glaze |
+| Setroburg and surrounding western areas | Lake trout baked in cream and herbs; venison is also traditional inland |
+| Kalisto | Braised beef with juniper and red wine |
+| Merino and parts of the east | Herb-and-walnut stuffed chicken |
+| Stototrip | Duck with chestnut and onion stuffing |
+| Ulos | Reindeer stew or roasted Arctic char |
+| Tlemund | Reindeer stew or Arctic char |
+| Aquatrip | Grilled swordfish with pineapple and chilli glaze |
+| Savtrio Islands | Curried goat or sea bass with tamarind glaze |
+
+These associations reflect older regional foodways rather than a uniform modern practice. The tradition of choosing a different main course for Candlemas provides further variety.
 
 ### Dueta Spicpano
 
@@ -134,16 +167,15 @@ Sugared stars or candied fruit are common decorations.
 
 Numerous variations exist such as:
 
-- Lemon-zest cream with light almond icing
-- Rum-cream filling and caramel icing
-- White chocolate glaze with berry jam between layers.
-- Honey-cream centre and cinnamon icing
-- Hazelnut cream with a rustic sugar icing.
-- Chestnut filling and orange icing
-- Rich milk chocolate cream, white chocolate icing, dark chocolate glaze
-- Papaya jam layer with pineapple icing.
-- Mango cream and cardamom icing topped with edible gold leaf.
-
+- Lemon-zest cream with light almond icing (associated with Stototrip)
+- Rum-cream filling and caramel icing (associated with Nleto)
+- White chocolate glaze with berry jam between layers (associated with the Prairies)
+- Honey-cream centre and cinnamon icing (associated with Orientoport)
+- Hazelnut cream with a rustic sugar icing (associated with Kalisto)
+- Chestnut filling and orange icing (associated with Merino)
+- Rich milk chocolate cream, white chocolate icing, dark chocolate glaze (Associated with the polar territories)
+- Papaya jam layer with pineapple icing. (associated with Savtrio Islands)
+- Mango cream and cardamom icing toped with edible gold leaf. (associated with Aquatrip)
 
 ## Grandfather Talmar
 
@@ -197,7 +229,7 @@ His sailor appearance distinguishes him visually from the conventional red-suite
 
 A **robin** traditionally accompanies him on his journeys.
 
-Talmar is usually portrayed as patient, humorous and gentle rather than threatening. Children are expected to behave well if they want a present, but there is no Agactan equivalent of receiving coal or another deliberately unpleasant punishment. A child who has behaved badly simply receives nothing from Talmar.
+Talmar is usually portrayed as patient, humorous and gentle rather than threatening. Children are expected to behave well if they want a present, but there is no Agactan equivalent of receiving coal or another deliberately unpleasant punishment. In the folklore, a child who has behaved badly receives nothing from Talmar, although this is a traditional warning to children rather than a description of how parents generally handle presents.
 
 ### The Hearth-Shoe Tradition
 
@@ -275,4 +307,3 @@ Talmar remains in Savtrio until his return to [[Tlemund]] on 1 June.
 - [[Aquatrip]]
 - [[Public holidays in Agacta]]
 - [[Religion in Agacta]]
-- [[Cuisine of Agacta]]
