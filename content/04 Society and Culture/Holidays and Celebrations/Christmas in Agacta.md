@@ -144,18 +144,18 @@ Turkey has become more common, particularly in cities, through overseas influenc
 
 Although there is no fixed Christmas menu, some dishes have longstanding associations with particular parts of Agacta. The following are **traditional regional favourites**, not obligatory meals or necessarily the most common choices in every household today. Families regularly prepare other dishes, including recipes associated with relatives from elsewhere in the country.
 
-| Region or territory | Particularly traditional Christmas main course |
-| --- | --- |
-| Treslio | Roast duck with orange and honey glaze |
-| Nleto | Slow-roasted pork shoulder with a spiced wine glaze |
+| Region or territory                     | Particularly traditional Christmas main course                          |
+| --------------------------------------- | ----------------------------------------------------------------------- |
+| Treslio                                 | Roast duck with orange and honey glaze                                  |
+| Nleto                                   | Slow-roasted pork shoulder with a spiced wine glaze                     |
 | Setroburg and surrounding western areas | Lake trout baked in cream and herbs; venison is also traditional inland |
-| Kalisto | Braised beef with juniper and red wine |
-| Merino and parts of the east | Herb-and-walnut stuffed chicken |
-| Stototrip | Duck with chestnut and onion stuffing |
-| Ulos | Reindeer stew or roasted Arctic char |
-| Tlemund | Reindeer stew or Arctic char |
-| Aquatrip | Grilled swordfish with pineapple and chilli glaze |
-| Savtrio Islands | Curried goat or sea bass with tamarind glaze |
+| Kalisto                                 | Braised beef with juniper and red wine                                  |
+| Merino and parts of the east            | Herb-and-walnut stuffed chicken                                         |
+| Stototrip                               | Duck with chestnut and onion stuffing                                   |
+| Ulos                                    | Reindeer stew or roasted Arctic char                                    |
+| Tlemund                                 | Reindeer stew or Arctic char                                            |
+| Aquatrip                                | Grilled swordfish with pineapple and chilli glaze                       |
+| Savtrio Islands                         | Curried goat or sea bass with tamarind glaze                            |
 
 These associations reflect older regional foodways rather than a uniform modern practice. The tradition of choosing a different main course for Candlemas provides further variety.
 
@@ -176,6 +176,12 @@ Numerous varieties of Dueta Spicpano are available nationwide, although each is 
 - Rich milk chocolate cream, white chocolate icing, dark chocolate glaze (Associated with the polar territories)
 - Papaya jam layer with pineapple icing. (associated with Savtrio Islands)
 - Mango cream and cardamom icing toped with edible gold leaf. (associated with Aquatrip)
+- Maple-cream filling with toasted walnuts and white icing (associated with Tleve)
+- Orange-cream filling with vanilla-cream topping (associated with Treslio)
+- White chocolate cream filling with lemon jam (associated with Setroburg)
+
+
+
 
 ## Grandfather Talmar
 
