@@ -95,6 +95,8 @@ Consequently, wishing somebody *Felican Kristnasin!* even in the final week of J
 
 Schools, workplaces and ordinary life nevertheless resume during this period. The continuation of Christmas is therefore part of everyday January life rather than an uninterrupted period of holiday.
 
+Television and radio broadcasters continue their Christmas programming throughout January, including seasonal films, music and entertainment specials. International Christmas songs and films remain popular, and hearing Christmas music on the radio or watching a Christmas film in late January is considered entirely ordinary.
+
 ## Candlemas
 
 **[[Candlemas]]**, celebrated on **2 February**, is both a national holiday and the traditional conclusion of Christmas.
@@ -161,21 +163,21 @@ These associations reflect older regional foodways rather than a uniform modern 
 
 ### Dueta Spicpano
 
-The signature Agactan Christmas cake is **Dueta Spicpano**, a two-layer ginger sponge cake filled with vanilla cream and covered with thick white icing.
+The signature Agactan Christmas cake is **Dueta Spicpano**. The original, classic version consists of two layers of ginger sponge cake filled with vanilla cream and covered with thick white icing.
 
 Sugared stars or candied fruit are common decorations.
 
-Numerous varieties of Dueta Spicpano are available nationwide, although each is traditionally associated with a particular region of Agacta:
+Numerous varieties of Dueta Spicpano are available throughout Agacta. Most retain the traditional two layers of ginger sponge cake but feature different fillings and toppings. Although all varieties are available nationwide, certain flavours are traditionally associated with particular regions:
 
 - Lemon-zest cream with light almond icing (associated with Stototrip)
 - Rum-cream filling and caramel icing (associated with Nleto)
 - White chocolate glaze with berry jam between layers (associated with the Prairies)
 - Honey-cream centre and cinnamon icing (associated with Orientoport)
-- Hazelnut cream with a rustic sugar icing (associated with Kalisto)
+- Hazelnut cream with rustic sugar icing (associated with Kalisto)
 - Chestnut filling and orange icing (associated with Merino)
-- Rich milk chocolate cream, white chocolate icing, dark chocolate glaze (Associated with the polar territories)
-- Papaya jam layer with pineapple icing. (associated with Savtrio Islands)
-- Mango cream and cardamom icing toped with edible gold leaf. (associated with Aquatrip)
+- Rich milk chocolate cream, white chocolate icing and dark chocolate glaze (associated with the polar territories)
+- Papaya jam filling with pineapple icing (associated with the Savtrio Islands)
+- Mango cream and cardamom icing topped with edible gold leaf (associated with Aquatrip)
 - Maple-cream filling with toasted walnuts and white icing (associated with Tleve)
 - Orange-cream filling with vanilla-cream topping (associated with Treslio)
 - White chocolate cream filling with lemon jam (associated with Setroburg)
@@ -279,7 +281,7 @@ Tlemund is also the centre of **Grandfather Talmar culture**, attracting large n
 
 The tropical climate of [[Aquatrip]] gives Christmas a markedly different appearance from mainland celebrations.
 
-Christmas begins on 12 December with the **Lighting of the Palms**, when palm trees are covered in fairy lights. Decorations commonly incorporate tropical flowers and marine imagery.
+In [[Aquatrip]], the festive season is traditionally marked by the **Lighting of the Palms** in mid-December, when palm trees are decorated with fairy lights..
 
 A distinctive feature is the tradition of attending **two Christmas services**, one around midnight on Christmas Eve and another on Christmas morning.
 
