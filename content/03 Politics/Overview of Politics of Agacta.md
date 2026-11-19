@@ -62,11 +62,11 @@ Agacta operates a county-based mixed-member proportional (MMP) electoral system.
 
 The country is divided into 19 parliamentary constituencies, corresponding to its counties, including the four overseas territories.
 
-Parliamentary seats are distributed between counties according to population.
+Agacta has 120 single-member sub-constituencies, distributed among its 19 counties according to population. Each sub-constituency elects one MP by first-past-the-post voting.
 
-Each county elects half its parliamentary representatives through single-member sub-constituencies using first-past-the-post voting.
+Each county elects an equal number of MPs through its compensatory county lists. A county with six sub-constituencies therefore elects twelve MPs in total. Across Agacta, the 120 direct seats and 120 list seats give Parliament its fixed membership of 240.
 
-The remaining seats are initially allocated through compensatory county party lists using the D'Hondt method.
+The county list votes are used to calculate each list's proportional entitlement under the D'Hondt method, taking account of seats already won directly.
 
 An electoral threshold of 5% applies.
 
@@ -132,19 +132,11 @@ Where a party's entire parliamentary entitlement is occupied by directly elected
 
 This can occasionally result in prominent politicians losing their seats despite occupying high positions on their party lists.
 
-### Semi-Open Party Lists
+### Closed County Lists
 
-Agacta uses a semi-open party-list system, allowing voters to influence which candidates receive list seats while retaining an initial list order established by each party.
+Each list publishes its candidates in a fixed order before polling day. On the county ballot, voters choose one list. Its published order determines which candidates receive any list seats it wins.
 
-Voters may cast their list vote for a political party as a whole or express a preference for an individual candidate appearing on that party's list.
-
-Votes cast for individual candidates also count towards their party's total vote for the proportional allocation.
-
-A candidate receiving more than 12% of their party's total vote within the county can move ahead of candidates placed above them on the original party list.
-
-Candidates who do not reach this threshold remain subject to the party's established list order.
-
-This arrangement allows voters to influence the selection of individual MPs without completely replacing the party's original ordering of candidates.
+Once the direct results are known, list seats are filled in order, skipping candidates who have already won a sub-constituency. For example, if the first two candidates on a list both win directly, the third candidate receives the list's first seat, provided the list wins one.
 
 ## Independent Candidates
 
@@ -673,25 +665,7 @@ Following the political changes of 1989, the Communist Party experienced a rapid
 
 The Green Party subsequently emerged as a significant political force, entering Parliament in 1997.
 
-## Evolution of Party Lists
 
-Agacta's party-list electoral system has undergone several reforms since the establishment of the modern republic.
-
-Before 1989, parliamentary elections used closed party lists, with political parties determining the order in which their candidates would receive list seats.
-
-Fully open party lists were introduced for the 1989 and 1993 general elections.
-
-However, these elections produced numerous unexpected defeats for established politicians, as voters elevated candidates who had originally been placed lower on party lists.
-
-These results became associated with the political phenomenon known as a "Portillo moment", in which a prominent politician unexpectedly loses their parliamentary seat.
-
-Following these experiences, Agacta introduced party primaries in 1997 to give party members a greater role in establishing candidate lists.
-
-Initially, political parties were permitted to choose their own methods of conducting these primaries.
-
-In 2005, the Single Transferable Vote (STV) became the standard method for internal party primaries.
-
-The current semi-open system retains party-established lists while allowing candidates receiving substantial personal support to move ahead of their original list positions.
 
 ## Socialist Government, 1997–2013
 
