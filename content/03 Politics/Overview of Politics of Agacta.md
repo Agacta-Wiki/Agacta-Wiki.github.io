@@ -68,7 +68,11 @@ Each county elects an equal number of MPs through its compensatory county lists.
 
 The county list votes are used to calculate each list's proportional entitlement under the D'Hondt method, taking account of seats already won directly.
 
-An electoral threshold of 5% applies.
+A list normally qualifies for the allocation of county list seats if it receives at least 5% of valid list votes nationwide.
+
+A registered Regional Party may instead qualify by receiving at least 5% of the combined valid list votes cast in the counties where it fields a list. Regional Party registration is open to parties representing a particular region or a linguistic or ethnic community in a defined area. Examples include Prairie Farmer's Voice, the Sensinese Speakers' Union, the Tlelmund Inuit Alliance and the Savtrio Islands Regional Party. These parties regularly contest elections, although none is currently a mainstream parliamentary party.
+
+Qualification allows a party to participate in the seat allocation in each county it contests. Seats are calculated separately in each county using the votes cast there. All candidates who win a sub-constituency take their direct seats regardless of their party's list vote or their status as independents.
 
 The system differs from more strictly proportional versions of MMP because directly elected MPs are guaranteed to retain their seats, even when their party wins more sub-constituencies than its proportional entitlement would otherwise permit.
 
@@ -136,17 +140,19 @@ This can occasionally result in prominent politicians losing their seats despite
 
 Each list publishes its candidates in a fixed order before polling day. On the county ballot, voters choose one list. Its published order determines which candidates receive any list seats it wins.
 
-Once the direct results are known, list seats are filled in order, skipping candidates who have already won a sub-constituency. For example, if the first two candidates on a list both win directly, the third candidate receives the list's first seat, provided the list wins one.
+Every county list must contain at least one more candidate than the number of list seats available in that county. In a county electing six direct MPs and six list MPs, a list must therefore name at least seven candidates.
+
+Once the direct results are known, list seats are filled in order, skipping candidates who have already won a sub-constituency. For example, if the first two candidates on a list both win directly, the third candidate receives the list's first seat, provided the list wins one. For example, if the first two candidates win directly and the third loses their sub-constituency, the third candidate receives the list’s first seat if the list wins one.
 
 ## Independent Candidates
 
-Independent candidates may contest individual sub-constituencies or submit their own electoral lists.
+An independent candidate may stand alone in a single-member sub-constituency. An independent who wins the most votes takes the seat without having to submit a county list or meet a list-vote threshold.
 
-An independent may also submit a list containing only their own name.
+Independents may also contest the county list ballot by submitting a list that meets the same minimum candidate requirement as any other list.
 
 Independent parliamentary representation is uncommon in Agacta.
 
-Candidates without established party organisations generally face the challenge of either winning a first-past-the-post sub-constituency or securing enough list votes to obtain representation under the proportional allocation.
+Candidates without established party organisations generally face the challenge of either winning a first-past-the-post sub-constituency.
 
 ## Parliamentary Vacancies
 
@@ -188,7 +194,7 @@ The President's official residence is Treslio Palace.
 
 The President is directly elected by the people of Agacta every four years.
 
-Presidential elections take place two years after parliamentary general elections.
+Presidential elections take place midway through the regular four-year parliamentary electoral cycle
 
 A President may serve a maximum of three terms, each lasting four years.
 
@@ -262,6 +268,8 @@ Independent or national-unity candidates may also receive endorsements from seve
 
 ## Appointment of the Prime Minister
 
+On taking office, the President pledges to nominate the person they judge most likely to form a stable government in the national interest. The President must set aside their own political preferences when making that judgement.
+
 Following a parliamentary election, the President invites the individual considered most likely to form a viable administration to do so.
 
 This does not necessarily mean appointing the leader of the party which won the most seats.
@@ -292,23 +300,25 @@ It may govern with sufficient support or parliamentary tolerance to remain in of
 
 ## Votes of No Confidence
 
-A government may be dismissed by a majority vote of no confidence in Parliament.
+A government may be dismissed by a majority vote of no confidence in Parliament. When a government falls, the President first invites the outgoing Prime Minister to try to form a government. If that attempt fails, the President invites the Leader of the Opposition to do so. Other parliamentary party leaders are then given the opportunity in turn.
 
-However, the loss of parliamentary confidence does not automatically trigger a general election.
+If a party leader can form a government with sufficient parliamentary support, that government serves for the remainder of the parliamentary term. If all attempts fail, Agacta enters a period of provisional government.
 
-Instead, the President seeks to establish whether another administration can be formed from the existing Parliament.
+## Provisional Government
 
-The President may bring political representatives together to negotiate a compromise government.
+The President appoints a technocrat from outside Parliament as provisional Prime Minister. The Prime Minister ordinarily appoints a cabinet of technocrats, although serving MPs may also join the cabinet.
 
-Technocrats frequently play an important role in attempts to establish such compromise administrations.
+The provisional Prime Minister seeks a working majority by identifying measures on which MPs from different parties can agree. The immediate task is to negotiate a compromise budget that at least 121 MPs will support.
 
-## Early Parliamentary Elections
+During a provisional government, the parties may continue negotiations on a programme of government. If at least 121 MPs agree on a programme, the leader they support informs the provisional Prime Minister. The provisional Prime Minister then tenders their resignation and asks the President to invite that leader to form a government. The provisional phase ends when Parliament votes the incoming Prime Minister into office.
 
-Early parliamentary elections are constitutionally possible but have never occurred in modern Agactan history.
+## Provisional General Elections
 
-The established preference is to find an alternative government capable of continuing until the next scheduled parliamentary election.
+If the provisional Prime Minister cannot secure sufficient support to pass a budget, a provisional general election is held. The newly elected Parliament serves only the remainder of the existing parliamentary term. The next scheduled general election takes place on its original timetable.
 
-This tradition has helped maintain the regular four-year parliamentary electoral cycle.
+Once a government commanding a parliamentary majority takes office, the period of provisional government ends. The government formed after a provisional general election is an ordinary government, even though the next scheduled general election may be close.
+
+A provisional general election is regarded as a last resort. Political leaders face strong public pressure to reach an agreement within the existing Parliament. No provisional general election has been held in modern Agactan history.
 
 ---
 
@@ -384,7 +394,7 @@ Residents vote for the council responsible for their area, rather than electing 
 
 Local elections are staggered geographically across a four-year cycle.
 
-Each year, counties from the South, East, West, North and Overseas groupings hold elections according to a fixed schedule.
+Local elections follow a fixed four-year schedule across the South, East, West, North and Overseas groupings.
 
 Because the Northern grouping contains only three counties, there is no Northern county election in the first year of the cycle.
 
@@ -479,7 +489,7 @@ The established electoral cycle is:
 
 This cycle repeats every four years.
 
-Autonomous parliamentary elections are never held during an Agactan national parliamentary election year.
+Autonomous parliamentary elections are scheduled in years without a regular Agactan parliamentary general election
 
 They also never coincide with ordinary local council elections within the same overseas territory.
 
