@@ -28,6 +28,8 @@ The four overseas autonomous territories, Aquatrip, Savtrio Islands, Tlelmund an
 
 The 120 single-member sub-constituencies are distributed among the 19 counties according to population. Each county receives one compensatory list seat for every direct seat. A county with six sub-constituencies therefore elects twelve MPs.
 
+The allocation of parliamentary seats among the 19 counties is reviewed and redistributed every four years according to population.
+
 The allocation of seats to counties determines the number of MPs each county elects, but does not establish separate classes of parliamentary membership. All MPs have equal parliamentary status, regardless of their method of election.
 
 ---
@@ -57,7 +59,7 @@ Each county is divided into single-member sub-constituencies.
 
 Voters elect one representative in each sub-constituency using first-past-the-post voting.
 
-The candidate receiving the greatest number of votes is elected, regardless of whether they receive an absolute majority.
+The candidate receiving the greatest number of votes is elected, regardless of whether they receive an absolute majority. If two or more candidates tie for first place, a second ballot restricted to those candidates is held two weeks later.
 
 These directly elected MPs are guaranteed their parliamentary seats.
 
@@ -220,6 +222,10 @@ The priorities of the system are:
 2. Maintaining a fixed Parliament of 240 members.
 3. Achieving proportional representation as closely as the first two requirements permit.
 
+## Prevention of Electoral Manipulation
+
+Agactan electoral legislation prohibits arrangements designed to circumvent the compensatory electoral system, including agreements between political parties to separate their direct and list candidacies for the purpose of artificially increasing their combined parliamentary representation.
+
 ---
 
 # Party Lists and Candidate Selection
@@ -309,6 +315,16 @@ The by-election allows voters in that sub-constituency to choose a replacement r
 When a list-elected MP leaves Parliament, the next eligible candidate on the same county list fills the vacancy.
 
 This distinction preserves the principle of direct electoral mandates while maintaining continuity in party-list representation.
+
+## Changes in Party Affiliation
+
+An MP elected as a representative of a political party loses their parliamentary seat if they voluntarily leave or are expelled from that party.
+
+In the case of a directly elected MP, a by-election is held in the relevant sub-constituency. The outgoing MP may contest the by-election to seek a renewed electoral mandate.
+
+In the case of a list-elected MP, the vacancy is filled by the next eligible candidate on the original county list.
+
+These arrangements reflect the principle that an MP elected under a particular party affiliation must obtain a renewed mandate if that affiliation changes. In the case of list-elected MPs, the electorate's mandate belongs to the list rather than to the individual candidate.
 
 ---
 

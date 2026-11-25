@@ -64,6 +64,10 @@ The country is divided into 19 parliamentary constituencies, corresponding to it
 
 Agacta has 120 single-member sub-constituencies, distributed among its 19 counties according to population. Each sub-constituency elects one MP by first-past-the-post voting.
 
+Parliamentary representation is redistributed among the 19 counties every four years according to population.
+
+If two or more candidates tie for first place in a sub-constituency election, a second ballot restricted to those candidates is held two weeks later.
+
 Each county elects an equal number of MPs through its compensatory county lists. A county with six sub-constituencies therefore elects twelve MPs in total. Across Agacta, the 120 direct seats and 120 list seats give Parliament its fixed membership of 240.
 
 The county list votes are used to calculate each list's proportional entitlement under the D'Hondt method, taking account of seats already won directly.
@@ -98,6 +102,8 @@ If a party wins five sub-constituencies despite having a proportional entitlemen
 The D'Hondt calculation is reduced to accommodate that mandate without increasing the county's overall representation.
 
 Further reductions can be made if necessary, including where more than one party has won additional direct mandates.
+
+The same adjustment procedure applies to directly elected independent candidates and candidates belonging to parties which do not qualify for proportional representation.
 
 This can produce results which are less proportional than the original D'Hondt distribution.
 
@@ -142,7 +148,7 @@ Each list publishes its candidates in a fixed order before polling day. On the c
 
 Every county list must contain at least one more candidate than the number of list seats available in that county. In a county electing six direct MPs and six list MPs, a list must therefore name at least seven candidates.
 
-Once the direct results are known, list seats are filled in order, skipping candidates who have already won a sub-constituency. For example, if the first two candidates on a list both win directly, the third candidate receives the list's first seat, provided the list wins one. For example, if the first two candidates win directly and the third loses their sub-constituency, the third candidate receives the list’s first seat if the list wins one.
+Once the direct results are known, list seats are filled in order, skipping candidates who have already won a sub-constituency. For example, if the first two candidates on a list both win directly, the third candidate receives the list's first seat, provided the list wins one.
 
 ## Independent Candidates
 
@@ -159,6 +165,12 @@ Candidates without established party organisations generally face the challenge 
 Vacancies arising from the departure of directly elected MPs are filled through by-elections.
 
 Vacancies involving list-elected MPs are filled by the next eligible candidate on the relevant party list.
+
+MPs who voluntarily leave or are expelled from the political party they were elected to represent lose their parliamentary seats.
+
+A by-election is held in the case of a directly elected MP, allowing the outgoing MP to seek a renewed electoral mandate.
+
+In the case of a list-elected MP, the next eligible candidate on the original county list fills the vacancy.
 
 ## Electoral Philosophy
 
