@@ -6,7 +6,7 @@ title: Parliamentary Elections in Agacta
 
 ## Overview
 
-Parliamentary elections in Agacta are held every four years to elect the 240 members of the Parliament of Agacta. Elections have followed a regular four-year cycle since the introduction of the Constitution of 1952, with the first parliamentary election under the modern constitutional system taking place in 1953.
+Scheduled parliamentary elections in Agacta are held every four years to elect the 240 members of the Parliament of Agacta. Elections have followed a regular four-year cycle since the introduction of the Constitution of 1952, with the first parliamentary election under the modern constitutional system taking place in 1953.
 
 Agacta operates a mixed-member proportional (MMP) electoral system, combining directly elected representatives from single-member sub-constituencies with compensatory party-list representation.
 
@@ -22,13 +22,11 @@ The most recent parliamentary election was held in 2025, resulting in a fourth c
 
 The Parliament of Agacta is a unicameral legislature consisting of 240 Members of Parliament (MPs).
 
-Members serve four-year terms and are elected from 19 geographical constituencies corresponding to Agacta's counties.
+MPs are elected from 19 geographical constituencies corresponding to Agacta’s counties. A regular parliamentary term lasts four years. MPs elected at a provisional general election serve the remainder of the existing term.
 
 The four overseas autonomous territories, Aquatrip, Savtrio Islands, Tlelmund and Ulos, are each treated as one county for national parliamentary electoral purposes.
 
-Parliamentary seats are allocated among the 19 counties according to their populations.
-
-Each county's parliamentary representation is divided between directly elected MPs and MPs elected through compensatory county party lists.
+The 120 single-member sub-constituencies are distributed among the 19 counties according to population. Each county receives one compensatory list seat for every direct seat. A county with six sub-constituencies therefore elects twelve MPs.
 
 The allocation of seats to counties determines the number of MPs each county elects, but does not establish separate classes of parliamentary membership. All MPs have equal parliamentary status, regardless of their method of election.
 
@@ -73,7 +71,9 @@ The remaining parliamentary seats are allocated through countywide party lists.
 
 Parties receive seats according to their share of the qualifying party-list vote, calculated using the D'Hondt method.
 
-An electoral threshold of 5% applies to party-list representation.
+A party qualifies for the county list allocations if its county lists together receive at least 5% of valid list votes nationwide. A registered Regional Party may also qualify by receiving at least 5% of the combined valid list votes cast in the counties where it fields a list. Regional Party registration is open to parties representing a region or a linguistic or ethnic community in a defined area.
+
+Once eligibility is established, seats are allocated separately in each county. The threshold applies only to list representation. Every candidate who wins a sub-constituency takes their direct seat.
 
 Because Agacta's system is compensatory, the number of directly elected MPs belonging to each party is taken into account when determining how many additional MPs that party receives from its list.
 
@@ -132,6 +132,8 @@ The adjustment operates as follows:
 5. D'Hondt is recalculated using the reduced number of proportional seats.
 6. The calculation continues until the proportional allocation, together with any additional protected direct mandates, equals the county's prescribed parliamentary seat allocation.
 
+Direct seats won by independents or by parties that fall below the applicable list threshold still count towards the county’s fixed total.
+
 The procedure also accommodates situations in which more than one party simultaneously holds excess direct mandates.
 
 At no stage are successful directly elected MPs removed from Parliament to restore proportionality.
@@ -144,7 +146,7 @@ Consider a county entitled to 12 parliamentary seats.
 
 Six MPs are elected directly, while the remaining seats are initially available through the compensatory list system.
 
-The countywide party-list votes are:
+Assume all five parties have qualified for list representation. The countywide list votes are:
 
 | Party | Votes |
 |---|---:|
@@ -222,45 +224,11 @@ The priorities of the system are:
 
 # Party Lists and Candidate Selection
 
-## Semi-Open Party Lists
+## Closed County Lists
 
-Agacta currently operates a semi-open party-list system.
+Each list publishes its candidates in a fixed order before polling day. Voters choose one list on the county ballot. Each list must contain at least one more candidate than the number of list seats available in the county. In a county with six list seats, every list must therefore name at least seven candidates.
 
-Political parties establish an initial ordering of their candidates, but voters may influence which candidates ultimately receive the party's allocated parliamentary seats.
-
-Voters may cast their party-list vote for a political party as a whole or express a preference for an individual candidate appearing on that party's county list.
-
-A personal vote for a candidate also counts towards the total vote received by that candidate's party.
-
-Consequently, personal voting preferences influence the selection of individual MPs without changing the number of votes attributed to the party for proportional representation.
-
-### The Twelve-Percent Rule
-
-
-A candidate receiving more than 12% of their party's total countywide vote may move ahead of candidates placed above them in the original party-list ordering.
-
-Where multiple candidates exceed the 12% threshold, they are ranked according to the number of personal votes received, from highest to lowest.
-
-Candidates who do not reach this threshold remain subject to the party's established list order.
-
-For example, suppose the Liberal Party receives 100,000 countywide votes.
-
-A candidate placed sixth on its list receives 15,000 personal votes.
-
-That candidate has received 15% of the party's total vote and therefore exceeds the 12% threshold.
-
-The candidate can move ahead of other candidates in the party's original list ordering, potentially securing a parliamentary seat ahead of someone originally ranked higher.
-
-If several candidates exceed the threshold, the candidate receiving the most personal votes is placed highest among them, followed by the candidate receiving the second-highest number, and so on.
-
-The rule allows voters to exert a meaningful influence over candidate selection while retaining an established party list as the starting point.
-
-It is distinct from a fully open-list system in which candidates are simply ranked according to their personal vote totals.
-
-The 12% candidate-preference threshold is separate from the 5% electoral threshold used for proportional representation.
-
-
-
+After the direct results are known, list seats are filled in the published order, skipping candidates who have already won a sub-constituency. If the first two candidates win directly and the third does not, the third candidate receives the first list seat the list wins.
 
 ## Candidates Contesting Both Components
 
@@ -280,91 +248,19 @@ A prominent politician can therefore lose their direct election and fail to ente
 
 Such unexpected defeats are sometimes compared to the political phenomenon known as a "Portillo moment".
 
-## Party Primaries
+## Publication of List Order
 
-Political parties use internal selection procedures to determine their initial candidate-list orderings.
-
-Since 2005, the Single Transferable Vote (STV) has been the standard method used for internal party primaries.
-
-STV allows party members to rank candidates in order of preference.
-
-The resulting selection process establishes the initial ordering of candidates before the parliamentary election.
-
-Political parties are also required to provide accessible written explanations of their candidate-list ordering.
-
-Although parties are not prohibited from placing prominent or popular candidates unusually low on their lists, such decisions may attract political criticism.
-
-Voters retain the opportunity to elevate individual candidates through the semi-open list system.
-
----
-
-# Historical Development of Party Lists
-
-## Closed Party Lists
-
-Before 1989, Agacta used closed party lists.
-
-Under this system, political parties established the order in which their candidates would receive parliamentary seats.
-
-Voters could support a party list but could not directly alter the ordering of its candidates.
-
-The selection of list MPs was therefore largely controlled by party organisations.
-
-## Introduction of Open Lists in 1989
-
-Fully open party lists were introduced for the 1989 parliamentary election.
-
-The new system allowed voters greater influence over which candidates received parliamentary seats.
-
-It was also used in the 1993 election.
-
-However, the reforms produced numerous unexpected outcomes.
-
-Prominent and established politicians sometimes lost parliamentary seats after voters elevated candidates who had originally been placed lower on their party lists.
-
-The number of unexpected defeats became a subject of political controversy.
-
-## Reforms Beginning in 1997
-
-The 1997 parliamentary election marked the introduction of Agacta's semi-open party-list system, replacing the fully open lists used in 1989 and 1993. Under the new system, parties retained an initial ordering of candidates, while voters could elevate candidates who received more than 12% of their party's countywide vote.
-
-Following the experiences of the 1989 and 1993 elections, Agacta introduced party primaries in 1997 to give party members a greater role in establishing candidate lists.
-
-Initially, political parties were permitted to choose their own methods for conducting primaries.
-
-This produced differences in candidate-selection procedures between parties.
-
-The reforms formed part of the development of the current electoral framework, which seeks to balance party selection procedures with voter influence.
-
-## Standardisation of STV in 2005
-
-In 2005, STV became the standard method for internal party primaries.
-
-Party members could rank candidates in order of preference, providing a structured means of determining their party's initial candidate-list ordering.
-
-The modern semi-open party-list system combines these internal selection procedures with the ability of general-election voters to elevate candidates who receive substantial individual support.
+Political parties are required to provide accessible written explanations of their candidate-list ordering. The placement of a prominent or popular candidate unusually low on a list may attract political criticism.
 
 ---
 
 # Independent Candidates
 
-Independent candidates are permitted to participate in parliamentary elections.
+An independent candidate may stand alone in a single-member sub-constituency. An independent who wins the most votes takes the seat without having to submit a county list or meet a list-vote threshold.
 
-They may contest individual sub-constituencies using first-past-the-post voting.
+Independents may also contest the county list ballot by submitting a list that meets the same minimum candidate requirement as any other list. This route is seldom attempted because an independent list must receive at least 5% of valid list votes nationwide to qualify for the allocation of seats in the county.
 
-Independents may also establish their own electoral lists for the proportional component.
-
-An independent candidate may submit a list containing only their own name.
-
-However, independent parliamentary representation is relatively uncommon.
-
-Candidates standing without an established political party generally face substantial obstacles under both components of the system.
-
-In direct elections, they must receive more votes than every other candidate in their sub-constituency.
-
-Under the proportional component, they must obtain sufficient countywide support to qualify for representation.
-
-The 5% electoral threshold can create an additional difficulty for independent lists.
+Independent parliamentary representation is uncommon in Agacta.
 
 ---
 
@@ -410,9 +306,7 @@ The by-election allows voters in that sub-constituency to choose a replacement r
 
 ## List-Elected MPs
 
-When a list-elected MP leaves Parliament, the vacancy is filled by the next eligible candidate on the relevant party list.
-
-A new countywide election is not required.
+When a list-elected MP leaves Parliament, the next eligible candidate on the same county list fills the vacancy.
 
 This distinction preserves the principle of direct electoral mandates while maintaining continuity in party-list representation.
 
@@ -423,6 +317,8 @@ This distinction preserves the principle of direct electoral mandates while main
 ## Formation of Governments
 
 Following a parliamentary election, the President of Agacta invites the person considered most likely to form a viable government to do so.
+
+On taking office, the President pledges to set aside personal political preferences and nominate the person they judge most likely to form a stable government in the national interest.
 
 This is not necessarily the leader of the party which won the greatest number of parliamentary seats.
 
@@ -454,15 +350,17 @@ A government may remain in office without holding an outright parliamentary majo
 
 The parliamentary system therefore allows governments to be formed through coalition agreements, confidence arrangements or other forms of parliamentary cooperation.
 
-## Early Parliamentary Elections
+## Provisional General Elections
 
-Although the Constitution permits early parliamentary elections, none have occurred since the establishment of the modern republic.
+When a government falls during a parliamentary term, the President first invites the outgoing Prime Minister to form a government. If that attempt fails, the Leader of the Opposition is invited, followed by other parliamentary party leaders in turn.
 
-When a government loses the confidence of Parliament, the established political practice is to seek an alternative administration within the existing legislature.
+If those attempts fail, the President appoints a technocrat from outside Parliament as provisional Prime Minister. The provisional cabinet may include both technocrats and MPs. Its immediate task is to secure the support of at least 121 MPs for a compromise budget.
 
-The President plays an important role in facilitating negotiations between political parties.
+If at least 121 MPs agree on a programme of government, the leader they support informs the provisional Prime Minister. The provisional Prime Minister tenders their resignation and asks the President to invite that leader to form a government. The provisional phase ends when Parliament votes the incoming Prime Minister into office.
 
-Consequently, Agacta has maintained an uninterrupted four-year parliamentary electoral cycle since 1953.
+If the provisional Prime Minister cannot secure support for a budget, a provisional general election is held. The newly elected Parliament serves until the next scheduled general election. Once a government commanding a parliamentary majority takes office, it is an ordinary government for the remainder of the term.
+
+No provisional general election has been held under the modern constitutional system. The regular four-year parliamentary electoral cycle has continued uninterrupted since 1953.
 
 ---
 
@@ -594,7 +492,7 @@ Its single-member sub-constituencies ensure that voters can elect individual rep
 
 Its compensatory party lists allow political parties to receive parliamentary representation beyond the sub-constituencies they win.
 
-The semi-open list system gives voters an additional means of influencing which candidates enter Parliament.
+Voters choose an individual candidate in their sub-constituency and a published county list for the proportional component.
 
 However, the system does not seek to guarantee complete mathematical proportionality.
 

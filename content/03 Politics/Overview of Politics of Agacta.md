@@ -148,11 +148,11 @@ Once the direct results are known, list seats are filled in order, skipping cand
 
 An independent candidate may stand alone in a single-member sub-constituency. An independent who wins the most votes takes the seat without having to submit a county list or meet a list-vote threshold.
 
-Independents may also contest the county list ballot by submitting a list that meets the same minimum candidate requirement as any other list.
+Independents may also contest the county list ballot by submitting a list that meets the same minimum candidate requirement as any other list. This route is seldom attempted because an independent list must receive at least 5% of the valid list votes cast nationwide to qualify for the allocation of seats in the county.
 
 Independent parliamentary representation is uncommon in Agacta.
 
-Candidates without established party organisations generally face the challenge of either winning a first-past-the-post sub-constituency.
+Candidates without established party organisations generally face the challenge of winning a first-past-the-post sub-constituency.
 
 ## Parliamentary Vacancies
 
